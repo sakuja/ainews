@@ -1,0 +1,452 @@
+{
+  "id": "20260912-d0decd",
+  "createdAt": "2026-09-13T09:47:55.500Z",
+  "news": {
+    "title": "無料のオープンソースAIエージェント「goose」、デスクトップアプリ・CLI・APIなどコード・ワークフロー・その他あらゆる用途に対応",
+    "url": "https://gigazine.net/news/20260912-goose/",
+    "summary": "AIエージェントを使い始めると、用途や料金に応じてOpenAI・Claude・Google Gemini・ローカルLLMなどを使い分けたいケースがあります。そこで複数のAIプロバイダーを自由に切り替えながら、デスクトップアプリ・CLI・APIなどからMCPによるツール連携や自動化まで1つの環境で利用できるオープンソースのAIエージェント「goose」が公開されています。 続きを読む...",
+    "source": "GIGAZINE",
+    "publishedAt": "2026-09-12T09:00:00.000Z"
+  },
+  "thread_title": "【朗報】無料オープンソースAIエージェント「goose」公開 デスクトップ・CLI・API全部入りでLLMも自由に切り替え可能",
+  "matome_title": "【朗報】無料AIエージェント「goose」爆誕、OpenAIもClaudeもGeminiもローカルも全部つなげる模様",
+  "category": "朗報",
+  "tags": [
+    "goose",
+    "AIエージェント",
+    "オープンソース",
+    "MCP"
+  ],
+  "intro": "また新しいAIエージェントが出たぞ、と思ったら今度は無料でオープンソース。しかもプロバイダー切り替え自由とのことで、住民のサブスク疲れが爆発しました。",
+  "posts": [
+    {
+      "no": 1,
+      "poster": "OP",
+      "body": "オープンソースのAIエージェント「goose」が公開\n\n・デスクトップアプリ / CLI / API に対応\n・OpenAI、Claude、Gemini、ローカルLLMなど複数プロバイダーを切り替え可能\n・MCPでツール連携や自動化もいける\n・無料、オープンソース\n\nソース: GIGAZINE\n\nワイのサブスク地獄、終わるんか？",
+      "highlight": "none"
+    },
+    {
+      "no": 2,
+      "poster": "A",
+      "body": "ガチョウか",
+      "highlight": "none"
+    },
+    {
+      "no": 3,
+      "poster": "B",
+      "body": ">>2 gooseはガチョウやけどgoose stepは行進やぞ",
+      "highlight": "none"
+    },
+    {
+      "no": 4,
+      "poster": "C",
+      "body": "また名前が一文字小文字で始まるやつか\n最近こういうの多すぎやろ",
+      "highlight": "none"
+    },
+    {
+      "no": 5,
+      "poster": "D",
+      "body": "無料は正義",
+      "highlight": "none"
+    },
+    {
+      "no": 6,
+      "poster": "E",
+      "body": ">>1 無料言うてもAPI代は自分持ちやろ？",
+      "highlight": "none"
+    },
+    {
+      "no": 7,
+      "poster": "OP",
+      "body": ">>6 そらそうよ\nエージェント本体がタダってだけで、モデルは自分で用意する系や",
+      "highlight": "none"
+    },
+    {
+      "no": 8,
+      "poster": "F",
+      "body": "つまり本体無料、弾は有料\nプリンター商法ならぬLLM商法",
+      "highlight": "red"
+    },
+    {
+      "no": 9,
+      "poster": "G",
+      "body": ">>8 いや弾も自分で買ってくるからむしろ良心的やろ",
+      "highlight": "none"
+    },
+    {
+      "no": 10,
+      "poster": "H",
+      "body": "ローカルLLM対応が一番でかい\nオフラインで回せるならコストゼロや",
+      "highlight": "none"
+    },
+    {
+      "no": 11,
+      "poster": "I",
+      "body": ">>10 ローカルで実用速度出るマシン持っとる奴が何人おるんや",
+      "highlight": "none"
+    },
+    {
+      "no": 12,
+      "poster": "H",
+      "body": ">>11 ワイのRTX、ファン全開で頑張っとるぞ",
+      "highlight": "none"
+    },
+    {
+      "no": 13,
+      "poster": "J",
+      "body": "MCP対応ってのがポイントやな\n今年に入って一気に標準化された感ある",
+      "highlight": "none"
+    },
+    {
+      "no": 14,
+      "poster": "K",
+      "body": "MCPって結局なんなん\n毎回説明読んでも3日で忘れる",
+      "highlight": "none"
+    },
+    {
+      "no": 15,
+      "poster": "J",
+      "body": ">>14 AIに「外部ツールの使い方」を教える共通規格やと思っとけばええ\nUSB-Cみたいなもん",
+      "highlight": "blue"
+    },
+    {
+      "no": 16,
+      "poster": "K",
+      "body": ">>15 なるほどわからん\nでも規格統一は正義なのは分かった",
+      "highlight": "none"
+    },
+    {
+      "no": 17,
+      "poster": "L",
+      "body": "デスクトップアプリとCLI両方あるの偉い\nCLIしかないやつは結局使わなくなる",
+      "highlight": "none"
+    },
+    {
+      "no": 18,
+      "poster": "M",
+      "body": ">>17 逆にGUIしかないやつは自動化できなくてキレる",
+      "highlight": "none"
+    },
+    {
+      "no": 19,
+      "poster": "N",
+      "body": "プロバイダー切り替えってどれくらい楽なんや\n設定ファイル書き換え地獄ちゃうやろな",
+      "highlight": "none"
+    },
+    {
+      "no": 20,
+      "poster": "OP",
+      "body": ">>19 そこは触ってみんとわからんな\n記事の触れ込みでは1つの環境で使い分けられるらしい",
+      "highlight": "none"
+    },
+    {
+      "no": 21,
+      "poster": "O",
+      "body": "またワイの仕事が減るやんけ",
+      "highlight": "none"
+    },
+    {
+      "no": 22,
+      "poster": "P",
+      "body": ">>21 お前の仕事なに",
+      "highlight": "none"
+    },
+    {
+      "no": 23,
+      "poster": "O",
+      "body": ">>22 AIエージェントの比較記事書く仕事",
+      "highlight": "big"
+    },
+    {
+      "no": 24,
+      "poster": "P",
+      "body": ">>23 むしろ増えとるやんけ",
+      "highlight": "none"
+    },
+    {
+      "no": 25,
+      "poster": "Q",
+      "body": "草",
+      "highlight": "none"
+    },
+    {
+      "no": 27,
+      "poster": "R",
+      "body": "正直この手のエージェント、最初の30分は感動してその後放置する",
+      "highlight": "none"
+    },
+    {
+      "no": 28,
+      "poster": "S",
+      "body": ">>27 ワイのDockerイメージ墓場と同じや",
+      "highlight": "none"
+    },
+    {
+      "no": 30,
+      "poster": "T",
+      "body": "オープンソースってのが効いてくるのは2年後やぞ\nクローズドのやつがいきなり値上げしたときに乗り換え先があるかどうか",
+      "highlight": "blue"
+    },
+    {
+      "no": 31,
+      "poster": "C",
+      "body": ">>30 これはマジでそう\n囲い込みされてから逃げ道探しても遅い",
+      "highlight": "none"
+    },
+    {
+      "no": 33,
+      "poster": "U",
+      "body": "懐疑派ワイ、参上\nこういう「あらゆる用途に対応」って書いてあるやつ、だいたい何にも特化してない",
+      "highlight": "none"
+    },
+    {
+      "no": 34,
+      "poster": "V",
+      "body": ">>33 一理ある\n万能ツールは万能に器用貧乏",
+      "highlight": "none"
+    },
+    {
+      "no": 35,
+      "poster": "J",
+      "body": ">>33 でもエージェントの本体って結局ループとツール呼び出しやから、汎用でええねん\n差が出るのはMCPサーバーの品揃えとモデルの賢さ",
+      "highlight": "blue"
+    },
+    {
+      "no": 36,
+      "poster": "U",
+      "body": ">>35 それ言われると弱い",
+      "highlight": "none"
+    },
+    {
+      "no": 38,
+      "poster": "W",
+      "body": "ファイル勝手に書き換えられるの怖いんやけど承認とかあるんか",
+      "highlight": "none"
+    },
+    {
+      "no": 39,
+      "poster": "X",
+      "body": ">>38 この手のは大抵確認モードあるはずやけど、初手はサンドボックスかgit管理下でやるのが鉄則",
+      "highlight": "red"
+    },
+    {
+      "no": 40,
+      "poster": "W",
+      "body": ">>39 ありがとナス\nコミットしてから試すわ",
+      "highlight": "none"
+    },
+    {
+      "no": 42,
+      "poster": "Y",
+      "body": "ワイ将、既にエージェント5個入れてて何がどれか分からん",
+      "highlight": "none"
+    },
+    {
+      "no": 43,
+      "poster": "Z",
+      "body": ">>42 エージェントを管理するエージェントが必要やな",
+      "highlight": "none"
+    },
+    {
+      "no": 44,
+      "poster": "Y",
+      "body": ">>43 そしてそれを管理するエージェントが……",
+      "highlight": "none"
+    },
+    {
+      "no": 45,
+      "poster": "Q",
+      "body": "　　∧__∧\n　（　´・ω・）　＜ 無限に増えるンゴ\n　 /　　　 ＼\n（（⊂　）　 ノ＼つ))",
+      "highlight": "none"
+    },
+    {
+      "no": 48,
+      "poster": "AA",
+      "body": "非エンジニアのワイでも使えるんか？",
+      "highlight": "none"
+    },
+    {
+      "no": 49,
+      "poster": "L",
+      "body": ">>48 デスクトップアプリあるなら入口は広いはずや\nただ設定でAPIキー入れる作業はどうしても出てくる",
+      "highlight": "none"
+    },
+    {
+      "no": 50,
+      "poster": "AA",
+      "body": ">>49 APIキーって聞くと急に難易度上がる気がするわ",
+      "highlight": "none"
+    },
+    {
+      "no": 51,
+      "poster": "M",
+      "body": ">>50 コピペするだけやから大丈夫\nただし絶対どこにも貼るなよ、スクショにも写すな",
+      "highlight": "red"
+    },
+    {
+      "no": 53,
+      "poster": "AB",
+      "body": "ソース出せ",
+      "highlight": "none"
+    },
+    {
+      "no": 54,
+      "poster": "OP",
+      "body": ">>53 >>1にGIGAZINEって書いてあるやろ",
+      "highlight": "none"
+    },
+    {
+      "no": 55,
+      "poster": "AB",
+      "body": ">>54 すまん見えてなかった",
+      "highlight": "none"
+    },
+    {
+      "no": 58,
+      "poster": "T",
+      "body": "料金と用途でモデル使い分けたいって需要、めっちゃ分かる\n雑用は安いモデル、詰まったら高いモデル、みたいなの手動でやっとるわ",
+      "highlight": "none"
+    },
+    {
+      "no": 59,
+      "poster": "H",
+      "body": ">>58 それ自動でやってくれたら神なんやけどな",
+      "highlight": "none"
+    },
+    {
+      "no": 62,
+      "poster": "AC",
+      "body": "結局のところ、ツールが揃ってきたってことは差がつくのは使い手の設計力よな",
+      "highlight": "blue"
+    },
+    {
+      "no": 63,
+      "poster": "U",
+      "body": ">>62 急に真面目なこと言うのやめろ刺さる",
+      "highlight": "none"
+    },
+    {
+      "no": 66,
+      "poster": "D",
+      "body": "とりあえず入れてみたわ",
+      "highlight": "none"
+    },
+    {
+      "no": 67,
+      "poster": "E",
+      "body": ">>66 早いな　どうや",
+      "highlight": "none"
+    },
+    {
+      "no": 68,
+      "poster": "D",
+      "body": ">>67 モデル選ぶ画面でどれ選ぶか30分悩んでる",
+      "highlight": "big"
+    },
+    {
+      "no": 69,
+      "poster": "P",
+      "body": ">>68 一番時間食う工程で草",
+      "highlight": "none"
+    },
+    {
+      "no": 71,
+      "poster": "R",
+      "body": ">>68 分かる\n結局いつものやつ選ぶんやろ",
+      "highlight": "none"
+    },
+    {
+      "no": 72,
+      "poster": "D",
+      "body": ">>71 いつものやつ選んだ",
+      "highlight": "none"
+    },
+    {
+      "no": 74,
+      "poster": "Z",
+      "body": "切り替え自由って言われると逆に切り替えなくなる現象に名前つけたい",
+      "highlight": "none"
+    },
+    {
+      "no": 75,
+      "poster": "J",
+      "body": ">>74 選択肢過多のパラドックスやな",
+      "highlight": "none"
+    },
+    {
+      "no": 78,
+      "poster": "AC",
+      "body": "まぁでも無料でこれ触れるのはええ時代や\n数年前なら有料SaaSで月何十ドルやぞ",
+      "highlight": "none"
+    },
+    {
+      "no": 80,
+      "poster": "O",
+      "body": "ワイもう記事書く仕事やめてgooseの記事書くわ",
+      "highlight": "none"
+    },
+    {
+      "no": 81,
+      "poster": "P",
+      "body": ">>80 結局書くんかい",
+      "highlight": "none"
+    },
+    {
+      "no": 83,
+      "poster": "AD",
+      "body": "ガチョウに仕事させる時代",
+      "highlight": "none"
+    },
+    {
+      "no": 85,
+      "poster": "B",
+      "body": ">>83 金の卵産ませるまでが本番やぞ",
+      "highlight": "none"
+    },
+    {
+      "no": 88,
+      "poster": "OP",
+      "body": "ワイ結論\n・エージェント本体はコモディティ化してきた\n・乗り換え可能性を確保できるOSSは持っとくべき\n・でも結局モデル選びで30分溶かす\n以上や",
+      "highlight": "red"
+    },
+    {
+      "no": 90,
+      "poster": "Q",
+      "body": ">>88 3つ目だけ妙にリアルで草",
+      "highlight": "none"
+    }
+  ],
+  "admin_comment": "エージェント本体が無料・OSSで乗り換え自由というのは、長い目で見るとかなりデカい話だと思います。とりあえず皆さん、モデル選択画面で溶かす30分だけは自動化できないみたいです。",
+  "meta": {
+    "model": "claude-opus-5",
+    "usage": {
+      "input_tokens": 2646,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 0,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "iterations": [
+        {
+          "input_tokens": 2646,
+          "output_tokens": 3942,
+          "cache_read_input_tokens": 0,
+          "cache_creation_input_tokens": 0,
+          "cache_creation": {
+            "ephemeral_5m_input_tokens": 0,
+            "ephemeral_1h_input_tokens": 0
+          },
+          "type": "message",
+          "model": null
+        }
+      ],
+      "output_tokens": 3942,
+      "output_tokens_details": {
+        "thinking_tokens": 0
+      },
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  }
+}

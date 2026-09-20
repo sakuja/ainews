@@ -1,0 +1,440 @@
+{
+  "id": "20260913-3a193e",
+  "createdAt": "2026-09-13T09:32:47.616Z",
+  "news": {
+    "title": "「AIコーディングより人を雇う方が安い」時代が来る？ 生成AIの予算超過を防ぐトークン浪費対策の全て",
+    "url": "https://atmarkit.itmedia.co.jp/ait/articles/2609/13/news005.html",
+    "summary": "生成AIやAIエージェントの活用が広がる一方、トークン課金による想定外のコスト増が企業を悩ませています。なぜ浪費が起こるのか、その原因と、現場で取り組める対策を5本の記事から探ります。",
+    "source": "ITmedia AI＋",
+    "publishedAt": "2026-09-12T23:00:00.000Z"
+  },
+  "thread_title": "【悲報】「AIコーディングより人を雇う方が安い」時代、来るか？",
+  "matome_title": "【悲報】AIエージェント、トークン食いすぎて人件費超え？「人を雇った方が安い」に現場がざわつく",
+  "category": "議論",
+  "tags": [
+    "生成AI",
+    "トークン課金",
+    "AIエージェント",
+    "コスト削減"
+  ],
+  "intro": "生成AIの請求書を見て青ざめる現場が増えているとか。「人を雇う方が安い」の一言に反応した住人たちの阿鼻叫喚をまとめました。",
+  "posts": [
+    {
+      "no": 1,
+      "poster": "OP",
+      "body": "ITmedia AI＋より\n\n生成AIやAIエージェントの活用が広がる一方、トークン課金による想定外のコスト増が企業を悩ませてるらしい\n「AIコーディングより人を雇う方が安い」時代が来る？ とのこと\n原因と対策を5本の記事から探る、という内容\n\nワイの財布もトークンで死んでるんやが",
+      "highlight": "none"
+    },
+    {
+      "no": 2,
+      "poster": "A",
+      "body": "帰ってきたぞ人間",
+      "highlight": "none"
+    },
+    {
+      "no": 3,
+      "poster": "B",
+      "body": ">>2 はよ",
+      "highlight": "none"
+    },
+    {
+      "no": 4,
+      "poster": "C",
+      "body": "いや待て、人間にも無限にトークン食わせてるようなもんやろ\n会議とかいうコンテキスト浪費",
+      "highlight": "red"
+    },
+    {
+      "no": 5,
+      "poster": "D",
+      "body": ">>4 会議はガチで人間版トークン浪費で草",
+      "highlight": "none"
+    },
+    {
+      "no": 6,
+      "poster": "E",
+      "body": "ワイの現場、先月の請求書が予算の3倍来てチームが静かになった",
+      "highlight": "none"
+    },
+    {
+      "no": 7,
+      "poster": "A",
+      "body": ">>6 なにしたらそうなるんや",
+      "highlight": "none"
+    },
+    {
+      "no": 8,
+      "poster": "E",
+      "body": ">>7 エージェントにリポジトリ全部読ませてループさせた\n自動でリトライする設定にしてたのが致命傷",
+      "highlight": "red"
+    },
+    {
+      "no": 9,
+      "poster": "F",
+      "body": ">>8 それ自爆スイッチやんけ",
+      "highlight": "none"
+    },
+    {
+      "no": 10,
+      "poster": "G",
+      "body": "リトライ無限ループはマジで見た\n失敗→もう一回考える→また全文読む→失敗　の三重苦",
+      "highlight": "none"
+    },
+    {
+      "no": 11,
+      "poster": "B",
+      "body": "結局コンテキストに何入れるかの設計やろ\n全部投げるのは思考停止",
+      "highlight": "none"
+    },
+    {
+      "no": 12,
+      "poster": "H",
+      "body": "ソース出せ",
+      "highlight": "none"
+    },
+    {
+      "no": 13,
+      "poster": "OP",
+      "body": ">>12 ITmedia AI＋の記事や、5本まとめた特集\n断定はされてないけど「人を雇う方が安い」時代が来るのでは？って問いかけの形やで",
+      "highlight": "none"
+    },
+    {
+      "no": 14,
+      "poster": "I",
+      "body": "ワイ、AIに仕事奪われると思ってビクビクしてたのに\n味方が財布とは思わんかった",
+      "highlight": "blue"
+    },
+    {
+      "no": 15,
+      "poster": "C",
+      "body": ">>14 財布が最後の砦",
+      "highlight": "none"
+    },
+    {
+      "no": 16,
+      "poster": "J",
+      "body": "でもこれ結局モデルが安くなったら終わる話やない？",
+      "highlight": "none"
+    },
+    {
+      "no": 17,
+      "poster": "B",
+      "body": ">>16 それはある\n毎回「今のうちだけ」って言われ続けてる",
+      "highlight": "none"
+    },
+    {
+      "no": 18,
+      "poster": "G",
+      "body": ">>16 安くなった分、投げる量が増えるから請求は減らない\n道路作ったら車増えるやつと同じ",
+      "highlight": "red"
+    },
+    {
+      "no": 19,
+      "poster": "D",
+      "body": ">>18 誘発需要で草　うますぎる",
+      "highlight": "none"
+    },
+    {
+      "no": 20,
+      "poster": "K",
+      "body": "対策としてよく言われるのこの辺やろ\n・でかいモデルと小さいモデルを使い分ける\n・プロンプト/コンテキストを削る\n・キャッシュ効かせる\n・ループ回数に上限つける\n・使用量のダッシュボード出して可視化\n地味なのばっかで誰もやりたがらん",
+      "highlight": "blue"
+    },
+    {
+      "no": 21,
+      "poster": "A",
+      "body": ">>20 最後の行が全て",
+      "highlight": "none"
+    },
+    {
+      "no": 22,
+      "poster": "L",
+      "body": "可視化するとみんな急に大人しくなるの面白い\n電気代と一緒",
+      "highlight": "none"
+    },
+    {
+      "no": 23,
+      "poster": "E",
+      "body": ">>22 うちも部署ごとに使用量出したら翌週半減したわ",
+      "highlight": "none"
+    },
+    {
+      "no": 24,
+      "poster": "M",
+      "body": "ワイ非エンジニア、トークンって何食べ物",
+      "highlight": "none"
+    },
+    {
+      "no": 25,
+      "poster": "F",
+      "body": ">>24 文字みたいなもん\n入れた分と出た分で課金される、タクシーのメーター",
+      "highlight": "none"
+    },
+    {
+      "no": 26,
+      "poster": "M",
+      "body": ">>25 わかりやすい\nつまり遠回りされると高くなるんか",
+      "highlight": "none"
+    },
+    {
+      "no": 27,
+      "poster": "G",
+      "body": ">>26 しかもAIくんは道に迷っても黙って走り続ける",
+      "highlight": "red"
+    },
+    {
+      "no": 28,
+      "poster": "M",
+      "body": ">>27 こわい",
+      "highlight": "none"
+    },
+    {
+      "no": 31,
+      "poster": "N",
+      "body": "でも人間雇うと採用コスト・教育・社会保険・離職リスク全部乗るからな\n単純な時間単価比較は罠やろ",
+      "highlight": "none"
+    },
+    {
+      "no": 32,
+      "poster": "B",
+      "body": ">>31 それな\n逆にAIは辞めないし機嫌も悪くならない",
+      "highlight": "none"
+    },
+    {
+      "no": 33,
+      "poster": "D",
+      "body": ">>32 たまに機嫌悪いやろ　急にやる気なくなるときある",
+      "highlight": "none"
+    },
+    {
+      "no": 34,
+      "poster": "A",
+      "body": ">>33 それは君のプロンプトや",
+      "highlight": "none"
+    },
+    {
+      "no": 36,
+      "poster": "O",
+      "body": "うちの若手がエージェントに丸投げして、出てきたコードのレビューに人間が3時間かけてた\nこれ何のコスト削減なんや",
+      "highlight": "blue"
+    },
+    {
+      "no": 37,
+      "poster": "C",
+      "body": ">>36 コスト移動しただけで草",
+      "highlight": "none"
+    },
+    {
+      "no": 38,
+      "poster": "K",
+      "body": ">>36 レビューコストは請求書に載らんから経営層には見えない、これが一番厄介",
+      "highlight": "red"
+    },
+    {
+      "no": 41,
+      "poster": "P",
+      "body": "ワイの結論\nAIは「上手い人が使うと激安、下手な人が使うと激高」\n道具は全部そうやが振れ幅がデカすぎる",
+      "highlight": "blue"
+    },
+    {
+      "no": 42,
+      "poster": "J",
+      "body": ">>41 これ\n結局使いこなす人間が要るから人は消えん",
+      "highlight": "none"
+    },
+    {
+      "no": 45,
+      "poster": "Q",
+      "body": "　　∧＿∧\n　（　´・ω・）　＜ 請求書、見るか？\n　（つ　　と）\n　　しーＪ",
+      "highlight": "none"
+    },
+    {
+      "no": 46,
+      "poster": "E",
+      "body": ">>45 やめろ",
+      "highlight": "none"
+    },
+    {
+      "no": 48,
+      "poster": "H",
+      "body": "つーか上限設定できるんやからやれよで終わる話では",
+      "highlight": "none"
+    },
+    {
+      "no": 49,
+      "poster": "G",
+      "body": ">>48 上限つけると本番で止まるからつけたがらないんや\n止めるのが怖い→無限に使う→請求爆発　の黄金ルート",
+      "highlight": "none"
+    },
+    {
+      "no": 50,
+      "poster": "H",
+      "body": ">>49 地獄で草",
+      "highlight": "none"
+    },
+    {
+      "no": 53,
+      "poster": "R",
+      "body": "小さいモデルで前処理して、本当に難しいとこだけでかいモデルに投げる\nこれやるだけで7割くらい落ちた　ガチ",
+      "highlight": "blue"
+    },
+    {
+      "no": 54,
+      "poster": "B",
+      "body": ">>53 ルーティングやな\n地味だけど一番効く",
+      "highlight": "none"
+    },
+    {
+      "no": 55,
+      "poster": "D",
+      "body": ">>53 7割は盛ってない？",
+      "highlight": "none"
+    },
+    {
+      "no": 56,
+      "poster": "R",
+      "body": ">>55 元がひどかっただけや\n全部フルコンテキストで投げてたので",
+      "highlight": "none"
+    },
+    {
+      "no": 57,
+      "poster": "D",
+      "body": ">>56 納得した",
+      "highlight": "none"
+    },
+    {
+      "no": 62,
+      "poster": "I",
+      "body": "「人を雇った方が安い」って言われて喜んでたけど\nよく考えたら安い方で雇われるってことやんけ",
+      "highlight": "red"
+    },
+    {
+      "no": 63,
+      "poster": "A",
+      "body": ">>62 気づいてしまったか",
+      "highlight": "none"
+    },
+    {
+      "no": 64,
+      "poster": "C",
+      "body": ">>62 君はトークン効率のいい人材や、誇れ",
+      "highlight": "none"
+    },
+    {
+      "no": 65,
+      "poster": "I",
+      "body": ">>64 キャッシュも効くで",
+      "highlight": "none"
+    },
+    {
+      "no": 66,
+      "poster": "F",
+      "body": ">>65 同じ質問には同じ答えしか返さんタイプやん",
+      "highlight": "none"
+    },
+    {
+      "no": 70,
+      "poster": "K",
+      "body": "真面目にまとめると\n・浪費の原因はだいたい設計とルール不在\n・可視化と上限と使い分けで大半は減る\n・でも減らす作業をする人間が要る\n結局「人 vs AI」じゃなくて「ちゃんと設計するかしないか」なんよな",
+      "highlight": "blue"
+    },
+    {
+      "no": 71,
+      "poster": "OP",
+      "body": ">>70 きれいにまとまってて草\nスレ立てた意味あったわ",
+      "highlight": "none"
+    },
+    {
+      "no": 78,
+      "poster": "S",
+      "body": "ワイの会社、コスト削減のためにトークン削減プロジェクト発足したで",
+      "highlight": "none"
+    },
+    {
+      "no": 79,
+      "poster": "A",
+      "body": ">>78 ええやん",
+      "highlight": "none"
+    },
+    {
+      "no": 80,
+      "poster": "S",
+      "body": ">>79 で、その分析をAIにやらせてる",
+      "highlight": "big"
+    },
+    {
+      "no": 81,
+      "poster": "G",
+      "body": ">>80 ファッ！？",
+      "highlight": "none"
+    },
+    {
+      "no": 82,
+      "poster": "C",
+      "body": ">>80 蛇が自分の尻尾食っとる",
+      "highlight": "none"
+    },
+    {
+      "no": 83,
+      "poster": "D",
+      "body": ">>80 分析コストが削減額超えてそう",
+      "highlight": "none"
+    },
+    {
+      "no": 84,
+      "poster": "S",
+      "body": ">>83 超えてた",
+      "highlight": "red"
+    },
+    {
+      "no": 85,
+      "poster": "B",
+      "body": ">>84 完璧なオチで草",
+      "highlight": "none"
+    },
+    {
+      "no": 86,
+      "poster": "M",
+      "body": "非エンジニアやけど今日で全部理解した\nタクシーは目的地を決めてから乗れ",
+      "highlight": "blue"
+    },
+    {
+      "no": 87,
+      "poster": "OP",
+      "body": ">>86 今日一の名言\nこのスレ終わってええな",
+      "highlight": "none"
+    }
+  ],
+  "admin_comment": "「人 vs AI」ではなく「設計するかしないか」、耳が痛い話でした。目的地を決めてからタクシーに乗りましょう。",
+  "meta": {
+    "model": "claude-opus-5",
+    "usage": {
+      "input_tokens": 2566,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 0,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "iterations": [
+        {
+          "input_tokens": 2566,
+          "output_tokens": 3774,
+          "cache_read_input_tokens": 0,
+          "cache_creation_input_tokens": 0,
+          "cache_creation": {
+            "ephemeral_5m_input_tokens": 0,
+            "ephemeral_1h_input_tokens": 0
+          },
+          "type": "message",
+          "model": null
+        }
+      ],
+      "output_tokens": 3774,
+      "output_tokens_details": {
+        "thinking_tokens": 0
+      },
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  }
+}

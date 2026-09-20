@@ -1,0 +1,18 @@
+{
+  "name": "ai-matome",
+  "version": "1.0.0",
+  "scripts": {
+    "generate": "node scripts/generate.js",
+    "build": "node scripts/build.js",
+    "update": "node scripts/generate.js && node scripts/build.js",
+    "preview": "node scripts/preview.js"
+  },
+  "description": "AIニュース × AI生成2ch風まとめサイト",
+  "dependencies": {
+    "@anthropic-ai/sdk": "^0.125.0",
+    "rss-parser": "^3.13.0",
+    "zod": "^4.6.4"
+  },
+  "type": "module",
+  "private": true
+}

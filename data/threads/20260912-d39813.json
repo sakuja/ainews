@@ -1,0 +1,458 @@
+{
+  "id": "20260912-d39813",
+  "createdAt": "2026-09-13T09:50:15.736Z",
+  "news": {
+    "title": "Firefoxのローカル翻訳機能をGoogle翻訳っぽく使える「about:translations」が便利",
+    "url": "https://gigazine.net/news/20260912-firefox-translations/",
+    "summary": "Google翻訳やDeepLなどの翻訳サイトは非常に便利ですが「機密文書」や「プライバシーに直結するテキスト」を翻訳する場合はあまり使いたくありません。かといって、ローカルで使える翻訳システムは「LLMの実行が必要で負荷が高い」とか「負荷は軽いけど品質が低い」といった問題があります。「ローカルで使えて簡単に導入できて低負荷で品質も十分な翻訳システムはないかな～」と探していたところ、Firefoxに標準搭載されている翻訳機能がなかなか優秀なことに気付いたので使い方をまとめておきます。 続きを読む...",
+    "source": "GIGAZINE",
+    "publishedAt": "2026-09-12T07:00:00.000Z"
+  },
+  "thread_title": "【朗報】Firefoxの隠し機能「about:translations」、ローカルで動く翻訳ページとして優秀すぎると話題",
+  "matome_title": "【朗報】Firefoxさん、こっそり「オフライン翻訳ページ」を標準搭載していた…about:translationsが便利すぎると話題に",
+  "category": "朗報",
+  "tags": [
+    "Firefox",
+    "翻訳",
+    "ローカルAI",
+    "プライバシー"
+  ],
+  "intro": "機密文書をGoogle翻訳に貼り付けるの、ちょっと怖いよね…という人に朗報。Firefoxのアドレスバーに「about:translations」と打つだけでローカル翻訳ページが開けるらしいです。スレの反応をまとめました。",
+  "posts": [
+    {
+      "no": 1,
+      "poster": "OP",
+      "body": "Firefoxのローカル翻訳機能をGoogle翻訳っぽく使える「about:translations」が便利（GIGAZINE）\n\n・翻訳サイトは便利だが機密文書やプライバシー直結テキストは投げたくない\n・ローカル翻訳はLLMで重いか、軽いけど品質微妙かの二択だった\n・Firefox標準の翻訳機能がなかなか優秀だった\n\nアドレスバーに about:translations って打つだけらしいで",
+      "highlight": "none"
+    },
+    {
+      "no": 2,
+      "poster": "A",
+      "body": "知らんかった",
+      "highlight": "none"
+    },
+    {
+      "no": 3,
+      "poster": "B",
+      "body": "about:config の親戚かと思ったら普通に使えるページで草",
+      "highlight": "none"
+    },
+    {
+      "no": 4,
+      "poster": "C",
+      "body": "ワイ今打ってきたけど普通に左右に箱が出てきて草\nマジでGoogle翻訳のUIやん",
+      "highlight": "red"
+    },
+    {
+      "no": 5,
+      "poster": "A",
+      "body": ">>4\nガチ？",
+      "highlight": "none"
+    },
+    {
+      "no": 6,
+      "poster": "C",
+      "body": ">>5\nガチ\n初回だけ言語モデルのDLが走るっぽい",
+      "highlight": "none"
+    },
+    {
+      "no": 7,
+      "poster": "D",
+      "body": "Firefox使ってないワイ、咽び泣く",
+      "highlight": "none"
+    },
+    {
+      "no": 8,
+      "poster": "E",
+      "body": ">>7\nこれのために入れる価値はあると思うで\nサブブラウザでええし",
+      "highlight": "none"
+    },
+    {
+      "no": 9,
+      "poster": "F",
+      "body": "ローカルで動くってことは飛行機の中でも使えるってこと？",
+      "highlight": "none"
+    },
+    {
+      "no": 10,
+      "poster": "C",
+      "body": ">>9\nモデル落としたあとならネット切っても動いたで\nワイは今Wi-Fi切って試した",
+      "highlight": "blue"
+    },
+    {
+      "no": 11,
+      "poster": "G",
+      "body": ">>10\n有能な検証兄貴",
+      "highlight": "none"
+    },
+    {
+      "no": 12,
+      "poster": "H",
+      "body": "品質はどうなん\nDeepLと比べたら流石に負けるやろ",
+      "highlight": "none"
+    },
+    {
+      "no": 13,
+      "poster": "C",
+      "body": ">>12\nDeepLには負ける\nでも「意味を掴む」用途なら全然実用\n技術文書の英→日は普通に読める",
+      "highlight": "none"
+    },
+    {
+      "no": 14,
+      "poster": "I",
+      "body": "翻訳エンジンはBergamot系の小型NMTやったはず\nLLMやなくて昔ながらのニューラル機械翻訳やから軽い\nCPUだけで数十MB〜のモデルが動く",
+      "highlight": "blue"
+    },
+    {
+      "no": 15,
+      "poster": "H",
+      "body": ">>14\nはえー\nLLM全部に使う時代に逆張りみたいで好き",
+      "highlight": "none"
+    },
+    {
+      "no": 16,
+      "poster": "J",
+      "body": "適材適所ってやつやな\n翻訳に700億パラメータいらんのよ",
+      "highlight": "none"
+    },
+    {
+      "no": 17,
+      "poster": "K",
+      "body": "ワイ翻訳会社勤務、震える",
+      "highlight": "none"
+    },
+    {
+      "no": 18,
+      "poster": "A",
+      "body": ">>17\nがんばれ",
+      "highlight": "none"
+    },
+    {
+      "no": 19,
+      "poster": "L",
+      "body": ">>17\nむしろ下訳が無料になって人間は仕上げに集中できるんちゃう？（希望的観測）",
+      "highlight": "none"
+    },
+    {
+      "no": 20,
+      "poster": "K",
+      "body": ">>19\nその「仕上げ」の単価が下がるんや…",
+      "highlight": "red"
+    },
+    {
+      "no": 21,
+      "poster": "M",
+      "body": "なんJ民が翻訳を語るスレ",
+      "highlight": "none"
+    },
+    {
+      "no": 22,
+      "poster": "N",
+      "body": "機密文書をクラウド翻訳に投げるの、会社のルールで禁止されとるわ\nこれなら通せる気がする",
+      "highlight": "none"
+    },
+    {
+      "no": 23,
+      "poster": "O",
+      "body": ">>22\nそれよ\n「外部送信してません」が説明できるのがデカい",
+      "highlight": "blue"
+    },
+    {
+      "no": 24,
+      "poster": "P",
+      "body": "でも本当に送信してないってどう証明すんの？ソース出せ",
+      "highlight": "none"
+    },
+    {
+      "no": 25,
+      "poster": "I",
+      "body": ">>24\n証明したいなら自分でネットワーク切って試すのが一番早いで\n>>10 がやっとる\nあとは開発者ツールのネットワークタブ見るとか",
+      "highlight": "none"
+    },
+    {
+      "no": 26,
+      "poster": "P",
+      "body": ">>25\nなるほど\nワイが悪かったわ",
+      "highlight": "none"
+    },
+    {
+      "no": 27,
+      "poster": "Q",
+      "body": "素直で草",
+      "highlight": "none"
+    },
+    {
+      "no": 28,
+      "poster": "R",
+      "body": "about:translations\nabout:config\nabout:robots\n\nabout:robotsは知ってた",
+      "highlight": "none"
+    },
+    {
+      "no": 29,
+      "poster": "S",
+      "body": ">>28\nそれネタページやん",
+      "highlight": "none"
+    },
+    {
+      "no": 30,
+      "poster": "T",
+      "body": "Firefox「ワイの隠し機能に気づいてくれたんか…」",
+      "highlight": "none"
+    },
+    {
+      "no": 31,
+      "poster": "U",
+      "body": "　 ∧_∧\n　( ´・ω・) < 翻訳ページ、ここにあるで\n　(つ🦊と)\n　 `u--u´",
+      "highlight": "none"
+    },
+    {
+      "no": 32,
+      "poster": "A",
+      "body": ">>31\nかわいい",
+      "highlight": "none"
+    },
+    {
+      "no": 33,
+      "poster": "V",
+      "body": "ページ翻訳は前からあったよな\nそれの中身を単体で使えるようにしたのがこれって理解でええんか",
+      "highlight": "none"
+    },
+    {
+      "no": 34,
+      "poster": "I",
+      "body": ">>33\nおおむねそれでええ\nページ丸ごとじゃなくてテキスト貼り付けて訳せるのがミソ",
+      "highlight": "none"
+    },
+    {
+      "no": 35,
+      "poster": "W",
+      "body": "メール文面の英訳に使えるやん\n取引先の住所とか入ったやつクラウドに投げたくないし",
+      "highlight": "none"
+    },
+    {
+      "no": 36,
+      "poster": "X",
+      "body": "日→英の品質はどうなん",
+      "highlight": "none"
+    },
+    {
+      "no": 37,
+      "poster": "C",
+      "body": ">>36\n日→英は英→日より弱い印象\n短文で主語ちゃんと書けば割といける\n長い日本語を投げると崩れる",
+      "highlight": "none"
+    },
+    {
+      "no": 38,
+      "poster": "X",
+      "body": ">>37\nそれ人間でも同じで草",
+      "highlight": "red"
+    },
+    {
+      "no": 39,
+      "poster": "Y",
+      "body": "結局「主語を書け」に帰結するの、機械翻訳あるあるすぎる",
+      "highlight": "none"
+    },
+    {
+      "no": 40,
+      "poster": "Z",
+      "body": "ワイの卒論、これで英訳してええか？",
+      "highlight": "none"
+    },
+    {
+      "no": 41,
+      "poster": "J",
+      "body": ">>40\n下訳ならええけどそのまま出すな",
+      "highlight": "none"
+    },
+    {
+      "no": 42,
+      "poster": "Z",
+      "body": ">>41\nはい",
+      "highlight": "none"
+    },
+    {
+      "no": 45,
+      "poster": "AA",
+      "body": "低スペノートでも動く？",
+      "highlight": "none"
+    },
+    {
+      "no": 47,
+      "poster": "I",
+      "body": ">>45\nLLM走らせるのとは比較にならんくらい軽いはずや\n古いCPUでも文単位ならすぐ返ってくる",
+      "highlight": "none"
+    },
+    {
+      "no": 48,
+      "poster": "AA",
+      "body": ">>47\n希望が見えた",
+      "highlight": "none"
+    },
+    {
+      "no": 51,
+      "poster": "AB",
+      "body": "「オフラインで動く」って地味に最強の機能やと思うんよな\nサービス終了もAPI値上げもない",
+      "highlight": "blue"
+    },
+    {
+      "no": 52,
+      "poster": "O",
+      "body": ">>51\nこれ\n最近クラウド依存しすぎて怖くなってきた",
+      "highlight": "none"
+    },
+    {
+      "no": 55,
+      "poster": "AC",
+      "body": "Chrome使いワイ、Firefoxを久しぶりに入れる決心をする",
+      "highlight": "none"
+    },
+    {
+      "no": 56,
+      "poster": "D",
+      "body": ">>55\nワイもや\nブックマーク移行が面倒なだけで",
+      "highlight": "none"
+    },
+    {
+      "no": 58,
+      "poster": "AD",
+      "body": "逆にこれ、Firefox側は宣伝下手すぎひん？\nこんな便利機能をabout:に隠すな",
+      "highlight": "red"
+    },
+    {
+      "no": 59,
+      "poster": "B",
+      "body": ">>58\nそれな\nメニューに「翻訳」って項目作れば一発やのに",
+      "highlight": "none"
+    },
+    {
+      "no": 63,
+      "poster": "AE",
+      "body": "ワイ英語ペラペラやから関係ないわ",
+      "highlight": "none"
+    },
+    {
+      "no": 64,
+      "poster": "A",
+      "body": ">>63\nじゃあ何でこのスレおるんや",
+      "highlight": "none"
+    },
+    {
+      "no": 65,
+      "poster": "AE",
+      "body": ">>64\n中国語が読めんくてな…",
+      "highlight": "red"
+    },
+    {
+      "no": 66,
+      "poster": "G",
+      "body": ">>65\n素直で草",
+      "highlight": "none"
+    },
+    {
+      "no": 70,
+      "poster": "AF",
+      "body": "まとめると\n・about:translations で開く\n・初回だけモデルDL、あとはローカル\n・DeepLには劣るが実用レベル\n・機密テキスト向き\n・英→日が得意、日→英はやや弱い\nでOK？",
+      "highlight": "blue"
+    },
+    {
+      "no": 71,
+      "poster": "I",
+      "body": ">>70\nだいたい合っとる\n有能",
+      "highlight": "none"
+    },
+    {
+      "no": 72,
+      "poster": "C",
+      "body": ">>70\nまとめ職人ありがとう",
+      "highlight": "none"
+    },
+    {
+      "no": 78,
+      "poster": "AG",
+      "body": "ワイ、さっきから会社の規約を翻訳しとるけど日本語の時点で意味不明やった",
+      "highlight": "none"
+    },
+    {
+      "no": 79,
+      "poster": "H",
+      "body": ">>78\nそれは翻訳エンジンのせいちゃう",
+      "highlight": "none"
+    },
+    {
+      "no": 81,
+      "poster": "AH",
+      "body": "結論: 日本語を書くのが一番むずい",
+      "highlight": "none"
+    },
+    {
+      "no": 85,
+      "poster": "OP",
+      "body": "ワイも試したけど普通に常用できそうやわ\nクラウドに投げたくないやつはこれ、ガチで長文はDeepL\nで使い分けるのが正解っぽいな",
+      "highlight": "none"
+    },
+    {
+      "no": 90,
+      "poster": "U",
+      "body": "　 ∧_∧\n　( ´∀｀) < 翻訳は手元で足りる時代やで\n　( つ旦O\n　と_)_)",
+      "highlight": "none"
+    },
+    {
+      "no": 93,
+      "poster": "AI",
+      "body": "about:translations 打ったつもりが about:transportation って打って何も出てこんかった",
+      "highlight": "none"
+    },
+    {
+      "no": 94,
+      "poster": "A",
+      "body": ">>93\n翻訳より先に日本語入力見直せ",
+      "highlight": "red"
+    },
+    {
+      "no": 95,
+      "poster": "AI",
+      "body": ">>94\n英語なんだよなあ",
+      "highlight": "none"
+    },
+    {
+      "no": 96,
+      "poster": "G",
+      "body": ">>95\nそれ翻訳しても直らんやつや",
+      "highlight": "big"
+    }
+  ],
+  "admin_comment": "クラウドに投げたくないテキストって意外と多いので、手元で完結する選択肢があるのはありがたいですね。とりあえずアドレスバーに打ってみるだけならタダなので、Firefox入ってる人は試してみては。",
+  "meta": {
+    "model": "claude-opus-5",
+    "usage": {
+      "input_tokens": 2698,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 0,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "iterations": [
+        {
+          "input_tokens": 2698,
+          "output_tokens": 4123,
+          "cache_read_input_tokens": 0,
+          "cache_creation_input_tokens": 0,
+          "cache_creation": {
+            "ephemeral_5m_input_tokens": 0,
+            "ephemeral_1h_input_tokens": 0
+          },
+          "type": "message",
+          "model": null
+        }
+      ],
+      "output_tokens": 4123,
+      "output_tokens_details": {
+        "thinking_tokens": 41
+      },
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  }
+}

@@ -1,0 +1,416 @@
+{
+  "id": "20260913-7b0ec3",
+  "createdAt": "2026-09-13T09:24:36.203Z",
+  "news": {
+    "title": "AnthropicのアモデイCEO、AI開発の「ペース調整」訴えるエッセイ公開 アルトマン氏とマスク氏も賛同",
+    "url": "https://www.itmedia.co.jp/news/article/2609/13/2000001432/",
+    "summary": "AnthropicのアモデイCEOは、AIの急速な自己改善や安全上の脅威を踏まえ、モデルの能力向上ペースを抑える3段階の計画を提言した。第三者の常駐評価者の導入や民主主義国間での協調を訴えている。これに対し、OpenAIのアルトマンCEOやマスク氏も同調し、同様の評価体制を導入する意向を示した。",
+    "source": "ITmedia AI＋",
+    "publishedAt": "2026-09-12T23:06:11.000Z"
+  },
+  "thread_title": "【速報】Anthropicアモデイ氏、AI開発の「ペース調整」を提言　アルトマン氏・マスク氏も賛同",
+  "matome_title": "【衝撃】AI業界のトップ3人が「ちょっと速すぎるからスピード落とそうぜ」で一致してしまう",
+  "category": "速報",
+  "tags": [
+    "Anthropic",
+    "AI規制",
+    "OpenAI",
+    "アモデイ"
+  ],
+  "intro": "あのアクセル全開だった業界が、まさかの「一旦ブレーキ」宣言。ライバル同士が揃って頷いたことで逆にざわつくスレをまとめました。",
+  "posts": [
+    {
+      "no": 1,
+      "poster": "OP",
+      "body": "AnthropicのアモデイCEOがエッセイ公開\nAIの急速な自己改善と安全上の脅威を踏まえて、モデルの能力向上ペースを抑える3段階の計画を提言\n・第三者の常駐評価者を入れる\n・民主主義国間で協調する\n\nこれにOpenAIのアルトマンCEOとマスク氏も同調、同様の評価体制を入れる意向\n\nソース: ITmedia AI＋\n\nあの3人が同じ方向向くとか天変地異やろ",
+      "highlight": "none"
+    },
+    {
+      "no": 2,
+      "poster": "名無しさん",
+      "body": "は？あの3人が仲良く？",
+      "highlight": "none"
+    },
+    {
+      "no": 3,
+      "poster": "名無しさん",
+      "body": "逆に怖いんだが",
+      "highlight": "red"
+    },
+    {
+      "no": 4,
+      "poster": "名無しさん",
+      "body": ">>3 これ\n普段バチバチなのに揃って「速度落とそう」って言い出すのが一番のホラー",
+      "highlight": "none"
+    },
+    {
+      "no": 5,
+      "poster": "名無しさん",
+      "body": "中で何見たんや……",
+      "highlight": "none"
+    },
+    {
+      "no": 6,
+      "poster": "名無しさん",
+      "body": "ワイ、ただのポジショントークだと思ってる",
+      "highlight": "none"
+    },
+    {
+      "no": 7,
+      "poster": "名無しさん",
+      "body": "ペース調整って具体的に何するんや\nリリース遅らせるだけ？",
+      "highlight": "none"
+    },
+    {
+      "no": 8,
+      "poster": "名無しさん",
+      "body": ">>7 記事読む限りは3段階の計画と第三者の常駐評価者やな\n社内に外部の人間が常駐して評価するってことやろ",
+      "highlight": "none"
+    },
+    {
+      "no": 9,
+      "poster": "名無しさん",
+      "body": "常駐評価者、監査法人のAI版みたいなもんか",
+      "highlight": "none"
+    },
+    {
+      "no": 10,
+      "poster": "名無しさん",
+      "body": "それ結局「評価する人」の質が全てでは？",
+      "highlight": "blue"
+    },
+    {
+      "no": 11,
+      "poster": "名無しさん",
+      "body": ">>10 正論すぎる\n誰がその評価者を評価するんや問題",
+      "highlight": "none"
+    },
+    {
+      "no": 12,
+      "poster": "名無しさん",
+      "body": "Quis custodiet ipsos custodes\nラテン語で言うとカッコいい",
+      "highlight": "none"
+    },
+    {
+      "no": 13,
+      "poster": "名無しさん",
+      "body": ">>12 急に教養出すのやめろ",
+      "highlight": "none"
+    },
+    {
+      "no": 14,
+      "poster": "名無しさん",
+      "body": "AIの自己改善が速すぎるって話やろ\nつまり中の人はもう「やばい曲線」見てるってことでは",
+      "highlight": "none"
+    },
+    {
+      "no": 15,
+      "poster": "名無しさん",
+      "body": "ワイの仕事はもう奪われた後なんやが\nペース調整するなら3年前にしてくれ",
+      "highlight": "red"
+    },
+    {
+      "no": 16,
+      "poster": "名無しさん",
+      "body": ">>15 ンゴ……",
+      "highlight": "none"
+    },
+    {
+      "no": 17,
+      "poster": "名無しさん",
+      "body": "ワイ翻訳やってたけど去年で店じまいしたわ\n今さら減速言われてもな",
+      "highlight": "none"
+    },
+    {
+      "no": 18,
+      "poster": "名無しさん",
+      "body": "むしろ減速したら追いつく側が有利になるだけやろ\n民主主義国間で協調って書いてあるのそういうことやん",
+      "highlight": "none"
+    },
+    {
+      "no": 19,
+      "poster": "名無しさん",
+      "body": ">>18 それな\n協調しない相手がいる時点で片務的になる",
+      "highlight": "none"
+    },
+    {
+      "no": 20,
+      "poster": "名無しさん",
+      "body": "軍縮条約と同じ構造やね\n検証手段があるかどうかが全て",
+      "highlight": "blue"
+    },
+    {
+      "no": 21,
+      "poster": "名無しさん",
+      "body": "核と違ってAIは掘り出すウランがいらんのがつらいところ\nGPUはまだ数えられるけど",
+      "highlight": "none"
+    },
+    {
+      "no": 22,
+      "poster": "名無しさん",
+      "body": ">>21 だから計算資源で線引きする話になるんやろな\n記事には書いてないけど",
+      "highlight": "none"
+    },
+    {
+      "no": 23,
+      "poster": "名無しさん",
+      "body": "技術者ワイ、割と真面目に評価体制は必要だと思ってる\n今の評価って各社が自分でベンチ回して自分で「安全です」って言ってるだけやし",
+      "highlight": "none"
+    },
+    {
+      "no": 24,
+      "poster": "名無しさん",
+      "body": ">>23 自己申告の食品表示みたいなもんか",
+      "highlight": "none"
+    },
+    {
+      "no": 25,
+      "poster": "名無しさん",
+      "body": ">>24 例えがうまい",
+      "highlight": "none"
+    },
+    {
+      "no": 26,
+      "poster": "名無しさん",
+      "body": "アルトマン氏が同調したのが一番びっくりした",
+      "highlight": "none"
+    },
+    {
+      "no": 27,
+      "poster": "名無しさん",
+      "body": ">>26 言うだけならタダやからな",
+      "highlight": "none"
+    },
+    {
+      "no": 28,
+      "poster": "名無しさん",
+      "body": "マスク氏は昔から「AIやばい」って言い続けてる側やろ\nそこは一貫してる",
+      "highlight": "none"
+    },
+    {
+      "no": 29,
+      "poster": "名無しさん",
+      "body": "言いながら自分でAI会社作るのがあの人の芸風やけどな",
+      "highlight": "none"
+    },
+    {
+      "no": 30,
+      "poster": "名無しさん",
+      "body": ">>29 草",
+      "highlight": "none"
+    },
+    {
+      "no": 31,
+      "poster": "名無しさん",
+      "body": "ワイの予想\n「減速します（他社より速く）」",
+      "highlight": "red"
+    },
+    {
+      "no": 32,
+      "poster": "名無しさん",
+      "body": ">>31 これが真理",
+      "highlight": "none"
+    },
+    {
+      "no": 33,
+      "poster": "名無しさん",
+      "body": "減速するフリしてこっそり内部モデルは走らせるやつ",
+      "highlight": "none"
+    },
+    {
+      "no": 34,
+      "poster": "名無しさん",
+      "body": "＿人人人人人＿\n＞　自主規制　＜\n￣Y^Y^Y^Y￣",
+      "highlight": "none"
+    },
+    {
+      "no": 35,
+      "poster": "名無しさん",
+      "body": ">>34 効果音みたいに出すな",
+      "highlight": "none"
+    },
+    {
+      "no": 38,
+      "poster": "名無しさん",
+      "body": "でもさ、業界トップが揃って「速すぎる」って公に言うのは意味あると思うで\n規制する側に材料を渡してるわけやし",
+      "highlight": "blue"
+    },
+    {
+      "no": 39,
+      "poster": "名無しさん",
+      "body": ">>38 わかる\n「業界が自分で言った」は後から効いてくる",
+      "highlight": "none"
+    },
+    {
+      "no": 40,
+      "poster": "名無しさん",
+      "body": "逆張りすまんが、これで規制が来て体力ある大手しか開発できなくなるパターンもあるよな",
+      "highlight": "red"
+    },
+    {
+      "no": 41,
+      "poster": "名無しさん",
+      "body": ">>40 規制の梯子外しは毎回言われるやつ\n常駐評価者の費用を誰が持つかで決まる",
+      "highlight": "none"
+    },
+    {
+      "no": 42,
+      "poster": "名無しさん",
+      "body": "個人開発者ワイ、震える",
+      "highlight": "none"
+    },
+    {
+      "no": 43,
+      "poster": "名無しさん",
+      "body": ">>42 お前のとこに評価者は来ないから安心しろ",
+      "highlight": "none"
+    },
+    {
+      "no": 44,
+      "poster": "名無しさん",
+      "body": "そもそもエッセイで政策提言する文化なんなん",
+      "highlight": "none"
+    },
+    {
+      "no": 45,
+      "poster": "名無しさん",
+      "body": ">>44 あの人長文書く人やからな",
+      "highlight": "none"
+    },
+    {
+      "no": 47,
+      "poster": "名無しさん",
+      "body": "AIの自己改善ってどのくらい進んでるんや\nそこが一番知りたい",
+      "highlight": "none"
+    },
+    {
+      "no": 48,
+      "poster": "名無しさん",
+      "body": ">>47 記事は「急速な自己改善」としか書いてないから断定はできん\nただ懸念として挙げるくらいには見えてるんやろ",
+      "highlight": "none"
+    },
+    {
+      "no": 49,
+      "poster": "名無しさん",
+      "body": "冷静に整理すると\n1. 能力向上のペースを段階的に抑える\n2. 第三者の常駐評価者\n3. 民主主義国間の協調\nこの3点セット。理屈は通ってる。問題は実装と検証",
+      "highlight": "blue"
+    },
+    {
+      "no": 50,
+      "poster": "名無しさん",
+      "body": ">>49 有能",
+      "highlight": "none"
+    },
+    {
+      "no": 53,
+      "poster": "名無しさん",
+      "body": "ワイの会社、まだExcelで管理してるからペース調整どころか停止してるわ",
+      "highlight": "none"
+    },
+    {
+      "no": 54,
+      "poster": "名無しさん",
+      "body": ">>53 お前んとこだけ2005年で草",
+      "highlight": "none"
+    },
+    {
+      "no": 57,
+      "poster": "名無しさん",
+      "body": "「減速しよう」で全員一致してるの、映画なら中盤の伏線やん",
+      "highlight": "none"
+    },
+    {
+      "no": 58,
+      "poster": "名無しさん",
+      "body": ">>57 終盤で誰か一人抜け駆けするやつな",
+      "highlight": "none"
+    },
+    {
+      "no": 61,
+      "poster": "名無しさん",
+      "body": "結局は各社の良心頼みなのが弱いんよな\n第三者評価はその良心を可視化する仕組みやから方向は正しい",
+      "highlight": "none"
+    },
+    {
+      "no": 63,
+      "poster": "名無しさん",
+      "body": "賛同表明と実装は別物やから、半年後にちゃんと常駐評価者が入ったか見届けるスレが必要",
+      "highlight": "none"
+    },
+    {
+      "no": 64,
+      "poster": "名無しさん",
+      "body": ">>63 それが一番建設的なレス",
+      "highlight": "none"
+    },
+    {
+      "no": 68,
+      "poster": "名無しさん",
+      "body": "ちなワイの生活のペースは調整不要なくらい遅い",
+      "highlight": "none"
+    },
+    {
+      "no": 69,
+      "poster": "名無しさん",
+      "body": ">>68 お前が一番アラインメント取れてる",
+      "highlight": "none"
+    },
+    {
+      "no": 72,
+      "poster": "名無しさん",
+      "body": "まあ何にせよ、トップが揃って「立ち止まろう」と言える業界はまだマシやと思うことにする",
+      "highlight": "none"
+    },
+    {
+      "no": 75,
+      "poster": "名無しさん",
+      "body": ">>72 ええ締めや\nあとは言葉が仕組みになるかどうか",
+      "highlight": "none"
+    },
+    {
+      "no": 80,
+      "poster": "名無しさん",
+      "body": "減速の話してるうちに次のモデル出てそう",
+      "highlight": "red"
+    },
+    {
+      "no": 81,
+      "poster": "名無しさん",
+      "body": ">>80 それ言うなや",
+      "highlight": "none"
+    }
+  ],
+  "admin_comment": "「言うだけならタダ」という声もありますが、業界トップが揃って公の場で減速を口にした事実は残ります。半年後、常駐評価者が本当に入ったかどうかを見届けたいところです。",
+  "meta": {
+    "model": "claude-opus-5",
+    "usage": {
+      "input_tokens": 2512,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 0,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "iterations": [
+        {
+          "input_tokens": 2512,
+          "output_tokens": 3839,
+          "cache_read_input_tokens": 0,
+          "cache_creation_input_tokens": 0,
+          "cache_creation": {
+            "ephemeral_5m_input_tokens": 0,
+            "ephemeral_1h_input_tokens": 0
+          },
+          "type": "message",
+          "model": null
+        }
+      ],
+      "output_tokens": 3839,
+      "output_tokens_details": {
+        "thinking_tokens": 0
+      },
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  }
+}

@@ -1,0 +1,111 @@
+:root {
+  --bg: #efefef;
+  --paper: #fff;
+  --ink: #222;
+  --muted: #777;
+  --line: #ddd;
+  --brand: #1f4e8c;
+  --brand-dark: #163a69;
+  --name: #008000;
+  --red: #e0162b;
+  --blue: #0645ad;
+  --res-bg: #f7f7f2;
+}
+
+* { box-sizing: border-box; }
+body {
+  margin: 0;
+  background: var(--bg);
+  color: var(--ink);
+  font: 15px/1.7 "Hiragino Kaku Gothic ProN", "Meiryo", "Noto Sans JP", sans-serif;
+}
+a { color: var(--blue); }
+a:visited { color: #663399; }
+.wrap { max-width: 1080px; margin: 0 auto; padding-inline: 16px; }
+
+/* ヘッダー */
+.site-header { background: linear-gradient(#2a64b0, var(--brand)); color: #fff; }
+.site-header .wrap { padding-block: 18px 12px; }
+.logo { color: #fff !important; font-size: 30px; font-weight: 800; text-decoration: none; letter-spacing: .04em; text-shadow: 0 2px 0 rgba(0,0,0,.25); }
+.tagline { margin: 2px 0 0; font-size: 13px; opacity: .9; }
+.catnav { background: var(--brand-dark); }
+.catnav .wrap { display: flex; flex-wrap: wrap; gap: 0; padding-block: 0; }
+.catnav a { color: #fff !important; text-decoration: none; padding: 8px 14px; font-size: 14px; font-weight: 700; }
+.catnav a:hover { background: rgba(255,255,255,.15); }
+
+/* 2カラム */
+.columns { display: grid; grid-template-columns: minmax(0, 1fr) 300px; gap: 20px; padding-block: 20px; }
+@media (max-width: 860px) { .columns { grid-template-columns: minmax(0, 1fr); } }
+main, .box { background: var(--paper); border: 1px solid var(--line); }
+main { padding: 16px 20px; }
+
+/* 一覧 */
+.list-heading { font-size: 18px; border-left: 6px solid var(--brand); padding-left: 10px; margin: 4px 0 16px; }
+.card { border-bottom: 1px dashed var(--line); padding: 14px 0; }
+.card:last-of-type { border-bottom: 0; }
+.card-meta { display: flex; align-items: center; gap: 10px; font-size: 12px; color: var(--muted); }
+.card-title { font-size: 19px; margin: 6px 0 4px; line-height: 1.45; }
+.card-title a { text-decoration: none; color: var(--ink); }
+.card-title a:hover { color: var(--red); text-decoration: underline; }
+.card-excerpt { margin: 0; color: #555; font-size: 13px; overflow: hidden; white-space: nowrap; text-overflow: ellipsis; }
+.card-foot { margin: 2px 0 0; font-size: 12px; color: var(--muted); }
+.empty { color: var(--muted); padding: 40px 0; text-align: center; }
+.pager { display: flex; justify-content: center; gap: 16px; padding-top: 16px; }
+
+.cat { display: inline-block; color: #fff; font-weight: 700; font-size: 12px; padding: 0 8px; border-radius: 3px; }
+.cat-0 { background: #d9480f; } /* 速報 */
+.cat-1 { background: #2b8a3e; } /* 朗報 */
+.cat-2 { background: #495057; } /* 悲報 */
+.cat-3 { background: #1971c2; } /* 議論 */
+.cat-4 { background: #ae3ec9; } /* ネタ */
+
+/* 記事 */
+.entry-title { font-size: 24px; line-height: 1.45; margin: 8px 0; }
+.tags { list-style: none; padding: 0; margin: 0 0 14px; display: flex; flex-wrap: wrap; gap: 6px; }
+.tags li { font-size: 12px; background: #eef3fa; color: var(--brand); padding: 0 8px; border-radius: 10px; }
+.source-box { background: #fffbe6; border: 1px solid #f0dc8c; padding: 10px 12px; font-size: 14px; }
+.label { display: inline-block; background: var(--ink); color: #fff; font-size: 11px; padding: 0 6px; margin-right: 8px; border-radius: 2px; vertical-align: 1px; }
+.source-name { color: var(--muted); font-size: 12px; }
+.intro { margin: 16px 0 6px; }
+.thread-title { font-size: 12px; color: var(--muted); margin: 0 0 12px; }
+.ai-badge { color: var(--red); font-weight: 700; }
+
+/* レス */
+.thread { border-top: 2px solid var(--brand); }
+.res { padding: 14px 4px 18px; border-bottom: 1px solid #eee; }
+.res:target { background: #fff8d6; }
+.res-head { font-size: 13px; color: #333; word-break: break-all; }
+.res-no { font-weight: 700; }
+.res-name { color: var(--name); font-weight: 700; }
+.res-date, .res-id { color: #666; }
+.res-id.op { color: var(--red); }
+.res-body { margin: 6px 0 0 1.2em; font-size: 16px; line-height: 1.8; word-break: break-word; }
+.res-body .anchor { color: var(--blue); text-decoration: none; }
+.hl-red .res-body { color: var(--red); font-weight: 700; font-size: 20px; }
+.hl-blue .res-body { color: var(--blue); font-weight: 700; font-size: 20px; }
+.hl-big .res-body { font-weight: 700; font-size: 22px; }
+
+.admin-comment { margin-top: 24px; background: var(--res-bg); border: 1px solid var(--line); padding: 12px; }
+.related h2 { font-size: 16px; border-bottom: 2px solid var(--brand); padding-bottom: 4px; margin-top: 28px; }
+.related ul { padding-left: 1.2em; }
+
+/* サイドバー */
+.sidebar { display: flex; flex-direction: column; gap: 16px; }
+.box h2 { margin: 0; font-size: 14px; background: var(--brand); color: #fff; padding: 6px 10px; }
+.side-list { list-style: none; margin: 0; padding: 4px 10px; }
+.side-list li { border-bottom: 1px dotted var(--line); padding: 6px 0; font-size: 13px; line-height: 1.5; }
+.side-list li:last-child { border-bottom: 0; }
+.about p { margin: 0; padding: 10px; font-size: 13px; }
+
+.site-footer { background: #333; color: #ccc; font-size: 12px; }
+.site-footer .wrap { padding-block: 16px; }
+.site-footer p { margin: 4px 0; }
+
+@media (max-width: 520px) {
+  main { padding: 12px; }
+  .logo { font-size: 24px; }
+  .entry-title { font-size: 20px; }
+  .res-body { margin-left: 0; font-size: 15px; }
+  .hl-red .res-body, .hl-blue .res-body { font-size: 18px; }
+  .hl-big .res-body { font-size: 19px; }
+}
