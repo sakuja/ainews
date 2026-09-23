@@ -25,6 +25,8 @@ jobs:
       - run: npm run update
         env:
           ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+          # ワークスペースに紐づいていないAPIキーを使う場合のみ設定（任意）
+          ANTHROPIC_WORKSPACE_ID: ${{ secrets.ANTHROPIC_WORKSPACE_ID }}
           TZ: Asia/Tokyo
       - name: 生成結果をコミット
         run: |

@@ -44,3 +44,13 @@ npm run generate -- --title "ニュースのタイトル" --summary "概要" --u
 
 - スレはすべてAIが作った架空のものです。サイト内にもその旨を表示しています。
 - ニュースはRSSのタイトルと概要だけを使い、記事本文は転載しません。詳しい内容は元記事へのリンクで案内しています。
+
+## APIキーについて
+
+`ANTHROPIC_API_KEY` がワークスペースに紐づいていない場合、生成時に
+「This API key is not scoped to a workspace」という400エラーになります。
+その場合は次のどちらかで解消します。
+
+- ワークスペースを選んでAPIキーを作り直す（おすすめ）
+- 環境変数 `ANTHROPIC_WORKSPACE_ID` にワークスペースIDを設定する
+  （GitHub Actionsでは同名のリポジトリシークレットを追加する）
