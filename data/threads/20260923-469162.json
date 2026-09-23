@@ -1,0 +1,404 @@
+{
+  "id": "20260923-469162",
+  "createdAt": "2026-09-23T10:26:55.471Z",
+  "news": {
+    "title": "AI従業員を雇って定型作業をお任せできる「Geta.Team」、各AI従業員に個別にメールアドレス・電話番号を割り当てできてセルフホスト可能、機能限定の無料版もあり",
+    "url": "https://gigazine.net/news/20260923-geta-team/",
+    "summary": "メールへの返信や顧客への連絡や定期的な情報収集など、毎日繰り返す作業には多くの時間がかかります。そこでAIエージェントごとに名前や役職だけでなく、メールアドレスや電話番号まで用意し、人間の従業員に近い形で任せることができるサービス「Geta.Team」が公開されています。 続きを読む...",
+    "source": "GIGAZINE",
+    "publishedAt": "2026-09-23T09:00:00.000Z"
+  },
+  "thread_title": "【AI】AI従業員を雇えるサービス「Geta.Team」公開 各AIにメアドと電話番号を割り当て可能、セルフホストもOK",
+  "matome_title": "【朗報】AI従業員にメアドと電話番号を配れるサービスが登場→ワイら「もう人間いらんやん」",
+  "category": "速報",
+  "tags": [
+    "AIエージェント",
+    "Geta.Team",
+    "自動化",
+    "セルフホスト"
+  ],
+  "intro": "AIエージェントに名前・役職・メアド・電話番号まで与えて「従業員」として雇えるサービスが話題に。無料版もあるらしいで。",
+  "posts": [
+    {
+      "no": 1,
+      "poster": "OP",
+      "body": "Geta.Team っていうサービスが公開された\n\n・AIエージェントごとに名前や役職を設定\n・メールアドレスや電話番号まで割り当て可能\n・メール返信、顧客連絡、定期的な情報収集などの定型作業を任せられる\n・セルフホスト可能\n・機能限定の無料版あり\n\nついにAIが同僚になる時代ンゴ",
+      "highlight": "none"
+    },
+    {
+      "no": 2,
+      "poster": "A",
+      "body": "ワイの席は？",
+      "highlight": "none"
+    },
+    {
+      "no": 3,
+      "poster": "B",
+      "body": ">>2 もうない",
+      "highlight": "red"
+    },
+    {
+      "no": 4,
+      "poster": "C",
+      "body": "電話番号割り当てって地味にヤバない？",
+      "highlight": "none"
+    },
+    {
+      "no": 5,
+      "poster": "D",
+      "body": "社内の内線がAIだらけになるのか",
+      "highlight": "none"
+    },
+    {
+      "no": 6,
+      "poster": "E",
+      "body": "「お世話になっております、AIの田中です」",
+      "highlight": "none"
+    },
+    {
+      "no": 7,
+      "poster": "A",
+      "body": ">>6 田中の存在感が急に不安になってきた",
+      "highlight": "none"
+    },
+    {
+      "no": 8,
+      "poster": "F",
+      "body": "セルフホストできるのはデカいわ\n社外にメール本文投げたくない会社ゴロゴロあるからな",
+      "highlight": "blue"
+    },
+    {
+      "no": 9,
+      "poster": "G",
+      "body": "定型作業って言うけど結局例外処理で人間呼ばれるパターンやろ",
+      "highlight": "none"
+    },
+    {
+      "no": 10,
+      "poster": "H",
+      "body": ">>9 それな\n9割自動化しても残り1割が地獄",
+      "highlight": "none"
+    },
+    {
+      "no": 12,
+      "poster": "B",
+      "body": "メールの返信自動化、返信先もAIだったら永久機関やん",
+      "highlight": "none"
+    },
+    {
+      "no": 13,
+      "poster": "I",
+      "body": ">>12 AI同士が「ご確認のほどよろしくお願いいたします」を無限往復するの見てみたい",
+      "highlight": "none"
+    },
+    {
+      "no": 14,
+      "poster": "C",
+      "body": ">>13 サーバー代だけ爆増して草",
+      "highlight": "none"
+    },
+    {
+      "no": 15,
+      "poster": "J",
+      "body": "無料版あるなら個人でも試せるやん",
+      "highlight": "none"
+    },
+    {
+      "no": 16,
+      "poster": "K",
+      "body": "役職設定できるの笑う\nワイのAIは全員「部長」にするわ",
+      "highlight": "none"
+    },
+    {
+      "no": 17,
+      "poster": "A",
+      "body": ">>16 部長しかいない会社",
+      "highlight": "none"
+    },
+    {
+      "no": 18,
+      "poster": "L",
+      "body": "ワイ中小の総務、割とマジで欲しい\n請求書の督促メールとか毎月同じこと書いてるだけやし",
+      "highlight": "none"
+    },
+    {
+      "no": 19,
+      "poster": "G",
+      "body": ">>18 そこは自動化して正解やと思うで",
+      "highlight": "none"
+    },
+    {
+      "no": 20,
+      "poster": "M",
+      "body": "で、AIがやらかしたときの責任は誰が取るんや",
+      "highlight": "blue"
+    },
+    {
+      "no": 21,
+      "poster": "F",
+      "body": ">>20 結局運用してる人間や\n「AI従業員」って言葉に騙されたらあかん、あくまでツール",
+      "highlight": "none"
+    },
+    {
+      "no": 23,
+      "poster": "N",
+      "body": "AIに電話させるの、受け取る側の気持ち考えろ",
+      "highlight": "none"
+    },
+    {
+      "no": 24,
+      "poster": "D",
+      "body": ">>23 逆にこっちもAIに出させれば無問題",
+      "highlight": "none"
+    },
+    {
+      "no": 25,
+      "poster": "N",
+      "body": ">>24 そして誰もいなくなった",
+      "highlight": "red"
+    },
+    {
+      "no": 26,
+      "poster": "O",
+      "body": "ソース出せ",
+      "highlight": "none"
+    },
+    {
+      "no": 27,
+      "poster": "OP",
+      "body": ">>26 >>1に書いてあるやろ、GIGAZINEの記事や",
+      "highlight": "none"
+    },
+    {
+      "no": 28,
+      "poster": "O",
+      "body": ">>27 すまん寝ぼけてた",
+      "highlight": "none"
+    },
+    {
+      "no": 30,
+      "poster": "P",
+      "body": "技術的にはメール/電話のチャネルをエージェントに紐づけてるだけやから目新しさは薄い\nただ「従業員」ってメタファーで包んで役職・連絡先まで一式セットにしたのはUX的に上手い\n非エンジニアが触れる形にするのが一番むずいからな",
+      "highlight": "blue"
+    },
+    {
+      "no": 31,
+      "poster": "H",
+      "body": ">>30 わかる\n結局ラッピングの勝負になってきてる",
+      "highlight": "none"
+    },
+    {
+      "no": 32,
+      "poster": "Q",
+      "body": "ワイの会社の使えん先輩より働きそう",
+      "highlight": "none"
+    },
+    {
+      "no": 33,
+      "poster": "A",
+      "body": ">>32 やめたれ",
+      "highlight": "none"
+    },
+    {
+      "no": 35,
+      "poster": "R",
+      "body": "AI従業員の給料って電気代でええんか？",
+      "highlight": "none"
+    },
+    {
+      "no": 36,
+      "poster": "I",
+      "body": ">>35 トークン代や",
+      "highlight": "none"
+    },
+    {
+      "no": 37,
+      "poster": "R",
+      "body": ">>36 従量課金の社員こわい\n喋れば喋るほど金かかるやん",
+      "highlight": "none"
+    },
+    {
+      "no": 38,
+      "poster": "B",
+      "body": ">>37 会議で黙ってる人が一番コスパいいことが証明されてしまった",
+      "highlight": "red"
+    },
+    {
+      "no": 40,
+      "poster": "S",
+      "body": "情報収集を定期的にやらせるのは素直に便利そう\n毎朝の競合チェックとかクソ面倒やし",
+      "highlight": "none"
+    },
+    {
+      "no": 41,
+      "poster": "G",
+      "body": ">>40 そこは要約の質次第やな\n嘘混ざったら逆に手間増える",
+      "highlight": "none"
+    },
+    {
+      "no": 42,
+      "poster": "T",
+      "body": "AIに歓迎会やるの？",
+      "highlight": "none"
+    },
+    {
+      "no": 43,
+      "poster": "C",
+      "body": ">>42 乾杯できんやろ",
+      "highlight": "none"
+    },
+    {
+      "no": 44,
+      "poster": "T",
+      "body": ">>43 画面に酒かけるとか",
+      "highlight": "none"
+    },
+    {
+      "no": 45,
+      "poster": "C",
+      "body": ">>44 それただの器物損壊",
+      "highlight": "none"
+    },
+    {
+      "no": 47,
+      "poster": "U",
+      "body": "セルフホストって書いてあるけどモデルもローカルで動かせるんかね\nそこ次第でだいぶ評価変わる",
+      "highlight": "none"
+    },
+    {
+      "no": 48,
+      "poster": "F",
+      "body": ">>47 そこ気になるわ\nホストできてもAPI叩きに行くなら意味半減や",
+      "highlight": "none"
+    },
+    {
+      "no": 49,
+      "poster": "P",
+      "body": ">>48 まあ試すのが早い\n無料版あるらしいし",
+      "highlight": "none"
+    },
+    {
+      "no": 52,
+      "poster": "V",
+      "body": "ワイの部署、AI導入したら全員暇になると思ったら\nAIの出力チェック係が新設されただけやった",
+      "highlight": "blue"
+    },
+    {
+      "no": 53,
+      "poster": "H",
+      "body": ">>52 これが現実",
+      "highlight": "none"
+    },
+    {
+      "no": 54,
+      "poster": "M",
+      "body": ">>52 仕事の総量は保存される",
+      "highlight": "none"
+    },
+    {
+      "no": 55,
+      "poster": "A",
+      "body": "　　∧＿∧\n　（ ･ω･ ）　「AI従業員です」\n　( つ旦と）\n　と_)_)",
+      "highlight": "none"
+    },
+    {
+      "no": 56,
+      "poster": "D",
+      "body": ">>55 お茶飲んでる場合か",
+      "highlight": "none"
+    },
+    {
+      "no": 58,
+      "poster": "W",
+      "body": "メアド割り当てるってことは受信もするんよな\nスパム業者にバレたらAIが延々スパム読むだけの存在になる",
+      "highlight": "none"
+    },
+    {
+      "no": 59,
+      "poster": "I",
+      "body": ">>58 一番人間らしい",
+      "highlight": "red"
+    },
+    {
+      "no": 61,
+      "poster": "X",
+      "body": "冷静に整理すると\n・やってることは既存のエージェント系と地続き\n・連絡先まで与えて「人格」化したのが差別化\n・セルフホストで企業導入のハードルを下げた\n・無料版で試せる\n刺さる会社にはめちゃ刺さるやつやろ",
+      "highlight": "blue"
+    },
+    {
+      "no": 62,
+      "poster": "G",
+      "body": ">>61 まとめ乙\n過度な期待はせず試すのが正解やな",
+      "highlight": "none"
+    },
+    {
+      "no": 65,
+      "poster": "Y",
+      "body": "問題はワイが雇われる側ってことなんだよなあ",
+      "highlight": "none"
+    },
+    {
+      "no": 66,
+      "poster": "B",
+      "body": ">>65 AI従業員に評価される日も近い",
+      "highlight": "none"
+    },
+    {
+      "no": 67,
+      "poster": "Y",
+      "body": ">>66 「あなたの作業は非効率です」って言われたら泣く",
+      "highlight": "none"
+    },
+    {
+      "no": 70,
+      "poster": "Z",
+      "body": "結論：AIに名前つけると愛着湧いて解雇できなくなる",
+      "highlight": "none"
+    },
+    {
+      "no": 71,
+      "poster": "A",
+      "body": ">>70 サブスク解約できない病",
+      "highlight": "none"
+    },
+    {
+      "no": 72,
+      "poster": "OP",
+      "body": ">>70 なんJ民、AI従業員に情が移って人件費が減らない\n完",
+      "highlight": "red"
+    }
+  ],
+  "admin_comment": "「AI従業員」ってネーミングのインパクトが強いけど、結局は運用する人間次第という当たり前の結論に落ち着くの好き。無料版あるらしいので気になる人は触ってみては。",
+  "meta": {
+    "model": "claude-opus-5",
+    "usage": {
+      "input_tokens": 2629,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 0,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "iterations": [
+        {
+          "input_tokens": 2629,
+          "output_tokens": 3346,
+          "cache_read_input_tokens": 0,
+          "cache_creation_input_tokens": 0,
+          "cache_creation": {
+            "ephemeral_5m_input_tokens": 0,
+            "ephemeral_1h_input_tokens": 0
+          },
+          "type": "message",
+          "model": null
+        }
+      ],
+      "output_tokens": 3346,
+      "output_tokens_details": {
+        "thinking_tokens": 0
+      },
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  }
+}

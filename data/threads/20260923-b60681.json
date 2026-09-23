@@ -1,0 +1,416 @@
+{
+  "id": "20260923-b60681",
+  "createdAt": "2026-09-23T10:28:00.628Z",
+  "news": {
+    "title": "「GPT-6 Sol」と「GPT-6 Luna」が登場、API料金は前世代の半額でコスト効率が大幅に向上",
+    "url": "https://gigazine.net/news/20260923-gpt-6-sol-luna/",
+    "summary": "OpenAIが「GPT-6 Sol」と「GPT-6 Luna」を現地時間の2026年9月22日にリリースしました。どちらもGPT-6 Astraと同様の手法でトレーニングされており、前世代モデルと比べてコスト効率が大幅に向上しています。 続きを読む...",
+    "source": "GIGAZINE",
+    "publishedAt": "2026-09-23T06:30:00.000Z"
+  },
+  "thread_title": "【速報】OpenAI、「GPT-6 Sol」と「GPT-6 Luna」を発表 API料金は前世代の半額",
+  "matome_title": "【朗報】GPT-6 Sol／Luna爆誕、API料金半額でコスト効率大幅向上→住民「名前が中二すぎる」「財布より先に仕事が死ぬ」",
+  "category": "速報",
+  "tags": [
+    "OpenAI",
+    "GPT-6",
+    "API料金",
+    "生成AI"
+  ],
+  "intro": "OpenAIが現地時間9月22日に「GPT-6 Sol」「GPT-6 Luna」をリリース。GPT-6 Astraと同様の手法でトレーニングされ、前世代比でコスト効率が大幅に向上したとのこと。スレは料金の話と名前の話で半々になりました。",
+  "posts": [
+    {
+      "no": 1,
+      "poster": "OP",
+      "body": "OpenAIが「GPT-6 Sol」と「GPT-6 Luna」をリリース（現地時間2026年9月22日）\nどちらもGPT-6 Astraと同様の手法でトレーニング\n前世代モデルと比べてコスト効率が大幅に向上\nAPI料金は前世代の半額\n\nソース: GIGAZINE\n\nついに太陽と月が出たンゴ",
+      "highlight": "none"
+    },
+    {
+      "no": 2,
+      "poster": "A",
+      "body": "はえーよ",
+      "highlight": "none"
+    },
+    {
+      "no": 3,
+      "poster": "B",
+      "body": "Astraの次がSolとLunaって名前のセンスが完全に中二病ノートで草",
+      "highlight": "red"
+    },
+    {
+      "no": 4,
+      "poster": "C",
+      "body": "半額は素直にうれしい",
+      "highlight": "none"
+    },
+    {
+      "no": 5,
+      "poster": "D",
+      "body": ">>3 次はEclipseとか出しそう",
+      "highlight": "none"
+    },
+    {
+      "no": 6,
+      "poster": "A",
+      "body": ">>5 それ絶対出る（確信）",
+      "highlight": "none"
+    },
+    {
+      "no": 7,
+      "poster": "E",
+      "body": "で、どっちが賢いんや\nSolがデカくてLunaが軽いってことでええんか",
+      "highlight": "none"
+    },
+    {
+      "no": 8,
+      "poster": "OP",
+      "body": ">>7 記事にはそこまで書いてないンゴ\nとりあえず両方ともAstraと同じ手法でトレーニングされてるらしい",
+      "highlight": "none"
+    },
+    {
+      "no": 9,
+      "poster": "F",
+      "body": "ワイの名前当て予想\nSol = 昼間に使う高性能\nLuna = 夜中にこっそり使う安いやつ\nどや",
+      "highlight": "none"
+    },
+    {
+      "no": 10,
+      "poster": "G",
+      "body": ">>9 夜間割引のイメージで草",
+      "highlight": "none"
+    },
+    {
+      "no": 11,
+      "poster": "H",
+      "body": "毎回思うけど半額になっても使用量が3倍になるから請求額は増える",
+      "highlight": "blue"
+    },
+    {
+      "no": 12,
+      "poster": "C",
+      "body": ">>11 これ\nジェボンズのパラドックスってやつ",
+      "highlight": "none"
+    },
+    {
+      "no": 13,
+      "poster": "I",
+      "body": ">>12 かっこよく言うな　ただの散財や",
+      "highlight": "none"
+    },
+    {
+      "no": 14,
+      "poster": "J",
+      "body": "またベンチマークの棒グラフを眺める季節が来たな",
+      "highlight": "none"
+    },
+    {
+      "no": 15,
+      "poster": "B",
+      "body": "「コスト効率が大幅に向上」って言い回し、毎世代聞いてる気がする",
+      "highlight": "none"
+    },
+    {
+      "no": 16,
+      "poster": "K",
+      "body": "実務でAPI叩いてる側からすると半額はガチででかい\n月のトークン代が会社の飲み会予算超えてたからな",
+      "highlight": "red"
+    },
+    {
+      "no": 17,
+      "poster": "A",
+      "body": ">>16 飲み会が負けてるの世知辛すぎる",
+      "highlight": "none"
+    },
+    {
+      "no": 18,
+      "poster": "L",
+      "body": "ワイの仕事、今年いっぱい持つかな",
+      "highlight": "none"
+    },
+    {
+      "no": 19,
+      "poster": "D",
+      "body": ">>18 去年も同じこと言ってたやろ",
+      "highlight": "none"
+    },
+    {
+      "no": 20,
+      "poster": "L",
+      "body": ">>19 去年は「来年いっぱい」って言ってた\n着実に近づいてるんや",
+      "highlight": "blue"
+    },
+    {
+      "no": 21,
+      "poster": "M",
+      "body": "懐疑派やけど、正直「前世代比◯◯％」って社内計測やろ？\n第三者評価待ちやわ",
+      "highlight": "none"
+    },
+    {
+      "no": 22,
+      "poster": "E",
+      "body": ">>21 それはまあ正論\nただ料金は実際に払う数字だから嘘つけん",
+      "highlight": "none"
+    },
+    {
+      "no": 23,
+      "poster": "M",
+      "body": ">>22 たしかに値段は唯一のガチベンチマークやな",
+      "highlight": "red"
+    },
+    {
+      "no": 24,
+      "poster": "N",
+      "body": "Astra買ったばっかなんやが",
+      "highlight": "none"
+    },
+    {
+      "no": 25,
+      "poster": "G",
+      "body": ">>24 AIモデルは生鮮食品やぞ",
+      "highlight": "none"
+    },
+    {
+      "no": 26,
+      "poster": "O",
+      "body": "名前で検索性落ちるのやめてほしい\n「Sol 使い方」で検索したら太陽光パネルが出てくる",
+      "highlight": "none"
+    },
+    {
+      "no": 27,
+      "poster": "A",
+      "body": ">>26 Lunaは月面探査機とごっちゃになるしな",
+      "highlight": "none"
+    },
+    {
+      "no": 28,
+      "poster": "P",
+      "body": "　　∧＿∧\n　（ ･ω･ ）　半額……だと……？\n　 ⊂　　 ⊃\n　　 し―Ｊ",
+      "highlight": "none"
+    },
+    {
+      "no": 29,
+      "poster": "Q",
+      "body": "うちのPoCがまた作り直しになるやんけ\nプロンプト全部チューニングし直しやぞ",
+      "highlight": "none"
+    },
+    {
+      "no": 30,
+      "poster": "K",
+      "body": ">>29 わかる\nモデル変えるたびに評価セット回すのが本業になってる",
+      "highlight": "none"
+    },
+    {
+      "no": 31,
+      "poster": "R",
+      "body": "むしろ料金半分になったら評価セット回すコストも半分やん\nありがとうOpenAI",
+      "highlight": "none"
+    },
+    {
+      "no": 32,
+      "poster": "Q",
+      "body": ">>31 人件費は半分にならんのよ……",
+      "highlight": "blue"
+    },
+    {
+      "no": 33,
+      "poster": "S",
+      "body": "ところで無料枠は増えるんか？",
+      "highlight": "none"
+    },
+    {
+      "no": 38,
+      "poster": "OP",
+      "body": ">>33 記事にはAPI料金の話しか出てないンゴ\n変な期待はやめとこうや",
+      "highlight": "none"
+    },
+    {
+      "no": 41,
+      "poster": "T",
+      "body": "競合もこれで値下げ合戦するやろ\n消費者としては美味しい展開",
+      "highlight": "none"
+    },
+    {
+      "no": 43,
+      "poster": "M",
+      "body": ">>41 値下げ合戦は歓迎だけど、いつか止まるときが怖い",
+      "highlight": "none"
+    },
+    {
+      "no": 45,
+      "poster": "U",
+      "body": "GPT-6三兄弟\n長男Astra、次男Sol、末っ子Luna\n異論は認める",
+      "highlight": "none"
+    },
+    {
+      "no": 46,
+      "poster": "B",
+      "body": ">>45 誰が長男かで荒れるやつ",
+      "highlight": "none"
+    },
+    {
+      "no": 49,
+      "poster": "V",
+      "body": "Solに「お前とLunaどっちが賢い？」って聞いたら\n「私は比較評価を行う立場にありません」って返ってきそう",
+      "highlight": "none"
+    },
+    {
+      "no": 50,
+      "poster": "E",
+      "body": ">>49 めっちゃ言いそうで草",
+      "highlight": "red"
+    },
+    {
+      "no": 52,
+      "poster": "W",
+      "body": "冷静にまとめると\n・9/22リリース\n・Astraと同じ手法でトレーニング\n・API料金は前世代の半額\n・詳細ベンチは各自で確認\nこれだけや",
+      "highlight": "blue"
+    },
+    {
+      "no": 53,
+      "poster": "A",
+      "body": ">>52 有能",
+      "highlight": "none"
+    },
+    {
+      "no": 55,
+      "poster": "X",
+      "body": "ワイの用途（メールの丁寧語化）にはAstraでも過剰やった",
+      "highlight": "none"
+    },
+    {
+      "no": 57,
+      "poster": "D",
+      "body": ">>55 それ本当に多い\nみんなオーバースペック使って値下げを祈ってる",
+      "highlight": "none"
+    },
+    {
+      "no": 60,
+      "poster": "Y",
+      "body": "結局のところ、安くなるのはええことや\n個人開発者にとっては生命線",
+      "highlight": "none"
+    },
+    {
+      "no": 63,
+      "poster": "L",
+      "body": "安くなるほどワイの仕事に届く距離が縮まるんやが",
+      "highlight": "none"
+    },
+    {
+      "no": 64,
+      "poster": "G",
+      "body": ">>63 逆に考えるんや\nお前がSolとLunaを使う側になればええ",
+      "highlight": "none"
+    },
+    {
+      "no": 66,
+      "poster": "L",
+      "body": ">>64 使い方を覚えるコストが半額にならんのや",
+      "highlight": "red"
+    },
+    {
+      "no": 68,
+      "poster": "Z",
+      "body": "半年後には「GPT-6.5が出て旧モデル値下げ」って記事読んでる自信ある",
+      "highlight": "none"
+    },
+    {
+      "no": 70,
+      "poster": "H",
+      "body": ">>68 その頃には名前がまた増えてる",
+      "highlight": "none"
+    },
+    {
+      "no": 72,
+      "poster": "F",
+      "body": "Eclipse、Nova、Aurora、あたりは押さえとけ（予約）",
+      "highlight": "none"
+    },
+    {
+      "no": 75,
+      "poster": "C",
+      "body": ">>72 気象庁みたいになってきたな",
+      "highlight": "none"
+    },
+    {
+      "no": 78,
+      "poster": "K",
+      "body": "とりあえず明日の朝イチで社内の評価回すわ\n結果よかったら報告する",
+      "highlight": "none"
+    },
+    {
+      "no": 80,
+      "poster": "A",
+      "body": ">>78 期待",
+      "highlight": "none"
+    },
+    {
+      "no": 85,
+      "poster": "W",
+      "body": "値段が半分、期待値は2倍、労働時間は変わらず\n完璧なバランスやな",
+      "highlight": "none"
+    },
+    {
+      "no": 88,
+      "poster": "OP",
+      "body": "みんなの反応まとめると\n「半額はうれしい」\n「名前は中二」\n「結局使用量増えて請求は同じ」\nこれが2026年の生成AIや",
+      "highlight": "blue"
+    },
+    {
+      "no": 92,
+      "poster": "P",
+      "body": "　　∧＿∧\n　（ ･ω･ ）　太陽と月が出たなら\n　（　　 つ　　次は地球かな\n　　し―Ｊ",
+      "highlight": "none"
+    },
+    {
+      "no": 95,
+      "poster": "B",
+      "body": ">>92 地球（Terra）は絶対出る　賭けてもいい",
+      "highlight": "none"
+    },
+    {
+      "no": 98,
+      "poster": "E",
+      "body": "太陽と月に挟まれて、ワイらは地上で残業してるだけなんやけどな",
+      "highlight": "red"
+    },
+    {
+      "no": 100,
+      "poster": "A",
+      "body": ">>98 うまいこと言うな\nでもその残業、来年はSolがやってるぞ",
+      "highlight": "big"
+    }
+  ],
+  "admin_comment": "値下げのたびに使用量が増えて結局請求額が変わらない現象、そろそろ正式名称つけたほうがよさそうですね。Eclipse説の行方も気になります。",
+  "meta": {
+    "model": "claude-opus-5",
+    "usage": {
+      "input_tokens": 2587,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 0,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "iterations": [
+        {
+          "input_tokens": 2587,
+          "output_tokens": 3797,
+          "cache_read_input_tokens": 0,
+          "cache_creation_input_tokens": 0,
+          "cache_creation": {
+            "ephemeral_5m_input_tokens": 0,
+            "ephemeral_1h_input_tokens": 0
+          },
+          "type": "message",
+          "model": null
+        }
+      ],
+      "output_tokens": 3797,
+      "output_tokens_details": {
+        "thinking_tokens": 77
+      },
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  }
+}
