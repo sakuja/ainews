@@ -1,0 +1,386 @@
+{
+  "id": "20260924-c03a3f",
+  "createdAt": "2026-09-24T00:24:24.890Z",
+  "news": {
+    "title": "AIを導入しても“組織的には使われない”のはなぜ？ 「個人利用」にとどまる理由と脱却策",
+    "url": "https://atmarkit.itmedia.co.jp/ait/articles/2609/24/news026.html",
+    "summary": "生成AIやAIエージェントの導入が進んでも、活用は個人の効率化にとどまり、組織としての活用が進まない実態が見えてきた。それはなぜなのか。こうした状況から脱却するには何が必要なのか。調査結果から探る。",
+    "source": "ITmedia AI＋",
+    "publishedAt": "2026-09-23T23:00:00.000Z"
+  },
+  "thread_title": "【悲報】AI導入した会社、なぜか「個人でちょっと便利」止まりだった件",
+  "matome_title": "【悲報】会社でAI導入→結果「議事録が早くなった」だけ…“個人利用”から抜け出せない理由がガチで身に覚えありすぎる",
+  "category": "悲報",
+  "tags": [
+    "生成AI",
+    "AI導入",
+    "DX",
+    "働き方"
+  ],
+  "intro": "「全社導入しました！」と鳴り物入りで始まったのに、気づけば使ってるのは一部の物好きだけ…そんな経験ありませんか。AIの組織活用が進まない理由を論じる記事にAI板の住人が反応、なぜか共感の嵐になっていました。",
+  "posts": [
+    {
+      "no": 1,
+      "poster": "OP",
+      "body": "生成AIやAIエージェントの導入が進んでも、活用は個人の効率化にとどまり、組織としての活用が進まない実態が見えてきた。なぜなのか、脱却には何が必要か調査結果から探る\n（ITmedia AI＋）\n\nワイの会社、まさにこれ",
+      "highlight": "none"
+    },
+    {
+      "no": 2,
+      "poster": "A",
+      "body": "わかりすぎて草も生えない",
+      "highlight": "none"
+    },
+    {
+      "no": 3,
+      "poster": "B",
+      "body": "議事録要約が早くなりました！で終わる定期",
+      "highlight": "red"
+    },
+    {
+      "no": 4,
+      "poster": "C",
+      "body": ">>3\nそれ導入効果として報告書に載るのほんま虚無",
+      "highlight": "none"
+    },
+    {
+      "no": 5,
+      "poster": "D",
+      "body": "だって組織で使うと責任者が必要になるやん\n誰も手を挙げんのよ",
+      "highlight": "none"
+    },
+    {
+      "no": 6,
+      "poster": "A",
+      "body": ">>5\nこれが9割やと思う",
+      "highlight": "none"
+    },
+    {
+      "no": 7,
+      "poster": "E",
+      "body": "ワイ情シス、アカウント配って終わりにされた側",
+      "highlight": "none"
+    },
+    {
+      "no": 8,
+      "poster": "F",
+      "body": "アカウント配布＝DX完了と思ってる経営層な",
+      "highlight": "none"
+    },
+    {
+      "no": 9,
+      "poster": "B",
+      "body": "研修動画30分見せて「はい活用推進」",
+      "highlight": "none"
+    },
+    {
+      "no": 10,
+      "poster": "G",
+      "body": "ワイの部署、使ってるの3人だけ\nそのうち2人はワイの同期",
+      "highlight": "none"
+    },
+    {
+      "no": 11,
+      "poster": "C",
+      "body": ">>10\n残り1人が気になる",
+      "highlight": "none"
+    },
+    {
+      "no": 12,
+      "poster": "G",
+      "body": ">>11\n部長。使い方わからんからワイに聞いてくる\n実質2人",
+      "highlight": "blue"
+    },
+    {
+      "no": 13,
+      "poster": "H",
+      "body": "個人の効率化で止まるのは当然やろ\n業務プロセス自体を組み替えないと組織効果にならん\nでもプロセス変更は部門横断の政治案件なんや",
+      "highlight": "none"
+    },
+    {
+      "no": 14,
+      "poster": "A",
+      "body": ">>13\n急に真面目で草\nでも正しい",
+      "highlight": "none"
+    },
+    {
+      "no": 15,
+      "poster": "I",
+      "body": "ワイの上司「AIで何ができるか考えて」\nワイ「まず何に困ってるか教えてください」\n上司「困ってることはない」\n\n終わりや",
+      "highlight": "red"
+    },
+    {
+      "no": 16,
+      "poster": "J",
+      "body": ">>15\nこれ全国で同時多発的に起きてるやろ",
+      "highlight": "none"
+    },
+    {
+      "no": 17,
+      "poster": "K",
+      "body": "逆に個人で使えてるだけ偉くない？\n禁止してる会社もあるんやぞ",
+      "highlight": "none"
+    },
+    {
+      "no": 18,
+      "poster": "D",
+      "body": ">>17\n一理ある\nうちは「機密情報入れるな」だけ言われて誰も使わなくなった",
+      "highlight": "none"
+    },
+    {
+      "no": 19,
+      "poster": "L",
+      "body": "情報漏洩コワイコワイ病",
+      "highlight": "none"
+    },
+    {
+      "no": 20,
+      "poster": "E",
+      "body": "ルール作る係が一番忙しくて一番AI使ってないのが闇",
+      "highlight": "blue"
+    },
+    {
+      "no": 21,
+      "poster": "M",
+      "body": "ソース元の調査ってサンプル何件なん\n出せ",
+      "highlight": "none"
+    },
+    {
+      "no": 22,
+      "poster": "OP",
+      "body": ">>21\n記事読め\nワイも詳細までは書けん",
+      "highlight": "none"
+    },
+    {
+      "no": 23,
+      "poster": "M",
+      "body": ">>22\nつまり読んでないんやな",
+      "highlight": "none"
+    },
+    {
+      "no": 24,
+      "poster": "N",
+      "body": "ワイの会社は成功しとるで\n・業務ごとに「誰が使うか」決めた\n・効果測定を工数ではなく件数でやった\n・失敗事例も共有会で出す\nこれだけで定着率跳ね上がった",
+      "highlight": "big"
+    },
+    {
+      "no": 25,
+      "poster": "A",
+      "body": ">>24\nちゃんとしてて草\n失敗事例共有はガチで効く",
+      "highlight": "none"
+    },
+    {
+      "no": 26,
+      "poster": "H",
+      "body": ">>24\n3つ目が本命やな\n成功事例だけ集めると「うちには関係ない」で終わる",
+      "highlight": "none"
+    },
+    {
+      "no": 27,
+      "poster": "O",
+      "body": "ワイ「AIで資料作りました」\n上司「これAI？ならもう一回人間が全部チェックして」\nワイ「（作った方が早い）」",
+      "highlight": "none"
+    },
+    {
+      "no": 28,
+      "poster": "C",
+      "body": ">>27\nチェックコストが利得を食う問題",
+      "highlight": "none"
+    },
+    {
+      "no": 29,
+      "poster": "P",
+      "body": "そもそも組織って新しいもの嫌いやからな\nハンコ文化と同じ運命やろ",
+      "highlight": "none"
+    },
+    {
+      "no": 31,
+      "poster": "Q",
+      "body": "AIに仕事奪われる〜とか言われてたけど\n現実は組織がAIを奪ってる",
+      "highlight": "red"
+    },
+    {
+      "no": 33,
+      "poster": "B",
+      "body": ">>31\n綺麗にまとめるな",
+      "highlight": "none"
+    },
+    {
+      "no": 35,
+      "poster": "R",
+      "body": "ワイの部署、Excelマクロすら定着しとらんのやが",
+      "highlight": "none"
+    },
+    {
+      "no": 36,
+      "poster": "A",
+      "body": ">>35\nスタートラインが違いすぎる",
+      "highlight": "none"
+    },
+    {
+      "no": 38,
+      "poster": "S",
+      "body": "結局「誰の業務が減ったか」を明確にすると\n誰かの仕事が無くなるって話になって止まる",
+      "highlight": "blue"
+    },
+    {
+      "no": 39,
+      "poster": "H",
+      "body": ">>38\nこれ本質\n個人利用に留まるのは実は合理的な防衛行動なんよ\n組織活用＝業務再設計＝人員再配置\nそこまで踏み込む覚悟が経営にないだけ",
+      "highlight": "big"
+    },
+    {
+      "no": 41,
+      "poster": "K",
+      "body": ">>39\n急に経営コンサルが湧いてて草\nでも納得",
+      "highlight": "none"
+    },
+    {
+      "no": 43,
+      "poster": "T",
+      "body": "ワイの会社はAI推進室ができた\n\n\n　＼＼　　⊂ヽ\n　　＼＼ ／　＼\n　　　（＿）　　＼\n\n推進室、3ヶ月で解散した",
+      "highlight": "none"
+    },
+    {
+      "no": 44,
+      "poster": "C",
+      "body": ">>43\nAAが崩壊してるのと会社が崩壊してるのが同時で草",
+      "highlight": "none"
+    },
+    {
+      "no": 46,
+      "poster": "U",
+      "body": "ボトムアップで勝手に使う→怒られる\nトップダウンで降ってくる→現場が使わない\n\n詰み",
+      "highlight": "none"
+    },
+    {
+      "no": 48,
+      "poster": "N",
+      "body": ">>46\nうちは真ん中の課長層を落としたで\n課長が使ってると部下も使う",
+      "highlight": "none"
+    },
+    {
+      "no": 49,
+      "poster": "D",
+      "body": ">>48\nミドルが鍵ってやつか",
+      "highlight": "none"
+    },
+    {
+      "no": 52,
+      "poster": "V",
+      "body": "ワイ新人、周りの誰もAI使ってないから\nこっそり使って「仕事早いね」って褒められてる",
+      "highlight": "red"
+    },
+    {
+      "no": 53,
+      "poster": "A",
+      "body": ">>52\n情報格差で無双してて草",
+      "highlight": "none"
+    },
+    {
+      "no": 54,
+      "poster": "G",
+      "body": ">>52\nそれ組織的には失敗やけど個人的には大成功やん",
+      "highlight": "none"
+    },
+    {
+      "no": 57,
+      "poster": "W",
+      "body": "つまりこの記事のタイトル\n「AIを導入しても組織的には使われない」\nは\n「組織がAIを使える形になってない」\nの言い換えなんよな",
+      "highlight": "none"
+    },
+    {
+      "no": 61,
+      "poster": "H",
+      "body": ">>57\nそれ\nツールの問題にしとる限り永久に解決せん",
+      "highlight": "none"
+    },
+    {
+      "no": 65,
+      "poster": "X",
+      "body": "結論\n・AIは入れた\n・使い方は各自\n・効果は不明\n・来期また新しいツールが入る",
+      "highlight": "blue"
+    },
+    {
+      "no": 66,
+      "poster": "B",
+      "body": ">>65\n完璧な社史で草",
+      "highlight": "none"
+    },
+    {
+      "no": 70,
+      "poster": "Y",
+      "body": "ワイの会社、AI活用度の全社アンケートが来たんやが\nそのアンケートの集計を手作業でやってて泣いた",
+      "highlight": "big"
+    },
+    {
+      "no": 71,
+      "poster": "C",
+      "body": ">>70\nオチが強すぎる",
+      "highlight": "none"
+    },
+    {
+      "no": 72,
+      "poster": "A",
+      "body": ">>70\nそこにAI使えや",
+      "highlight": "none"
+    },
+    {
+      "no": 75,
+      "poster": "OP",
+      "body": ">>70\nスレ終わらせるな\n\nでもまあ、個人で使えてる奴が地道に隣の席に広げるのが一番早い気はするわ\n推進室より同僚の「これ便利やで」が強い",
+      "highlight": "none"
+    },
+    {
+      "no": 78,
+      "poster": "N",
+      "body": ">>75\n正解や\n結局それが一番定着する",
+      "highlight": "none"
+    },
+    {
+      "no": 80,
+      "poster": "V",
+      "body": "ほな明日、隣の先輩に教えてみるわ",
+      "highlight": "none"
+    },
+    {
+      "no": 81,
+      "poster": "A",
+      "body": ">>80\n頑張れ\n3ヶ月後に報告に来い",
+      "highlight": "none"
+    }
+  ],
+  "admin_comment": "「推進室より同僚の“これ便利やで”が強い」、身も蓋もないけど一番真理な気がします。まずは隣の席から始めてみましょう。",
+  "meta": {
+    "model": "claude-opus-5",
+    "usage": {
+      "input_tokens": 2563,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 0,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "iterations": [
+        {
+          "input_tokens": 2563,
+          "output_tokens": 3501,
+          "cache_read_input_tokens": 0,
+          "cache_creation_input_tokens": 0,
+          "cache_creation": {
+            "ephemeral_5m_input_tokens": 0,
+            "ephemeral_1h_input_tokens": 0
+          },
+          "type": "message",
+          "model": null
+        }
+      ],
+      "output_tokens": 3501,
+      "output_tokens_details": {
+        "thinking_tokens": 0
+      },
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  }
+}

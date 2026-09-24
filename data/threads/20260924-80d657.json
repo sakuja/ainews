@@ -1,0 +1,380 @@
+{
+  "id": "20260924-80d657",
+  "createdAt": "2026-09-24T00:23:32.683Z",
+  "news": {
+    "title": "「汎用AIにデータを渡すだけ」では専門業務をこなせない？ トムソン・ロイターが独自LLM「Thomson」を構築した理由",
+    "url": "https://atmarkit.itmedia.co.jp/ait/articles/2609/24/news019.html",
+    "summary": "ロイター通信を傘下に持つThomson Reutersは、自社開発した大規模言語モデル「Thomson」を発表した。推論コストを抑えつつも、高い専門性と完全なデータ制御を実現したという。同社のアプローチに迫る。",
+    "source": "ITmedia AI＋",
+    "publishedAt": "2026-09-23T23:00:00.000Z"
+  },
+  "thread_title": "【AI】トムソン・ロイター、独自LLM「Thomson」を構築 「汎用AIにデータ渡すだけ」では専門業務は無理だった",
+  "matome_title": "【議論】ロイター「汎用AIにデータ渡すだけじゃ専門業務こなせんかったわ」→独自LLM「Thomson」を自社構築",
+  "category": "議論",
+  "tags": [
+    "LLM",
+    "トムソン・ロイター",
+    "自社開発AI",
+    "RAG"
+  ],
+  "intro": "法務・税務のプロ向け情報企業が、汎用LLMに頼らず自社モデルを作ったというニュース。スレ民の反応が「そらそうよ」と「金持ちの道楽」で真っ二つに割れてて草。",
+  "posts": [
+    {
+      "no": 1,
+      "poster": "OP",
+      "body": "トムソン・ロイターが自社開発の大規模言語モデル「Thomson」を発表\n推論コストを抑えつつ、高い専門性と完全なデータ制御を実現したとのこと\n「汎用AIにデータを渡すだけ」では専門業務をこなせなかった模様\n\nソース: ITmedia AI＋\n\nワイ「RAGでよくない？」って思ったけどダメなんか？",
+      "highlight": "none"
+    },
+    {
+      "no": 2,
+      "poster": "A",
+      "body": "モデル名がそのまま「Thomson」なの潔くて好き",
+      "highlight": "none"
+    },
+    {
+      "no": 3,
+      "poster": "B",
+      "body": ">>2 社名そのまま付けるのは自信の表れやろ",
+      "highlight": "none"
+    },
+    {
+      "no": 4,
+      "poster": "C",
+      "body": "法務系はハルシネーション一発アウトの世界やからな",
+      "highlight": "none"
+    },
+    {
+      "no": 5,
+      "poster": "D",
+      "body": "判例を捏造するAIとか弁護士にとって核地雷やん",
+      "highlight": "red"
+    },
+    {
+      "no": 6,
+      "poster": "A",
+      "body": ">>5 存在しない判例を堂々と引用してくるの、ガチで一番やってはいけないやつ",
+      "highlight": "none"
+    },
+    {
+      "no": 7,
+      "poster": "E",
+      "body": "ワイ法務、社内で「AI使え」って言われるけど出典確認で結局同じ時間かかる",
+      "highlight": "none"
+    },
+    {
+      "no": 8,
+      "poster": "F",
+      "body": ">>7 これ全業種であるあるすぎる",
+      "highlight": "none"
+    },
+    {
+      "no": 9,
+      "poster": "G",
+      "body": "で、結局RAGじゃダメな理由は？記事読んでも「専門性」としか書いてなくない？",
+      "highlight": "none"
+    },
+    {
+      "no": 10,
+      "poster": "B",
+      "body": ">>9 概要しか出てないから断定はできんけど、専門ドメインは用語の指す範囲が汎用と全然違うから、検索で文書持ってきても解釈でコケるって話ちゃうか",
+      "highlight": "none"
+    },
+    {
+      "no": 11,
+      "poster": "H",
+      "body": "「データを渡すだけ」って言い方がもう実務者の怨念こもってて草",
+      "highlight": "blue"
+    },
+    {
+      "no": 12,
+      "poster": "C",
+      "body": ">>11 ワイも同じこと思った\n上層部「データ食わせとけば賢くなるんだろ？」\n現場「ならんが？」",
+      "highlight": "none"
+    },
+    {
+      "no": 13,
+      "poster": "I",
+      "body": "推論コストを抑えつつ、ってのが地味に一番デカいと思う",
+      "highlight": "none"
+    },
+    {
+      "no": 14,
+      "poster": "J",
+      "body": ">>13 それな。特化型の小さいモデルのほうが単価安いし速い",
+      "highlight": "none"
+    },
+    {
+      "no": 15,
+      "poster": "G",
+      "body": ">>10 なるほど、検索は当てられても読みが甘いってことか",
+      "highlight": "none"
+    },
+    {
+      "no": 16,
+      "poster": "K",
+      "body": "完全なデータ制御ってワードに反応する情シス民ワイ",
+      "highlight": "none"
+    },
+    {
+      "no": 17,
+      "poster": "E",
+      "body": ">>16 顧客の機密契約書を外部APIに投げるの、正直毎回心臓に悪い",
+      "highlight": "none"
+    },
+    {
+      "no": 18,
+      "poster": "L",
+      "body": "結局カネと人がある会社しかできないやつやん",
+      "highlight": "none"
+    },
+    {
+      "no": 19,
+      "poster": "A",
+      "body": ">>18 まあ160年以上かけて集めた自社データがある会社の特権やな",
+      "highlight": "none"
+    },
+    {
+      "no": 20,
+      "poster": "M",
+      "body": "ここで一句\n渡すだけ　賢くなると　思ってた",
+      "highlight": "none"
+    },
+    {
+      "no": 21,
+      "poster": "B",
+      "body": ">>20 上司の川柳やめろ",
+      "highlight": "none"
+    },
+    {
+      "no": 22,
+      "poster": "N",
+      "body": "懐疑派ワイ「どうせ汎用モデルをファインチューンしただけやろ」",
+      "highlight": "none"
+    },
+    {
+      "no": 23,
+      "poster": "I",
+      "body": ">>22 それも十分「独自LLM」を名乗る範囲だと思うけどな最近は\nどこからスクラッチかの定義が曖昧すぎる",
+      "highlight": "none"
+    },
+    {
+      "no": 24,
+      "poster": "O",
+      "body": "ここ数年で「巨大な汎用モデル1個で全部」から「用途別に小さいの並べる」に潮目変わってきたよな",
+      "highlight": "blue"
+    },
+    {
+      "no": 25,
+      "poster": "D",
+      "body": ">>24 現場のコスト計算すると自然にそうなる",
+      "highlight": "none"
+    },
+    {
+      "no": 26,
+      "poster": "P",
+      "body": "ワイの会社もやろうとして見積もり出た瞬間に企画が消えた",
+      "highlight": "none"
+    },
+    {
+      "no": 27,
+      "poster": "F",
+      "body": ">>26 かなしいなあ",
+      "highlight": "none"
+    },
+    {
+      "no": 28,
+      "poster": "Q",
+      "body": "　　∧＿∧\n　（ ´･ω･）　＜ データはあるんだ\n　（　 つ旦O\n　と_)_)　　　  予算がないだけで",
+      "highlight": "none"
+    },
+    {
+      "no": 31,
+      "poster": "E",
+      "body": ">>28 泣いた",
+      "highlight": "none"
+    },
+    {
+      "no": 33,
+      "poster": "R",
+      "body": "てかロイターって報道の会社ってイメージだったけど法務・税務の情報サービスが本体なんよな",
+      "highlight": "none"
+    },
+    {
+      "no": 35,
+      "poster": "A",
+      "body": ">>33 プロ向けDBがメシの種や。そら専門性に全振りするわ",
+      "highlight": "none"
+    },
+    {
+      "no": 37,
+      "poster": "N",
+      "body": "で精度どんくらい上がったんや？数字出せ数字",
+      "highlight": "none"
+    },
+    {
+      "no": 38,
+      "poster": "B",
+      "body": ">>37 概要には書いてないからワイも知らん。本文読んでこい",
+      "highlight": "none"
+    },
+    {
+      "no": 40,
+      "poster": "S",
+      "body": "結局AIって仕事奪うんか奪わんのかどっちなんや",
+      "highlight": "none"
+    },
+    {
+      "no": 42,
+      "poster": "C",
+      "body": ">>40 この手の話は「奪う」より「下調べが爆速になって求められる成果物の水準が上がる」やと思う",
+      "highlight": "red"
+    },
+    {
+      "no": 43,
+      "poster": "S",
+      "body": ">>42 それ一番つらいやつ",
+      "highlight": "none"
+    },
+    {
+      "no": 45,
+      "poster": "E",
+      "body": ">>42 ほんまこれ。時短した分だけ案件数増えるだけなんよ",
+      "highlight": "none"
+    },
+    {
+      "no": 47,
+      "poster": "T",
+      "body": "専門特化モデルの弱点は、専門外の質問ふられると急にポンコツになるとこ",
+      "highlight": "none"
+    },
+    {
+      "no": 48,
+      "poster": "I",
+      "body": ">>47 そこは汎用にルーティングすればええだけや",
+      "highlight": "none"
+    },
+    {
+      "no": 50,
+      "poster": "U",
+      "body": "ワイの予想\n5年後「やっぱり汎用モデルが賢くなりすぎて専用モデル要らんかったわ」",
+      "highlight": "none"
+    },
+    {
+      "no": 52,
+      "poster": "O",
+      "body": ">>50 その可能性はガチである。ただデータ制御の要件は賢さでは解決せんのよ",
+      "highlight": "blue"
+    },
+    {
+      "no": 53,
+      "poster": "U",
+      "body": ">>52 たしかに規制側の都合は性能と無関係やったわ",
+      "highlight": "none"
+    },
+    {
+      "no": 56,
+      "poster": "V",
+      "body": "まとめると\n・汎用AIに社内データ渡すだけでは専門業務は無理だった\n・自社LLM作って専門性・コスト・データ主権を同時に取りに行った\n・できるのは金とデータがある会社\nこれでええか？",
+      "highlight": "big"
+    },
+    {
+      "no": 57,
+      "poster": "A",
+      "body": ">>56 完璧",
+      "highlight": "none"
+    },
+    {
+      "no": 58,
+      "poster": "G",
+      "body": ">>56 有能。ワイの最初の疑問も解消したわサンガツ",
+      "highlight": "none"
+    },
+    {
+      "no": 61,
+      "poster": "N",
+      "body": "認めたくないが正論で草",
+      "highlight": "none"
+    },
+    {
+      "no": 64,
+      "poster": "P",
+      "body": "うちの会社にもこのまとめ見せたい",
+      "highlight": "none"
+    },
+    {
+      "no": 66,
+      "poster": "M",
+      "body": ">>64 見せた結果「じゃあうちもThomson作ろう」って言われるとこまで見えた",
+      "highlight": "none"
+    },
+    {
+      "no": 67,
+      "poster": "F",
+      "body": ">>66 名前は社名から取るんやろ？",
+      "highlight": "none"
+    },
+    {
+      "no": 68,
+      "poster": "P",
+      "body": ">>67 うちの社名で作ったら語感が最悪すぎて誰も使わんと思う",
+      "highlight": "none"
+    },
+    {
+      "no": 70,
+      "poster": "D",
+      "body": ">>68 そこが一番の技術的障壁で草",
+      "highlight": "none"
+    },
+    {
+      "no": 73,
+      "poster": "E",
+      "body": "結局「データを渡すだけ」で済む仕事は、渡すだけで済む程度の仕事だったってことやな",
+      "highlight": "red"
+    },
+    {
+      "no": 75,
+      "poster": "C",
+      "body": ">>73 急に刺してくるのやめろ",
+      "highlight": "none"
+    },
+    {
+      "no": 78,
+      "poster": "OP",
+      "body": ">>73 スレタイに採用したいレベルで草\nみんなサンガツ、ワイもRAGちゃんと見直してくるわ",
+      "highlight": "none"
+    }
+  ],
+  "admin_comment": "「渡すだけで賢くなると思ってた」上司、全国に何万人いるんでしょうか。専門業務ほど泥臭い作り込みが効くという、当たり前だけど忘れがちな話でした。",
+  "meta": {
+    "model": "claude-opus-5",
+    "usage": {
+      "input_tokens": 2576,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 0,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "iterations": [
+        {
+          "input_tokens": 2576,
+          "output_tokens": 3487,
+          "cache_read_input_tokens": 0,
+          "cache_creation_input_tokens": 0,
+          "cache_creation": {
+            "ephemeral_5m_input_tokens": 0,
+            "ephemeral_1h_input_tokens": 0
+          },
+          "type": "message",
+          "model": null
+        }
+      ],
+      "output_tokens": 3487,
+      "output_tokens_details": {
+        "thinking_tokens": 65
+      },
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  }
+}
