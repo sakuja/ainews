@@ -1,0 +1,434 @@
+{
+  "id": "20260925-952c49",
+  "createdAt": "2026-09-25T00:27:29.970Z",
+  "news": {
+    "title": "ソフトPLCがAIの「道具」に、簡単導入のPLCドラレコカメラも",
+    "url": "https://monoist.itmedia.co.jp/mn/articles/2609/25/news058.html",
+    "summary": "アイ・エル・シーは「産業オープンネット展2026」において、設備監視用ソリューションや組み込みソフトウェアPLCを紹介した。",
+    "source": "ITmedia AI＋",
+    "publishedAt": "2026-09-24T22:15:00.000Z"
+  },
+  "thread_title": "【速報】ソフトPLCがAIの「道具」になる時代、設備用ドラレコカメラも登場",
+  "matome_title": "【朗報】ソフトPLCがAIの「道具」に→現場ニキ「ついにラダー書かなくてよくなるのか？」",
+  "category": "速報",
+  "tags": [
+    "PLC",
+    "製造業",
+    "FA",
+    "産業オープンネット展"
+  ],
+  "intro": "「産業オープンネット展2026」でアイ・エル・シーが設備監視ソリューションと組み込みソフトウェアPLCを紹介したそうです。スレは制御系ニキたちの独特なノリで埋まりました。",
+  "posts": [
+    {
+      "no": 1,
+      "poster": "OP",
+      "body": "ソフトPLCがAIの「道具」に、簡単導入のPLCドラレコカメラも（ITmedia AI＋）\n\nアイ・エル・シーは「産業オープンネット展2026」で、設備監視用ソリューションや組み込みソフトウェアPLCを紹介した\n\nついに来たか",
+      "highlight": "none"
+    },
+    {
+      "no": 2,
+      "poster": "A",
+      "body": "PLCって何や\n電力会社？",
+      "highlight": "none"
+    },
+    {
+      "no": 3,
+      "poster": "B",
+      "body": ">>2 工場の機械動かしてる箱や\nお前の目の前の自販機にも入っとるかもしれん",
+      "highlight": "none"
+    },
+    {
+      "no": 4,
+      "poster": "C",
+      "body": "ドラレコカメラって設備が煽り運転でもするんか",
+      "highlight": "none"
+    },
+    {
+      "no": 5,
+      "poster": "D",
+      "body": ">>4 装置が暴走してワークぶっ飛ばした瞬間を録画しとくんやろ\n「え、なんで止まったの？」が一番不毛な時間やからな",
+      "highlight": "blue"
+    },
+    {
+      "no": 6,
+      "poster": "E",
+      "body": "ワイ制御屋、これガチで欲しい\n夜中にアラーム出て朝行ったら何も残ってへんとかザラ",
+      "highlight": "none"
+    },
+    {
+      "no": 7,
+      "poster": "A",
+      "body": ">>5 なるほど納得した",
+      "highlight": "none"
+    },
+    {
+      "no": 8,
+      "poster": "F",
+      "body": "で、AIの「道具」ってなんや\nツール呼び出しの話か？",
+      "highlight": "none"
+    },
+    {
+      "no": 9,
+      "poster": "B",
+      "body": ">>8 そういう文脈やろな\nAIが直接PLCを叩くんやなくて、AIが使えるインターフェースとして置かれるって話",
+      "highlight": "none"
+    },
+    {
+      "no": 10,
+      "poster": "G",
+      "body": "AIにPLC触らせるとか正気か？\n人が挟まれたらどうすんねん",
+      "highlight": "red"
+    },
+    {
+      "no": 11,
+      "poster": "D",
+      "body": ">>10 そこは安全回路が別レイヤーやから\n安全はハードワイヤで切るのが基本や",
+      "highlight": "none"
+    },
+    {
+      "no": 12,
+      "poster": "G",
+      "body": ">>11 まあそこ切り離してあるなら分かる\nでも現場の人間は「AIが動かしてる」って聞いた時点で怖がるで",
+      "highlight": "none"
+    },
+    {
+      "no": 13,
+      "poster": "H",
+      "body": "ラダー図をAIが書く未来",
+      "highlight": "none"
+    },
+    {
+      "no": 14,
+      "poster": "E",
+      "body": ">>13 ラダーは画像やからな…\nテキストで吐けないんよあれ",
+      "highlight": "none"
+    },
+    {
+      "no": 15,
+      "poster": "F",
+      "body": ">>14 ST言語なら余裕やろ\n結局ラダーが残ってるのは現場のおっちゃんが読めるからという理由だけ",
+      "highlight": "none"
+    },
+    {
+      "no": 16,
+      "poster": "I",
+      "body": "ワイ工場勤務、また仕事が減る音がする",
+      "highlight": "none"
+    },
+    {
+      "no": 17,
+      "poster": "D",
+      "body": ">>16 減らんぞ\n設備が増えて保全が足りんのが現状やから、むしろ監視の手が増えて助かる側",
+      "highlight": "blue"
+    },
+    {
+      "no": 18,
+      "poster": "I",
+      "body": ">>17 ほんまか\n信じてええんか",
+      "highlight": "none"
+    },
+    {
+      "no": 19,
+      "poster": "J",
+      "body": "ソフトPLC自体は昔からあるやろ\n何が新しいんや",
+      "highlight": "none"
+    },
+    {
+      "no": 20,
+      "poster": "B",
+      "body": ">>19 それな\nPC上でPLC動かすのは20年前からある\nただ「組み込み」で「AIから触れる」って組み合わせが今風なんやと思う",
+      "highlight": "none"
+    },
+    {
+      "no": 21,
+      "poster": "K",
+      "body": "ハードPLC「ワイの立場は」",
+      "highlight": "none"
+    },
+    {
+      "no": 22,
+      "poster": "C",
+      "body": ">>21 お前はまだ10年は戦える\n現場はそんな簡単に置き換わらん",
+      "highlight": "none"
+    },
+    {
+      "no": 23,
+      "poster": "E",
+      "body": "うちの工場、まだWindowsXPのHMIが生きとる",
+      "highlight": "red"
+    },
+    {
+      "no": 24,
+      "poster": "F",
+      "body": ">>23 ヒェッ",
+      "highlight": "none"
+    },
+    {
+      "no": 25,
+      "poster": "G",
+      "body": ">>23 ネットワークから切り離してあるならセーフ\n繋がってたらアウト",
+      "highlight": "none"
+    },
+    {
+      "no": 26,
+      "poster": "E",
+      "body": ">>25 ………",
+      "highlight": "none"
+    },
+    {
+      "no": 27,
+      "poster": "D",
+      "body": ">>26 おい",
+      "highlight": "none"
+    },
+    {
+      "no": 28,
+      "poster": "L",
+      "body": "産業オープンネット展とかいう一般人が絶対知らない展示会",
+      "highlight": "none"
+    },
+    {
+      "no": 29,
+      "poster": "H",
+      "body": ">>28 でも制御界隈では毎年楽しみにしとる人おるんやで\n通信規格のブースが並んでて壮観",
+      "highlight": "none"
+    },
+    {
+      "no": 30,
+      "poster": "A",
+      "body": "通信規格の名前多すぎて覚えられん",
+      "highlight": "none"
+    },
+    {
+      "no": 31,
+      "poster": "B",
+      "body": ">>30 覚えなくてええ\n現場で使ってるやつだけ覚えろ\nそれ以外は隣の工場の宗教",
+      "highlight": "big"
+    },
+    {
+      "no": 32,
+      "poster": "M",
+      "body": "ドラレコの話に戻すけど、映像だけやなくてその瞬間のPLCの信号も一緒に残るなら神やろ",
+      "highlight": "none"
+    },
+    {
+      "no": 33,
+      "poster": "E",
+      "body": ">>32 それが本命や\n映像＋I/Oのログが時間軸揃って残ってるだけで原因究明が10倍速くなる",
+      "highlight": "blue"
+    },
+    {
+      "no": 34,
+      "poster": "M",
+      "body": ">>33 分かる\n「センサが検知しなかった」のか「検知したけど動かなかった」のかで全然違うもんな",
+      "highlight": "none"
+    },
+    {
+      "no": 37,
+      "poster": "N",
+      "body": "AIに「なんで止まったの？」って聞いたら答えてくれる世界か",
+      "highlight": "none"
+    },
+    {
+      "no": 38,
+      "poster": "G",
+      "body": ">>37 それで「たぶんセンサですね」とか適当言われたら困る",
+      "highlight": "none"
+    },
+    {
+      "no": 39,
+      "poster": "D",
+      "body": ">>38 ログと映像という根拠があるなら、人間の「たぶんセンサやろ」よりはマシかもしれん",
+      "highlight": "none"
+    },
+    {
+      "no": 40,
+      "poster": "G",
+      "body": ">>39 ぐうの音も出ない",
+      "highlight": "none"
+    },
+    {
+      "no": 43,
+      "poster": "O",
+      "body": "ワイ、20年前から「たぶんセンサやろ」しか言ってない",
+      "highlight": "red"
+    },
+    {
+      "no": 44,
+      "poster": "C",
+      "body": ">>43 それで直っとるのが草",
+      "highlight": "none"
+    },
+    {
+      "no": 45,
+      "poster": "O",
+      "body": ">>44 実際7割は当たる\n残り3割で2日溶ける",
+      "highlight": "none"
+    },
+    {
+      "no": 46,
+      "poster": "F",
+      "body": ">>45 その3割を潰すための技術やんけ",
+      "highlight": "blue"
+    },
+    {
+      "no": 50,
+      "poster": "P",
+      "body": "問題は導入コストやろ\n中小の工場にそんな金ない",
+      "highlight": "none"
+    },
+    {
+      "no": 51,
+      "poster": "D",
+      "body": ">>50 記事にも「簡単導入」って書いてあるしそこ狙いやろ\n実際いくらかは知らんけど",
+      "highlight": "none"
+    },
+    {
+      "no": 52,
+      "poster": "P",
+      "body": ">>51 簡単導入って書いてあるやつが簡単やった試しがない",
+      "highlight": "none"
+    },
+    {
+      "no": 53,
+      "poster": "B",
+      "body": ">>52 それな\n「ノーコード」って書いてあるやつも結局コード書く",
+      "highlight": "none"
+    },
+    {
+      "no": 57,
+      "poster": "Q",
+      "body": "　＿人人人人人人＿\n　＞　たぶんセンサ　＜\n　￣Y^Y^Y^Y^Y^Y￣",
+      "highlight": "none"
+    },
+    {
+      "no": 58,
+      "poster": "E",
+      "body": ">>57 現場の心の声で草",
+      "highlight": "none"
+    },
+    {
+      "no": 62,
+      "poster": "R",
+      "body": "真面目な話、この手のやつは「現場のおっちゃんが使えるか」が全て\nどんなに高機能でも画面が複雑なら誰も触らん",
+      "highlight": "big"
+    },
+    {
+      "no": 63,
+      "poster": "H",
+      "body": ">>62 これ\nうちに導入された監視システム、誰もログイン方法知らん",
+      "highlight": "none"
+    },
+    {
+      "no": 64,
+      "poster": "M",
+      "body": ">>63 悲しすぎる",
+      "highlight": "none"
+    },
+    {
+      "no": 70,
+      "poster": "I",
+      "body": "結局ワイの仕事は残るんか残らんのか",
+      "highlight": "none"
+    },
+    {
+      "no": 71,
+      "poster": "D",
+      "body": ">>70 お前が「たぶんセンサ」しか言わんなら消える\n原因を特定して対策打てるなら残る",
+      "highlight": "red"
+    },
+    {
+      "no": 72,
+      "poster": "I",
+      "body": ">>71 明日から勉強するわ",
+      "highlight": "none"
+    },
+    {
+      "no": 78,
+      "poster": "S",
+      "body": "ワイ結論\n・ソフトPLC自体は昔からある\n・AIから触れる口が付いたのが今っぽい\n・ドラレコは映像＋信号ログが揃えば強い\n・でも現場が使いこなせるかは別問題\nこんなとこやろ",
+      "highlight": "blue"
+    },
+    {
+      "no": 79,
+      "poster": "B",
+      "body": ">>78 完璧なまとめ\nお前が記事書けや",
+      "highlight": "none"
+    },
+    {
+      "no": 85,
+      "poster": "O",
+      "body": ">>78 で、それ結局センサやろ？",
+      "highlight": "none"
+    },
+    {
+      "no": 86,
+      "poster": "E",
+      "body": ">>85 お前もう帰れ",
+      "highlight": "none"
+    },
+    {
+      "no": 87,
+      "poster": "C",
+      "body": ">>85 20年分の説得力があるのが腹立つ",
+      "highlight": "none"
+    },
+    {
+      "no": 93,
+      "poster": "A",
+      "body": "門外漢やけどスレ読んでたらちょっと工場行きたくなったわ",
+      "highlight": "none"
+    },
+    {
+      "no": 94,
+      "poster": "D",
+      "body": ">>93 来い\n人手足りてないから歓迎や\nただし夜中にアラーム鳴る",
+      "highlight": "none"
+    },
+    {
+      "no": 95,
+      "poster": "A",
+      "body": ">>94 ドラレコが原因教えてくれるまで待つわ",
+      "highlight": "big"
+    },
+    {
+      "no": 96,
+      "poster": "E",
+      "body": ">>95 賢い",
+      "highlight": "none"
+    }
+  ],
+  "admin_comment": "映像と信号ログが揃うだけで原因究明が速くなる、という現場ニキの話が一番実感こもってました。結局は「おっちゃんが使えるか」問題なんですね。",
+  "meta": {
+    "model": "claude-opus-5",
+    "usage": {
+      "input_tokens": 2517,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 0,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "iterations": [
+        {
+          "input_tokens": 2517,
+          "output_tokens": 4152,
+          "cache_read_input_tokens": 0,
+          "cache_creation_input_tokens": 0,
+          "cache_creation": {
+            "ephemeral_5m_input_tokens": 0,
+            "ephemeral_1h_input_tokens": 0
+          },
+          "type": "message",
+          "model": null
+        }
+      ],
+      "output_tokens": 4152,
+      "output_tokens_details": {
+        "thinking_tokens": 317
+      },
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  }
+}

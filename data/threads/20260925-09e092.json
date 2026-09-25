@@ -1,0 +1,380 @@
+{
+  "id": "20260925-09e092",
+  "createdAt": "2026-09-25T00:26:34.363Z",
+  "news": {
+    "title": "AI内製化、9割超が「停滞、頓挫」を経験 つまずく原因は“技術”ではなかった",
+    "url": "https://atmarkit.itmedia.co.jp/ait/articles/2609/25/news049.html",
+    "summary": "TWOSTONE&Sonsが、企業のAI内製化に関する実態調査の結果を公表。AI内製化の推進責任者の9割以上が競合との差に危機感を抱き、社内主導プロジェクトの停滞や頓挫を経験している実態が明らかとなった。",
+    "source": "ITmedia AI＋",
+    "publishedAt": "2026-09-24T23:00:00.000Z"
+  },
+  "thread_title": "【調査】AI内製化、9割超が「停滞・頓挫」を経験　つまずく原因は“技術”ではなかった",
+  "matome_title": "【悲報】企業のAI内製化、9割超が「停滞・頓挫」を経験してしまう…つまずく原因が技術じゃない件",
+  "category": "悲報",
+  "tags": [
+    "AI内製化",
+    "DX",
+    "企業",
+    "調査"
+  ],
+  "intro": "「AIで内製化していくぞ！」と宣言したはいいものの…という話。調査によると推進責任者の9割超が停滞や頓挫を経験しているそうです。原因が技術じゃないのがまた味わい深い。",
+  "posts": [
+    {
+      "no": 1,
+      "poster": "OP",
+      "body": "TWOSTONE&Sonsの調査\n・AI内製化の推進責任者の9割以上が競合との差に危機感\n・社内主導プロジェクトの停滞や頓挫を経験\n・つまずく原因は“技術”ではなかった\n\nソース ITmedia AI＋\n\nまあ分かってたけど",
+      "highlight": "none"
+    },
+    {
+      "no": 2,
+      "poster": "A",
+      "body": "9割って実質全員で草",
+      "highlight": "none"
+    },
+    {
+      "no": 3,
+      "poster": "B",
+      "body": "原因は人間定期",
+      "highlight": "red"
+    },
+    {
+      "no": 4,
+      "poster": "C",
+      "body": ">>3\nこれ以上の答えある？",
+      "highlight": "none"
+    },
+    {
+      "no": 5,
+      "poster": "D",
+      "body": "技術じゃないなら何やねん\n言えや",
+      "highlight": "none"
+    },
+    {
+      "no": 6,
+      "poster": "A",
+      "body": ">>5\n・目的が曖昧\n・データが汚い\n・人がいない\n・上が飽きる\nこの4つやろ",
+      "highlight": "blue"
+    },
+    {
+      "no": 7,
+      "poster": "E",
+      "body": "上が飽きるで草生えた\nガチでそれ",
+      "highlight": "none"
+    },
+    {
+      "no": 8,
+      "poster": "F",
+      "body": "ワイの会社、去年「全社AI活用元年」って言ってたのに今年はもう誰も言わん",
+      "highlight": "none"
+    },
+    {
+      "no": 9,
+      "poster": "B",
+      "body": ">>8\n元年が毎年来るやつ",
+      "highlight": "red"
+    },
+    {
+      "no": 10,
+      "poster": "G",
+      "body": "DX元年、AI元年、生成AI元年\n元年インフレしてて草",
+      "highlight": "none"
+    },
+    {
+      "no": 11,
+      "poster": "H",
+      "body": "内製化って言葉が一人歩きしてるよな\nエンジニア1人も採らずに内製化はできん",
+      "highlight": "none"
+    },
+    {
+      "no": 12,
+      "poster": "D",
+      "body": ">>11\nうちはベンダーに「内製化支援」を外注してるで",
+      "highlight": "big"
+    },
+    {
+      "no": 13,
+      "poster": "A",
+      "body": ">>12\n矛盾の塊で草",
+      "highlight": "none"
+    },
+    {
+      "no": 14,
+      "poster": "C",
+      "body": ">>12\nそれ普通に外注では？",
+      "highlight": "none"
+    },
+    {
+      "no": 15,
+      "poster": "I",
+      "body": "でも実際そこからしか始まらん会社もある\n知識ゼロからいきなり自走は無理",
+      "highlight": "none"
+    },
+    {
+      "no": 16,
+      "poster": "J",
+      "body": "現場の技術者やが、止まる理由の8割はデータや\nモデルの前にデータが整ってない",
+      "highlight": "blue"
+    },
+    {
+      "no": 17,
+      "poster": "B",
+      "body": ">>16\nExcelが散らばってるやつ",
+      "highlight": "none"
+    },
+    {
+      "no": 18,
+      "poster": "J",
+      "body": ">>17\n散らばってるだけならマシ\n同じ項目名で意味が違うExcelが部署ごとにある",
+      "highlight": "red"
+    },
+    {
+      "no": 19,
+      "poster": "K",
+      "body": ">>18\nうわぁ…",
+      "highlight": "none"
+    },
+    {
+      "no": 20,
+      "poster": "A",
+      "body": ">>18\n人類の敵",
+      "highlight": "none"
+    },
+    {
+      "no": 21,
+      "poster": "L",
+      "body": "結局AIに仕事奪われるどころか\nAI導入の仕事が増えてるだけなんよ",
+      "highlight": "none"
+    },
+    {
+      "no": 22,
+      "poster": "M",
+      "body": ">>21\nこれ意外と真理やと思う",
+      "highlight": "none"
+    },
+    {
+      "no": 23,
+      "poster": "E",
+      "body": "競合との差に危機感9割\nでも進まない9割\n悩みの解像度は高いのに手は動かない",
+      "highlight": "none"
+    },
+    {
+      "no": 24,
+      "poster": "N",
+      "body": "危機感を持つことが目的になってる説",
+      "highlight": "blue"
+    },
+    {
+      "no": 25,
+      "poster": "C",
+      "body": ">>24\n会議で危機感を共有して解散するやつ",
+      "highlight": "none"
+    },
+    {
+      "no": 26,
+      "poster": "F",
+      "body": "　＿人人人人人人＿\n　＞　危機感共有　＜\n　￣Y^Y^Y^Y^Y^Y￣",
+      "highlight": "none"
+    },
+    {
+      "no": 27,
+      "poster": "O",
+      "body": "ソース出せって言おうとしたらちゃんと調査あって草",
+      "highlight": "none"
+    },
+    {
+      "no": 28,
+      "poster": "P",
+      "body": "調査元が支援やってる会社やろ\nそりゃ「みんな困ってます」って出るやん",
+      "highlight": "red"
+    },
+    {
+      "no": 29,
+      "poster": "A",
+      "body": ">>28\n冷静で草\nでも体感とは一致してる",
+      "highlight": "none"
+    },
+    {
+      "no": 30,
+      "poster": "J",
+      "body": ">>28\nポジショントークではあるが数字自体は違和感ない\n現場の肌感とほぼ同じ",
+      "highlight": "none"
+    },
+    {
+      "no": 33,
+      "poster": "Q",
+      "body": "PoCで止まる理由\n1. 評価指標決めてない\n2. 本番運用の責任者いない\n3. 予算が単年度\nこれで大体説明つく",
+      "highlight": "blue"
+    },
+    {
+      "no": 34,
+      "poster": "B",
+      "body": ">>33\n3がえぐい\n年度またぐと死ぬ",
+      "highlight": "none"
+    },
+    {
+      "no": 35,
+      "poster": "R",
+      "body": "PoC疲れって言葉好き",
+      "highlight": "none"
+    },
+    {
+      "no": 36,
+      "poster": "S",
+      "body": "うちの部長、ChatGPTに「社内のDXを進めて」って打ち込んで満足してたわ",
+      "highlight": "none"
+    },
+    {
+      "no": 37,
+      "poster": "C",
+      "body": ">>36\nプロンプトがもう頓挫してる",
+      "highlight": "big"
+    },
+    {
+      "no": 38,
+      "poster": "K",
+      "body": ">>36\nAIも困ってそう",
+      "highlight": "none"
+    },
+    {
+      "no": 39,
+      "poster": "D",
+      "body": "技術じゃないなら解決も技術じゃないってことやん\n詰みでは？",
+      "highlight": "none"
+    },
+    {
+      "no": 40,
+      "poster": "I",
+      "body": ">>39\n組織の問題は組織でしか直らんからな\nそこが一番難しい",
+      "highlight": "none"
+    },
+    {
+      "no": 44,
+      "poster": "T",
+      "body": "ワイ情シス、決裁を取るための資料作りでAI使ってる\n本末転倒",
+      "highlight": "none"
+    },
+    {
+      "no": 45,
+      "poster": "A",
+      "body": ">>44\n一番実用的な使い方で草",
+      "highlight": "none"
+    },
+    {
+      "no": 46,
+      "poster": "U",
+      "body": "小さく始めて数字出すのが正解や\n最初から全社最適とか言い出すと必ず死ぬ",
+      "highlight": "blue"
+    },
+    {
+      "no": 47,
+      "poster": "J",
+      "body": ">>46\nほんこれ\n1部署の1業務、月10時間削減から始めろ",
+      "highlight": "none"
+    },
+    {
+      "no": 48,
+      "poster": "E",
+      "body": ">>47\n地味すぎて役員が興味持たんのが問題",
+      "highlight": "none"
+    },
+    {
+      "no": 49,
+      "poster": "U",
+      "body": ">>48\nだから数字持ってくんや\n削減時間×人件費で喋ればええ",
+      "highlight": "none"
+    },
+    {
+      "no": 52,
+      "poster": "V",
+      "body": "結論：AIより人間の調整コストの方が高い",
+      "highlight": "red"
+    },
+    {
+      "no": 53,
+      "poster": "B",
+      "body": ">>52\nこのスレの答え出たな",
+      "highlight": "none"
+    },
+    {
+      "no": 57,
+      "poster": "W",
+      "body": "10年後も「AI内製化が進まない」って記事出てそう",
+      "highlight": "none"
+    },
+    {
+      "no": 58,
+      "poster": "C",
+      "body": ">>57\nタイトルだけ差し替えて使い回せるやつ",
+      "highlight": "none"
+    },
+    {
+      "no": 61,
+      "poster": "OP",
+      "body": "みんなの話まとめると\n・危機感はある\n・データは汚い\n・上は飽きる\n・予算は単年度\n・でも小さく始めれば勝てる\nこんな感じか",
+      "highlight": "blue"
+    },
+    {
+      "no": 62,
+      "poster": "A",
+      "body": ">>61\n有能\nそのまま社内資料にできるレベル",
+      "highlight": "none"
+    },
+    {
+      "no": 63,
+      "poster": "S",
+      "body": ">>61\nコピペしてAIに清書させたら部長に提出できるわ",
+      "highlight": "none"
+    },
+    {
+      "no": 64,
+      "poster": "D",
+      "body": ">>63\nそれが一番の内製化で草",
+      "highlight": "big"
+    },
+    {
+      "no": 65,
+      "poster": "J",
+      "body": ">>64\n匿名掲示板が一番機能してる会社",
+      "highlight": "none"
+    },
+    {
+      "no": 70,
+      "poster": "OP",
+      "body": "やっぱりつまずく原因は技術じゃなかったな\nワイらやったわ",
+      "highlight": "red"
+    }
+  ],
+  "admin_comment": "「危機感の共有」で終わる会議、心当たりがありすぎて胃が痛くなりました。小さく始めて数字を出す、これに尽きますね。",
+  "meta": {
+    "model": "claude-opus-5",
+    "usage": {
+      "input_tokens": 2568,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 0,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "iterations": [
+        {
+          "input_tokens": 2568,
+          "output_tokens": 3133,
+          "cache_read_input_tokens": 0,
+          "cache_creation_input_tokens": 0,
+          "cache_creation": {
+            "ephemeral_5m_input_tokens": 0,
+            "ephemeral_1h_input_tokens": 0
+          },
+          "type": "message",
+          "model": null
+        }
+      ],
+      "output_tokens": 3133,
+      "output_tokens_details": {
+        "thinking_tokens": 0
+      },
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  }
+}

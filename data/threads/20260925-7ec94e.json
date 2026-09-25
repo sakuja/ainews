@@ -1,0 +1,440 @@
+{
+  "id": "20260925-7ec94e",
+  "createdAt": "2026-09-25T00:25:50.270Z",
+  "news": {
+    "title": "ハルシネーション排除、最大200倍高速――元OpenAI研究者の新AI「Jev」は何が違うのか",
+    "url": "https://atmarkit.itmedia.co.jp/ait/articles/2609/25/news055.html",
+    "summary": "TypeSafe AIは、自動化に特化した新AIモデル「Jev」の早期アクセス提供を開始した。文字列生成を廃止し、従来のLLM比で最大200倍の高速化とハルシネーション排除を実現したという。",
+    "source": "ITmedia AI＋",
+    "publishedAt": "2026-09-24T23:00:00.000Z"
+  },
+  "thread_title": "【速報】元OpenAI研究者の新AI「Jev」、ハルシネーション排除＆最大200倍高速を謳う",
+  "matome_title": "【朗報？】元OpenAI研究者の新AI「Jev」、ハルシネーションを排除し最大200倍高速らしい→住民「文字列生成を廃止って何をどうしたんや」",
+  "category": "速報",
+  "tags": [
+    "Jev",
+    "TypeSafe AI",
+    "ハルシネーション",
+    "LLM"
+  ],
+  "intro": "「文字列を生成しない」というパワーワードで界隈がざわついております。技術者ニキの解説からボケ勢まで、いつもの流れをどうぞ。",
+  "posts": [
+    {
+      "no": 1,
+      "poster": "OP",
+      "body": "TypeSafe AIが自動化特化の新AIモデル「Jev」の早期アクセス提供を開始\n文字列生成を廃止し、従来のLLM比で最大200倍の高速化とハルシネーション排除を実現したという\n元OpenAI研究者が立ち上げたとのこと\n\nソース: ITmedia AI＋\n\n文字列生成を廃止…？どういうことなんや",
+      "highlight": "none"
+    },
+    {
+      "no": 2,
+      "poster": "A",
+      "body": "はい出ましたハルシネーション排除\n何回目やこのフレーズ",
+      "highlight": "none"
+    },
+    {
+      "no": 3,
+      "poster": "B",
+      "body": "200倍は盛りすぎやろ",
+      "highlight": "none"
+    },
+    {
+      "no": 4,
+      "poster": "C",
+      "body": "文字列を生成しないAIってただの沈黙では？",
+      "highlight": "red"
+    },
+    {
+      "no": 5,
+      "poster": "D",
+      "body": ">>4 究極のハルシネーション対策で草\n何も言わなければ嘘もつかない",
+      "highlight": "none"
+    },
+    {
+      "no": 6,
+      "poster": "E",
+      "body": "ワイの上司もそれで生き延びてるわ",
+      "highlight": "none"
+    },
+    {
+      "no": 7,
+      "poster": "A",
+      "body": ">>6 悲しいなあ",
+      "highlight": "none"
+    },
+    {
+      "no": 8,
+      "poster": "F",
+      "body": "まじめに考えると、自由文じゃなくて構造化された出力だけ吐くってことちゃう？\n関数呼び出しとか型付きのオブジェクトとか",
+      "highlight": "none"
+    },
+    {
+      "no": 9,
+      "poster": "G",
+      "body": ">>8 社名がTypeSafe AIな時点で察する",
+      "highlight": "blue"
+    },
+    {
+      "no": 10,
+      "poster": "B",
+      "body": ">>9 名前で全部説明しとるやんけ",
+      "highlight": "none"
+    },
+    {
+      "no": 11,
+      "poster": "H",
+      "body": "つまり自動化タスク専用ってことね\n汎用チャットの置き換えではなさそう",
+      "highlight": "none"
+    },
+    {
+      "no": 12,
+      "poster": "C",
+      "body": "ワイの理解\n従来: トークンを一個ずつ吐いてJSONっぽいものを作る→たまに壊れる\nJev: 最初から型の決まった構造を選んでいく→壊れない\nこう？",
+      "highlight": "none"
+    },
+    {
+      "no": 13,
+      "poster": "F",
+      "body": ">>12 記事はそこまで書いてないけど発想としてはそっち系やろな\n文法制約付きデコーディングの発展形みたいな",
+      "highlight": "none"
+    },
+    {
+      "no": 14,
+      "poster": "I",
+      "body": "それ既存のconstrained decodingと何が違うんや",
+      "highlight": "none"
+    },
+    {
+      "no": 15,
+      "poster": "F",
+      "body": ">>14 そこが一番気になるところ\n既存手法も出力の形式は保証できるけど中身の正しさは保証できんからな",
+      "highlight": "red"
+    },
+    {
+      "no": 16,
+      "poster": "J",
+      "body": "ハルシネーション「排除」って言い切るのはかなり強気やん",
+      "highlight": "none"
+    },
+    {
+      "no": 17,
+      "poster": "A",
+      "body": ">>16 定義の問題やと思うで\n「形式的に不正な出力をしない」をハルシネーション排除と呼んでる可能性",
+      "highlight": "none"
+    },
+    {
+      "no": 18,
+      "poster": "K",
+      "body": "ワイ英語ダメだから日本語で解説して",
+      "highlight": "none"
+    },
+    {
+      "no": 19,
+      "poster": "C",
+      "body": ">>18 もう日本語なんよ",
+      "highlight": "none"
+    },
+    {
+      "no": 20,
+      "poster": "L",
+      "body": "元OpenAIってだけで金集まるのずるいわ",
+      "highlight": "none"
+    },
+    {
+      "no": 21,
+      "poster": "M",
+      "body": ">>20 経歴がプロダクトみたいなところある",
+      "highlight": "none"
+    },
+    {
+      "no": 22,
+      "poster": "B",
+      "body": "まあ実際に元中の人しか知らんノウハウはあるやろ",
+      "highlight": "none"
+    },
+    {
+      "no": 23,
+      "poster": "N",
+      "body": "200倍高速ってどこ基準なんや\nトークン生成しないなら比較対象そもそも違わん？",
+      "highlight": "blue"
+    },
+    {
+      "no": 24,
+      "poster": "F",
+      "body": ">>23 それはある\n同じタスクを同じ精度でやった時の話ならすごいけど、ベンチの条件次第",
+      "highlight": "none"
+    },
+    {
+      "no": 25,
+      "poster": "I",
+      "body": "はい出ました条件次第",
+      "highlight": "none"
+    },
+    {
+      "no": 26,
+      "poster": "O",
+      "body": "早期アクセスってことはまだ誰も触ってないやんけ\n語るの早すぎ",
+      "highlight": "none"
+    },
+    {
+      "no": 27,
+      "poster": "A",
+      "body": ">>26 語るのが趣味の板やぞ",
+      "highlight": "none"
+    },
+    {
+      "no": 28,
+      "poster": "P",
+      "body": "ワイRPA担当者、震える",
+      "highlight": "none"
+    },
+    {
+      "no": 29,
+      "poster": "D",
+      "body": ">>28 むしろお前の武器が増えるんちゃう？",
+      "highlight": "none"
+    },
+    {
+      "no": 30,
+      "poster": "P",
+      "body": ">>29 今までRPAが壊れる理由の8割が「画面が変わった」やからな\nAIが賢くなっても画面は勝手に変わるんや",
+      "highlight": "red"
+    },
+    {
+      "no": 31,
+      "poster": "E",
+      "body": ">>30 現場の叫びで草",
+      "highlight": "none"
+    },
+    {
+      "no": 34,
+      "poster": "Q",
+      "body": "　　∧＿∧\n　（ ´･ω･）　「型で守られている」\n　（つ　　と）\n 　しーＪ\n\n安心感は好き",
+      "highlight": "none"
+    },
+    {
+      "no": 37,
+      "poster": "R",
+      "body": "型があっても中身がnullなら意味ないんだよなあ",
+      "highlight": "none"
+    },
+    {
+      "no": 38,
+      "poster": "F",
+      "body": ">>37 型はあるけど値は幻覚、みたいな未来が見える",
+      "highlight": "blue"
+    },
+    {
+      "no": 41,
+      "poster": "H",
+      "body": "用途を自動化に絞ったのは正解やと思う\nチャットで殴り合っても勝てんし",
+      "highlight": "none"
+    },
+    {
+      "no": 42,
+      "poster": "M",
+      "body": ">>41 それな\n汎用モデル競争は資本力ゲーになっとるからニッチで勝負するのは賢い",
+      "highlight": "none"
+    },
+    {
+      "no": 45,
+      "poster": "S",
+      "body": "ワイの業務、出力が決まったフォーマットのやつばっかりだから刺さるかもしれん",
+      "highlight": "none"
+    },
+    {
+      "no": 46,
+      "poster": "B",
+      "body": ">>45 それこそ本命のユースケースやろな",
+      "highlight": "none"
+    },
+    {
+      "no": 49,
+      "poster": "K",
+      "body": "で、日本語対応してるの？",
+      "highlight": "none"
+    },
+    {
+      "no": 50,
+      "poster": "C",
+      "body": ">>49 文字列を生成しないから言語という概念が",
+      "highlight": "none"
+    },
+    {
+      "no": 51,
+      "poster": "K",
+      "body": ">>50 あっ",
+      "highlight": "none"
+    },
+    {
+      "no": 53,
+      "poster": "T",
+      "body": "冷静に整理すると\n・自動化特化の新モデル\n・自由な文字列生成をやめて構造化出力に寄せた\n・その結果として高速化と形式面での信頼性を主張\n・まだ早期アクセス段階で外部検証はこれから\nここまでは記事から言える。あとは推測",
+      "highlight": "big"
+    },
+    {
+      "no": 54,
+      "poster": "A",
+      "body": ">>53 有能",
+      "highlight": "none"
+    },
+    {
+      "no": 55,
+      "poster": "I",
+      "body": ">>53 ちゃんとまとめてくれる人おると助かる",
+      "highlight": "none"
+    },
+    {
+      "no": 58,
+      "poster": "U",
+      "body": "どうせ半年後には大手が同じ機能を標準搭載してくるんやろ",
+      "highlight": "none"
+    },
+    {
+      "no": 59,
+      "poster": "M",
+      "body": ">>58 このパターン何回見たかわからん",
+      "highlight": "none"
+    },
+    {
+      "no": 62,
+      "poster": "L",
+      "body": "でもその「先にやった会社」がいないと大手も動かんからな\n存在価値はある",
+      "highlight": "none"
+    },
+    {
+      "no": 65,
+      "poster": "V",
+      "body": "検証記事出るまで判断保留でええやろ\nワイは期待だけしとく",
+      "highlight": "none"
+    },
+    {
+      "no": 68,
+      "poster": "D",
+      "body": "ハルシネーション排除って言葉、そろそろ商標みたいになってきたな",
+      "highlight": "none"
+    },
+    {
+      "no": 70,
+      "poster": "F",
+      "body": "個人的には「LLMに全部やらせるのをやめる」方向の設計思想が本命やと思ってる\n生成と判断を分離するの、実務的には超まとも",
+      "highlight": "blue"
+    },
+    {
+      "no": 71,
+      "poster": "H",
+      "body": ">>70 わかる\n現場は賢さより壊れないことを求めてる",
+      "highlight": "none"
+    },
+    {
+      "no": 74,
+      "poster": "P",
+      "body": ">>71 ほんこれ\n95点を安定して出す方が、たまに100点でたまに0点より100倍ありがたい",
+      "highlight": "red"
+    },
+    {
+      "no": 77,
+      "poster": "E",
+      "body": "急にみんな真面目になって草",
+      "highlight": "none"
+    },
+    {
+      "no": 80,
+      "poster": "C",
+      "body": "結論: 触ってから騒ごう",
+      "highlight": "none"
+    },
+    {
+      "no": 83,
+      "poster": "K",
+      "body": "早期アクセス申し込んだわ\n通ったら報告する",
+      "highlight": "none"
+    },
+    {
+      "no": 84,
+      "poster": "A",
+      "body": ">>83 頼むで",
+      "highlight": "none"
+    },
+    {
+      "no": 88,
+      "poster": "W",
+      "body": "ワイの予想\n三ヶ月後「Jev、自由記述に対応しました」",
+      "highlight": "none"
+    },
+    {
+      "no": 89,
+      "poster": "B",
+      "body": ">>88 やめたれwwwww",
+      "highlight": "none"
+    },
+    {
+      "no": 90,
+      "poster": "F",
+      "body": ">>88 それやったら社名がTypeSafeじゃなくなるやろ",
+      "highlight": "none"
+    },
+    {
+      "no": 93,
+      "poster": "T",
+      "body": ">>88 でもユーザーからの要望で一番来るやつな気がする",
+      "highlight": "none"
+    },
+    {
+      "no": 95,
+      "poster": "D",
+      "body": "文字列を捨てた男たちの物語",
+      "highlight": "none"
+    },
+    {
+      "no": 97,
+      "poster": "C",
+      "body": ">>95 なんかかっこよくて草",
+      "highlight": "none"
+    },
+    {
+      "no": 99,
+      "poster": "OP",
+      "body": "みんなありがとう\nとりあえず「文字列を生成しないAI」って字面のインパクトだけで今日は満足したわ\n触った人の報告待っとる",
+      "highlight": "none"
+    },
+    {
+      "no": 100,
+      "poster": "E",
+      "body": ">>99 このスレも文字列生成せずに終われたら完璧やったな",
+      "highlight": "big"
+    }
+  ],
+  "admin_comment": "「賢さより壊れないこと」って現場の叫び、けっこう本質ついてる気がします。早期アクセス通った人の報告待ちですね。",
+  "meta": {
+    "model": "claude-opus-5",
+    "usage": {
+      "input_tokens": 2557,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 0,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "iterations": [
+        {
+          "input_tokens": 2557,
+          "output_tokens": 3798,
+          "cache_read_input_tokens": 0,
+          "cache_creation_input_tokens": 0,
+          "cache_creation": {
+            "ephemeral_5m_input_tokens": 0,
+            "ephemeral_1h_input_tokens": 0
+          },
+          "type": "message",
+          "model": null
+        }
+      ],
+      "output_tokens": 3798,
+      "output_tokens_details": {
+        "thinking_tokens": 0
+      },
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  }
+}
