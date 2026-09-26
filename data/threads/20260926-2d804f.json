@@ -1,0 +1,416 @@
+{
+  "id": "20260926-2d804f",
+  "createdAt": "2026-09-26T00:30:06.933Z",
+  "news": {
+    "title": "Microsoft、「Copilot」を刷新 「仕事のための新しいOS」とナデラCEO",
+    "url": "https://www.itmedia.co.jp/news/article/2609/26/2000001773/",
+    "summary": "Microsoftは「Microsoft Copilot」アプリの大幅な刷新を発表した。「Home」「Code」「Autopilot」の3タブ構成とし、Officeを直接統合する。自然言語でのアプリ構築や自律的な業務代行エージェントを導入し、日常機能は月額課金、高度なエージェントや最新モデルは従量課金に移行する。",
+    "source": "ITmedia AI＋",
+    "publishedAt": "2026-09-25T22:48:32.000Z"
+  },
+  "thread_title": "【速報】Microsoft、Copilot刷新 ナデラCEO「仕事のための新しいOS」",
+  "matome_title": "【朗報？】MS「Copilotは仕事のための新しいOSや」→従量課金の文字を見た社会人たちの反応がこちら",
+  "category": "速報",
+  "tags": [
+    "Microsoft",
+    "Copilot",
+    "AIエージェント",
+    "従量課金"
+  ],
+  "intro": "Microsoftが「Copilot」アプリを大幅刷新。Home / Code / Autopilot の3タブ構成でOfficeを直接統合、自然言語でのアプリ構築や自律エージェントまで乗せてきました。ナデラCEOの「仕事のための新しいOS」発言と、しれっと発表された従量課金に住人はどう反応したのか。",
+  "posts": [
+    {
+      "no": 1,
+      "poster": "OP",
+      "body": "Microsoftが「Microsoft Copilot」アプリを大幅刷新\n・「Home」「Code」「Autopilot」の3タブ構成\n・Officeを直接統合\n・自然言語でアプリ構築\n・自律的に業務を代行するエージェント\n・日常機能は月額課金、高度なエージェントや最新モデルは従量課金へ\n\nナデラCEO「仕事のための新しいOS」\n\nついに来たか",
+      "highlight": "none"
+    },
+    {
+      "no": 2,
+      "poster": "A",
+      "body": "OSって言えばなんでもOSになると思ってるやろ",
+      "highlight": "none"
+    },
+    {
+      "no": 3,
+      "poster": "B",
+      "body": ">>2 「新しいOS」って毎年5社くらい言ってない？",
+      "highlight": "none"
+    },
+    {
+      "no": 4,
+      "poster": "C",
+      "body": "タブが3つしかないの逆に潔くて好き",
+      "highlight": "none"
+    },
+    {
+      "no": 5,
+      "poster": "D",
+      "body": "Autopilotって名前、車のあれと混同されそう",
+      "highlight": "none"
+    },
+    {
+      "no": 6,
+      "poster": "E",
+      "body": "従量課金の3文字で全部台無しなんだよなあ",
+      "highlight": "red"
+    },
+    {
+      "no": 7,
+      "poster": "A",
+      "body": ">>6 これ\n月額で安心してたら月末に請求書が来るやつ",
+      "highlight": "none"
+    },
+    {
+      "no": 8,
+      "poster": "F",
+      "body": "ワイ情シス、震える\n部署の誰かがエージェント回しまくって予算が溶ける未来しか見えん",
+      "highlight": "none"
+    },
+    {
+      "no": 9,
+      "poster": "G",
+      "body": "ソース出せ",
+      "highlight": "none"
+    },
+    {
+      "no": 10,
+      "poster": "OP",
+      "body": ">>9 ITmediaや。発表そのものやで",
+      "highlight": "none"
+    },
+    {
+      "no": 11,
+      "poster": "H",
+      "body": "Office直接統合はガチで効きそう\n結局データがある場所が強い",
+      "highlight": "blue"
+    },
+    {
+      "no": 12,
+      "poster": "B",
+      "body": ">>11 それはある\nどんな賢いモデルでも社内Excelにアクセスできなきゃ無力やし",
+      "highlight": "none"
+    },
+    {
+      "no": 13,
+      "poster": "I",
+      "body": "「自然言語でアプリ構築」→出来上がるのが謎のフォームアプリ",
+      "highlight": "none"
+    },
+    {
+      "no": 14,
+      "poster": "C",
+      "body": ">>13 そしてそれを保守するのが人間",
+      "highlight": "none"
+    },
+    {
+      "no": 15,
+      "poster": "J",
+      "body": "ワイの仕事、Homeタブで終わりそうで怖い",
+      "highlight": "none"
+    },
+    {
+      "no": 16,
+      "poster": "A",
+      "body": ">>15 Homeタブに帰れって言われてるみたいで草",
+      "highlight": "none"
+    },
+    {
+      "no": 17,
+      "poster": "K",
+      "body": "冷静に整理すると\n・Home＝日常の雑用\n・Code＝作る\n・Autopilot＝勝手にやる\nこの3段階で課金レベルが上がる設計やろ",
+      "highlight": "blue"
+    },
+    {
+      "no": 18,
+      "poster": "F",
+      "body": ">>17 完璧な導線で草\n無意識に上の層に誘導される",
+      "highlight": "none"
+    },
+    {
+      "no": 19,
+      "poster": "L",
+      "body": "エージェントに仕事任せたとして、ミスった時の責任は誰やねん",
+      "highlight": "none"
+    },
+    {
+      "no": 20,
+      "poster": "H",
+      "body": ">>19 承認ボタン押した人間",
+      "highlight": "none"
+    },
+    {
+      "no": 21,
+      "poster": "L",
+      "body": ">>20 つまりワイやんけ",
+      "highlight": "none"
+    },
+    {
+      "no": 22,
+      "poster": "M",
+      "body": "懐疑派やけど、デモで動くのと現場で動くのは別物やからな\n前も似たようなの見た",
+      "highlight": "none"
+    },
+    {
+      "no": 23,
+      "poster": "B",
+      "body": ">>22 まあ実際に触るまで評価保留が正解",
+      "highlight": "none"
+    },
+    {
+      "no": 24,
+      "poster": "N",
+      "body": "なんG民「新しいOS」→「新しい課金体系」に空目した",
+      "highlight": "none"
+    },
+    {
+      "no": 25,
+      "poster": "D",
+      "body": "WindowsっていうOSが既にあるのに新しいOSって言われると頭バグる",
+      "highlight": "none"
+    },
+    {
+      "no": 26,
+      "poster": "K",
+      "body": ">>25 「仕事の」って枕詞が重要やろ\nアプリを跨いで仕事の文脈を持つ層を作りたいって話や",
+      "highlight": "none"
+    },
+    {
+      "no": 27,
+      "poster": "O",
+      "body": "ワイ経理、Autopilotに月次締めやらせたい\nやらせたら死ぬ気もする",
+      "highlight": "none"
+    },
+    {
+      "no": 28,
+      "poster": "A",
+      "body": ">>27 二択が極端すぎる",
+      "highlight": "none"
+    },
+    {
+      "no": 29,
+      "poster": "P",
+      "body": "　　　_人人人人_\n　　＞ 従量課金 ＜\n　　￣Y^Y^Y^Y￣",
+      "highlight": "none"
+    },
+    {
+      "no": 30,
+      "poster": "C",
+      "body": ">>29 AA一発で全住民の感情を代弁するな",
+      "highlight": "none"
+    },
+    {
+      "no": 34,
+      "poster": "Q",
+      "body": "結局これ、SaaSの上にさらにレイヤー乗せてるだけでは？",
+      "highlight": "none"
+    },
+    {
+      "no": 35,
+      "poster": "K",
+      "body": ">>34 そのレイヤーを取った者が勝つ世界やからな\n各社そこ狙ってる",
+      "highlight": "none"
+    },
+    {
+      "no": 38,
+      "poster": "R",
+      "body": "うちの上司、絶対Autopilotに議事録作らせて中身見ずに送るぞ",
+      "highlight": "none"
+    },
+    {
+      "no": 39,
+      "poster": "J",
+      "body": ">>38 それはもう今でもやってるから問題ない",
+      "highlight": "none"
+    },
+    {
+      "no": 41,
+      "poster": "E",
+      "body": "従量課金って要するに「使うほど賢い答えが返る」って設計やろ\n貧乏人は浅い答えで我慢しろってことか",
+      "highlight": "none"
+    },
+    {
+      "no": 42,
+      "poster": "H",
+      "body": ">>41 電気とガスと同じや\nただ使いすぎても止まらんのが怖い",
+      "highlight": "none"
+    },
+    {
+      "no": 45,
+      "poster": "S",
+      "body": "技術者やけど正直Codeタブが一番気になる\n自然言語で作ったもんのバージョン管理どうすんねん",
+      "highlight": "blue"
+    },
+    {
+      "no": 46,
+      "poster": "B",
+      "body": ">>45 それな\n『前のやつに戻して』で戻る世界なら本物",
+      "highlight": "none"
+    },
+    {
+      "no": 47,
+      "poster": "S",
+      "body": ">>46 戻した先がまた別物になってるまである",
+      "highlight": "none"
+    },
+    {
+      "no": 52,
+      "poster": "T",
+      "body": "AIに仕事奪われる奪われる言うてるけど、\nワイの仕事、奪われたら普通に助かるんやが",
+      "highlight": "none"
+    },
+    {
+      "no": 53,
+      "poster": "A",
+      "body": ">>52 その発想が一番健全で草",
+      "highlight": "none"
+    },
+    {
+      "no": 57,
+      "poster": "M",
+      "body": "で、これ日本語でちゃんと動くんか？\nそこが全て",
+      "highlight": "none"
+    },
+    {
+      "no": 58,
+      "poster": "F",
+      "body": ">>57 毎回そこで止まるんよな",
+      "highlight": "none"
+    },
+    {
+      "no": 61,
+      "poster": "U",
+      "body": "ワイ、Autopilotに転職活動を代行させたい",
+      "highlight": "none"
+    },
+    {
+      "no": 62,
+      "poster": "D",
+      "body": ">>61 面接もエージェントが行って、採用されるのもエージェント",
+      "highlight": "none"
+    },
+    {
+      "no": 63,
+      "poster": "U",
+      "body": ">>62 ワイの存在意義",
+      "highlight": "none"
+    },
+    {
+      "no": 68,
+      "poster": "K",
+      "body": "まとめると\n・Office統合は本命\n・3タブは分かりやすい\n・自律エージェントは運用と責任設計が課題\n・従量課金は企業の予算管理とセットで考えないと事故る\nこんなとこやろ",
+      "highlight": "blue"
+    },
+    {
+      "no": 69,
+      "poster": "H",
+      "body": ">>68 有能\nこのレスだけ保存でええわ",
+      "highlight": "none"
+    },
+    {
+      "no": 74,
+      "poster": "V",
+      "body": "新しいOSを名乗るなら青画面も実装してほしい",
+      "highlight": "none"
+    },
+    {
+      "no": 75,
+      "poster": "C",
+      "body": ">>74 「エージェントが予期せぬ問題により停止しました」",
+      "highlight": "none"
+    },
+    {
+      "no": 76,
+      "poster": "A",
+      "body": ">>75 リアルでやめろ",
+      "highlight": "none"
+    },
+    {
+      "no": 81,
+      "poster": "O",
+      "body": "上司に「Copilot入れれば人減らせるよね？」って言われる未来が見える",
+      "highlight": "red"
+    },
+    {
+      "no": 82,
+      "poster": "J",
+      "body": ">>81 ワイの会社の来期の会議の議題や",
+      "highlight": "none"
+    },
+    {
+      "no": 83,
+      "poster": "M",
+      "body": ">>81 そう言って結局運用担当が増えるのが毎回のオチ",
+      "highlight": "none"
+    },
+    {
+      "no": 88,
+      "poster": "W",
+      "body": "10年後「昔はOfficeって手で開いてたんだぜ」",
+      "highlight": "none"
+    },
+    {
+      "no": 89,
+      "poster": "B",
+      "body": ">>88 タブ3つ時代を懐かしむ老人",
+      "highlight": "none"
+    },
+    {
+      "no": 95,
+      "poster": "E",
+      "body": "とりあえずワイは月額の範囲内で慎ましく生きる",
+      "highlight": "none"
+    },
+    {
+      "no": 96,
+      "poster": "F",
+      "body": ">>95 賢い\n情シスからのお願いです、それを全社でやってください",
+      "highlight": "none"
+    },
+    {
+      "no": 99,
+      "poster": "OP",
+      "body": "結論：新しいOSかどうかは知らんが、新しい請求書が来るのは確定",
+      "highlight": "big"
+    },
+    {
+      "no": 100,
+      "poster": "K",
+      "body": ">>99 綺麗にまとめるな\n閉廷、以上、皆解散",
+      "highlight": "none"
+    }
+  ],
+  "admin_comment": "Office統合と3タブ構成は素直に便利そうですが、やはり住人の視線は「従量課金」に一点集中でした。使う側のリテラシーと、予算のガードレールが問われそうですね。",
+  "meta": {
+    "model": "claude-opus-5",
+    "usage": {
+      "input_tokens": 2596,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 0,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "iterations": [
+        {
+          "input_tokens": 2596,
+          "output_tokens": 3623,
+          "cache_read_input_tokens": 0,
+          "cache_creation_input_tokens": 0,
+          "cache_creation": {
+            "ephemeral_5m_input_tokens": 0,
+            "ephemeral_1h_input_tokens": 0
+          },
+          "type": "message",
+          "model": null
+        }
+      ],
+      "output_tokens": 3623,
+      "output_tokens_details": {
+        "thinking_tokens": 0
+      },
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  }
+}

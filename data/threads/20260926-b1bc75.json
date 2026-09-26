@@ -1,0 +1,422 @@
+{
+  "id": "20260926-b1bc75",
+  "createdAt": "2026-09-26T00:30:59.311Z",
+  "news": {
+    "title": "あいち銀行が経理DXを本格化 LayerXと「請求書受領から振込まで」をつなぐ",
+    "url": "https://kn.itmedia.co.jp/kn/article/2609/26/2000001731/",
+    "summary": "紙やPDFの請求書を受け取り、Excelに転記して承認、振込データを作成する。企業の経理現場には今なお手作業が残る。あいち銀行はLayerXと組み、請求書の受領から承認、振込までをデジタルでつなぐ取り組みに乗り出す。",
+    "source": "ITmedia AI＋",
+    "publishedAt": "2026-09-25T22:00:00.000Z"
+  },
+  "thread_title": "【経理DX】あいち銀行、LayerXと組んで「請求書受領→承認→振込」を一本化へ",
+  "matome_title": "【朗報】地銀さん、ついに経理の\"Excel転記地獄\"を殺しにかかる →経理民「頼むから早く来てくれ」",
+  "category": "速報",
+  "tags": [
+    "経理DX",
+    "LayerX",
+    "地方銀行",
+    "請求書"
+  ],
+  "intro": "紙とPDFとExcelで回っていた経理現場に、ついに銀行側からメスが入るようです。スレは経理経験者の怨念で埋まりました。",
+  "posts": [
+    {
+      "no": 1,
+      "poster": "OP",
+      "body": "あいち銀行がLayerXと組んで、請求書の受領から承認、振込までをデジタルでつなぐ取り組みを始めるとのこと\n紙やPDFの請求書をExcelに転記して承認して振込データ作る、みたいな手作業が今も残ってるらしい\n\n…らしいじゃなくて現役でやってるんだよなあ",
+      "highlight": "none"
+    },
+    {
+      "no": 2,
+      "poster": "A",
+      "body": "残ってるらしい じゃないが",
+      "highlight": "none"
+    },
+    {
+      "no": 3,
+      "poster": "B",
+      "body": ">>1\n2026年にもなってExcel転記の話してるの、逆に安心感あるわ",
+      "highlight": "none"
+    },
+    {
+      "no": 4,
+      "poster": "C",
+      "body": "ワイ経理、涙目で保守",
+      "highlight": "none"
+    },
+    {
+      "no": 5,
+      "poster": "D",
+      "body": "銀行が絡むのがデカいんよ\n振込のとこで結局人間が打ち直してるからな",
+      "highlight": "blue"
+    },
+    {
+      "no": 6,
+      "poster": "A",
+      "body": ">>5\nこれ\nどんなに前工程デジタル化しても最後にFB データ手作りで詰む",
+      "highlight": "none"
+    },
+    {
+      "no": 7,
+      "poster": "E",
+      "body": "ソース出せ",
+      "highlight": "none"
+    },
+    {
+      "no": 8,
+      "poster": "OP",
+      "body": ">>7\nITmedia AI＋の記事や\n概要しか貼ってへんけど請求書受領から振込までつなぐって書いてある",
+      "highlight": "none"
+    },
+    {
+      "no": 9,
+      "poster": "F",
+      "body": "あいち銀行ってどこ？",
+      "highlight": "none"
+    },
+    {
+      "no": 10,
+      "poster": "A",
+      "body": ">>9\n名前から察しろ",
+      "highlight": "none"
+    },
+    {
+      "no": 11,
+      "poster": "G",
+      "body": "LayerXってあの請求書のとこか",
+      "highlight": "none"
+    },
+    {
+      "no": 12,
+      "poster": "C",
+      "body": "月末のワイ\n\n　＼＼　ｺﾞｰﾝ...／／\n　　＿人人人人＿\n　　＞ 転記 ＜\n　　￣Y^Y^Y^Y￣",
+      "highlight": "none"
+    },
+    {
+      "no": 13,
+      "poster": "H",
+      "body": ">>12\n鐘の音が不吉すぎる",
+      "highlight": "none"
+    },
+    {
+      "no": 14,
+      "poster": "I",
+      "body": "で、結局PDFの読み取り精度どうなん\n手書きFAX請求書送ってくる取引先いるんだけど",
+      "highlight": "none"
+    },
+    {
+      "no": 15,
+      "poster": "D",
+      "body": ">>14\nその取引先をデジタル化するのが最難関定期",
+      "highlight": "red"
+    },
+    {
+      "no": 16,
+      "poster": "B",
+      "body": "取引先「うちはFAXで」\nこれで全部終わる",
+      "highlight": "none"
+    },
+    {
+      "no": 17,
+      "poster": "J",
+      "body": "銀行側がやると取引先も巻き込みやすいって話やろ\n入口が銀行だから",
+      "highlight": "none"
+    },
+    {
+      "no": 18,
+      "poster": "A",
+      "body": ">>17\nなるほどな\nベンダーが単体で営業かけるより強い",
+      "highlight": "none"
+    },
+    {
+      "no": 19,
+      "poster": "K",
+      "body": "経理の仕事なくなるやん",
+      "highlight": "none"
+    },
+    {
+      "no": 20,
+      "poster": "C",
+      "body": ">>19\nなくなってほしいのは転記であって経理じゃないんだ\n転記だけ持ってけ",
+      "highlight": "blue"
+    },
+    {
+      "no": 21,
+      "poster": "K",
+      "body": ">>20\nすまん確かに",
+      "highlight": "none"
+    },
+    {
+      "no": 22,
+      "poster": "L",
+      "body": "むしろ経理は人足りてないからな\n中小は1人経理とかザラ",
+      "highlight": "none"
+    },
+    {
+      "no": 23,
+      "poster": "E",
+      "body": "ワイの会社、承認が紙の回覧板なんやが",
+      "highlight": "none"
+    },
+    {
+      "no": 24,
+      "poster": "H",
+      "body": ">>23\n江戸時代で草",
+      "highlight": "none"
+    },
+    {
+      "no": 25,
+      "poster": "M",
+      "body": "ハンコ押すために出社してた時代が懐かしいな（3年前）",
+      "highlight": "none"
+    },
+    {
+      "no": 26,
+      "poster": "N",
+      "body": "技術的には別に新しくないけど、繋ぐのが偉いんよ\n個々のSaaSは揃ってるのに間が人力なのが日本の経理",
+      "highlight": "red"
+    },
+    {
+      "no": 27,
+      "poster": "A",
+      "body": ">>26\nそれな\n\"間\"に人が挟まると結局そこが律速",
+      "highlight": "none"
+    },
+    {
+      "no": 28,
+      "poster": "F",
+      "body": "地銀がこういうのやるの増えてきたな",
+      "highlight": "none"
+    },
+    {
+      "no": 29,
+      "poster": "J",
+      "body": "融資先の業務理解にもなるしな\nお金の流れ見えるのは銀行にとって価値ある",
+      "highlight": "none"
+    },
+    {
+      "no": 30,
+      "poster": "O",
+      "body": "データ握られるの怖くね？",
+      "highlight": "none"
+    },
+    {
+      "no": 31,
+      "poster": "D",
+      "body": ">>30\n振込してもらってる時点でもう握られてる定期",
+      "highlight": "none"
+    },
+    {
+      "no": 32,
+      "poster": "O",
+      "body": ">>31\nたしかに",
+      "highlight": "none"
+    },
+    {
+      "no": 33,
+      "poster": "P",
+      "body": "Excel転記してるときの虚無感ほんとすごい\n付加価値ゼロだと自分で分かりながらやるのがキツい",
+      "highlight": "none"
+    },
+    {
+      "no": 34,
+      "poster": "C",
+      "body": ">>33\nわかる\n転記ミスで全部止まるのに評価はされない",
+      "highlight": "none"
+    },
+    {
+      "no": 35,
+      "poster": "Q",
+      "body": "AIが読み取ったやつ、結局人間が全件チェックするオチでは？",
+      "highlight": "none"
+    },
+    {
+      "no": 38,
+      "poster": "N",
+      "body": ">>35\n最初はそうなる\nでも全件目視と、怪しいのだけ弾くのじゃ負荷が全然違う\n確認作業は残るけど作業量は桁で減るタイプ",
+      "highlight": "blue"
+    },
+    {
+      "no": 39,
+      "poster": "Q",
+      "body": ">>38\nなるほど納得",
+      "highlight": "none"
+    },
+    {
+      "no": 41,
+      "poster": "R",
+      "body": "うちの上司「二重チェックは人間じゃないと」\n二重チェックした結果ミス見逃してるんだよなあ",
+      "highlight": "none"
+    },
+    {
+      "no": 43,
+      "poster": "A",
+      "body": ">>41\n人間の目視ほど当てにならんものない",
+      "highlight": "none"
+    },
+    {
+      "no": 45,
+      "poster": "S",
+      "body": "インボイスと電帳法でみんな限界だったからちょうどええタイミング",
+      "highlight": "none"
+    },
+    {
+      "no": 47,
+      "poster": "L",
+      "body": ">>45\nあれで一気に紙が苦しくなったからな\n外圧としては優秀だった",
+      "highlight": "none"
+    },
+    {
+      "no": 50,
+      "poster": "T",
+      "body": "地銀のシステムって大丈夫なん\n勘定系とつなぐの地獄そう",
+      "highlight": "none"
+    },
+    {
+      "no": 52,
+      "poster": "N",
+      "body": ">>50\n全部つなぐ必要はない\n振込データ作って流す部分だけでも相当楽になる",
+      "highlight": "none"
+    },
+    {
+      "no": 55,
+      "poster": "U",
+      "body": "ワイの理想\n請求書届く→勝手に仕訳→勝手に承認依頼→ポチ→振込\n\nこれだけで人生変わる",
+      "highlight": "none"
+    },
+    {
+      "no": 57,
+      "poster": "C",
+      "body": ">>55\nポチすら怪しくなってきそう",
+      "highlight": "none"
+    },
+    {
+      "no": 60,
+      "poster": "V",
+      "body": "結局は現場が使うかどうかや\n導入して誰も使わないシステム何個見てきたか",
+      "highlight": "red"
+    },
+    {
+      "no": 63,
+      "poster": "D",
+      "body": ">>60\n経験者の重み",
+      "highlight": "none"
+    },
+    {
+      "no": 66,
+      "poster": "B",
+      "body": "地方の中小って「うちはそんなの要らん」って社長が多いのがな",
+      "highlight": "none"
+    },
+    {
+      "no": 68,
+      "poster": "J",
+      "body": ">>66\nそこを地元の銀行が言うと聞くんよ\n付き合い長いから",
+      "highlight": "blue"
+    },
+    {
+      "no": 70,
+      "poster": "W",
+      "body": "地銀の営業力、こういう時だけ最強説",
+      "highlight": "none"
+    },
+    {
+      "no": 74,
+      "poster": "X",
+      "body": "他行も真似するやろな\n差別化要素としてはわかりやすい",
+      "highlight": "none"
+    },
+    {
+      "no": 77,
+      "poster": "H",
+      "body": "逆に何もしない銀行が置いていかれる流れ",
+      "highlight": "none"
+    },
+    {
+      "no": 80,
+      "poster": "P",
+      "body": "5年後「請求書をExcelに転記してた時代があったらしい」\n「うせやろ？」",
+      "highlight": "none"
+    },
+    {
+      "no": 83,
+      "poster": "A",
+      "body": ">>80\n早くその世界に行きたい",
+      "highlight": "none"
+    },
+    {
+      "no": 85,
+      "poster": "Y",
+      "body": "なお紙のFAX請求書は生き残る模様",
+      "highlight": "none"
+    },
+    {
+      "no": 88,
+      "poster": "E",
+      "body": ">>85\nゴキブリかな？",
+      "highlight": "none"
+    },
+    {
+      "no": 91,
+      "poster": "Z",
+      "body": "まとめると\n・経理の手作業は今も現役\n・銀行が振込まで含めて一気通貫でやるのが新しい\n・技術より巻き込みが本番\n・FAX取引先は不滅\nこんな感じか",
+      "highlight": "red"
+    },
+    {
+      "no": 93,
+      "poster": "A",
+      "body": ">>91\n完璧",
+      "highlight": "none"
+    },
+    {
+      "no": 95,
+      "poster": "C",
+      "body": ">>91\n最後の行だけ現実に引き戻すのやめろ",
+      "highlight": "none"
+    },
+    {
+      "no": 98,
+      "poster": "OP",
+      "body": "ワイの会社にも来てくれ\n今日も転記してから寝る",
+      "highlight": "none"
+    },
+    {
+      "no": 100,
+      "poster": "D",
+      "body": ">>98\n働きすぎやろ\n明日にはAIがやってくれてるといいな",
+      "highlight": "big"
+    }
+  ],
+  "admin_comment": "技術そのものより「間に挟まる人力をどう消すか」という話で、そこを銀行が引き受けるのは筋が良さそうです。あとはFAXおじさんとの最終決戦を待ちましょう。",
+  "meta": {
+    "model": "claude-opus-5",
+    "usage": {
+      "input_tokens": 2571,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 0,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "iterations": [
+        {
+          "input_tokens": 2571,
+          "output_tokens": 3595,
+          "cache_read_input_tokens": 0,
+          "cache_creation_input_tokens": 0,
+          "cache_creation": {
+            "ephemeral_5m_input_tokens": 0,
+            "ephemeral_1h_input_tokens": 0
+          },
+          "type": "message",
+          "model": null
+        }
+      ],
+      "output_tokens": 3595,
+      "output_tokens_details": {
+        "thinking_tokens": 0
+      },
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  }
+}

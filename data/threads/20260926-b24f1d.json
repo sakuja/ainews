@@ -1,0 +1,428 @@
+{
+  "id": "20260926-b24f1d",
+  "createdAt": "2026-09-26T00:31:48.583Z",
+  "news": {
+    "title": "資料作成が月32時間から4時間に トラコムが生成AIで「月28時間削減」した方法",
+    "url": "https://kn.itmedia.co.jp/kn/article/2609/26/2000001725/",
+    "summary": "生成AIを導入しても、活用が一部の従業員の“個人技”にとどまれば、効果を組織全体へ広げるのは難しい。トラコムでは、現場の工夫を仕組み化して共有。資料作成や月次処理などを効率化し、業務時間の削減につなげている。",
+    "source": "ITmedia AI＋",
+    "publishedAt": "2026-09-25T22:00:00.000Z"
+  },
+  "thread_title": "【朗報】生成AIで資料作成が月32時間→4時間に　月28時間削減を達成した企業が話題",
+  "matome_title": "【朗報】「資料作成が月32時間→4時間」生成AI導入で月28時間削減した企業、住民「で、その28時間どこ行ったん？」",
+  "category": "朗報",
+  "tags": [
+    "生成AI",
+    "業務効率化",
+    "働き方",
+    "DX"
+  ],
+  "intro": "ITmedia AI＋より。トラコムが生成AI活用を「個人技」で終わらせず仕組み化し、資料作成などで月28時間の削減につなげたとのこと。スレ民の反応はこちら。",
+  "posts": [
+    {
+      "no": 1,
+      "poster": "OP",
+      "body": "資料作成が月32時間から4時間に トラコムが生成AIで「月28時間削減」した方法（ITmedia AI＋）\n\n生成AIを導入しても一部の従業員の“個人技”で終わると組織に広がらない。トラコムでは現場の工夫を仕組み化して共有し、資料作成や月次処理などを効率化したらしいで\n\nワイの会社は個人技どころか個人の秘密兵器になっとる",
+      "highlight": "none"
+    },
+    {
+      "no": 2,
+      "poster": "A",
+      "body": "32→4は盛りすぎやろ",
+      "highlight": "none"
+    },
+    {
+      "no": 3,
+      "poster": "B",
+      "body": "8分の1で草",
+      "highlight": "none"
+    },
+    {
+      "no": 4,
+      "poster": "C",
+      "body": "で、浮いた28時間は何に使われたんや？",
+      "highlight": "red"
+    },
+    {
+      "no": 5,
+      "poster": "D",
+      "body": ">>4 新しい資料作成や",
+      "highlight": "big"
+    },
+    {
+      "no": 6,
+      "poster": "A",
+      "body": ">>5 やめたれ",
+      "highlight": "none"
+    },
+    {
+      "no": 7,
+      "poster": "E",
+      "body": "ワイ現場、まさに個人技で止まっとる\n一人だけプロンプト職人がおって、そいつが休むと全部止まる",
+      "highlight": "none"
+    },
+    {
+      "no": 8,
+      "poster": "F",
+      "body": ">>7 属人化がAIに移行しただけで草",
+      "highlight": "blue"
+    },
+    {
+      "no": 9,
+      "poster": "G",
+      "body": "記事のキモはそこやろ\n「仕組み化して共有」ってのが一番むずいんや",
+      "highlight": "none"
+    },
+    {
+      "no": 10,
+      "poster": "H",
+      "body": "ソース出せ",
+      "highlight": "none"
+    },
+    {
+      "no": 11,
+      "poster": "OP",
+      "body": ">>10 ITmedia AI＋の記事や　タイトルそのまま貼っとるやろ",
+      "highlight": "none"
+    },
+    {
+      "no": 12,
+      "poster": "I",
+      "body": "月32時間の資料作成って逆にどんだけ資料作ってたんや",
+      "highlight": "none"
+    },
+    {
+      "no": 13,
+      "poster": "J",
+      "body": ">>12 日8時間×4日分やぞ　うちはもっと多いわ",
+      "highlight": "none"
+    },
+    {
+      "no": 14,
+      "poster": "C",
+      "body": ">>13 悲しくなるからやめろ",
+      "highlight": "none"
+    },
+    {
+      "no": 15,
+      "poster": "K",
+      "body": "ワイも議事録AIに投げたら15分→2分になったで\n問題はその議事録誰も読まんこと",
+      "highlight": "red"
+    },
+    {
+      "no": 16,
+      "poster": "B",
+      "body": ">>15 生産性の向上とは",
+      "highlight": "none"
+    },
+    {
+      "no": 17,
+      "poster": "L",
+      "body": "技術的には別に特別なことしてないと思うで\n・よく使う指示をテンプレ化\n・社内で共有\n・使い方の勉強会\nこれを地道に回せるかどうかだけ",
+      "highlight": "blue"
+    },
+    {
+      "no": 18,
+      "poster": "M",
+      "body": ">>17 それができる会社が少ないんやろなあ",
+      "highlight": "none"
+    },
+    {
+      "no": 19,
+      "poster": "N",
+      "body": "うちはセキュリティガーで全面禁止です",
+      "highlight": "none"
+    },
+    {
+      "no": 20,
+      "poster": "A",
+      "body": ">>19 いるよなそういう会社",
+      "highlight": "none"
+    },
+    {
+      "no": 21,
+      "poster": "O",
+      "body": "個人技の人って社内で評価されへんのがつらいわ\n勝手に効率化して仕事量だけ増えるやつ",
+      "highlight": "none"
+    },
+    {
+      "no": 22,
+      "poster": "E",
+      "body": ">>21 これガチで分かる\n速く終わると次が来るだけ",
+      "highlight": "red"
+    },
+    {
+      "no": 23,
+      "poster": "P",
+      "body": "効率化の果てに待っているのは人員削減では？",
+      "highlight": "none"
+    },
+    {
+      "no": 24,
+      "poster": "G",
+      "body": ">>23 記事には削減の話は出てないで　業務時間の話や",
+      "highlight": "none"
+    },
+    {
+      "no": 25,
+      "poster": "Q",
+      "body": "月次処理も効率化しとるらしいな\n定型作業こそAI向きやわ",
+      "highlight": "none"
+    },
+    {
+      "no": 28,
+      "poster": "R",
+      "body": "ワイの上司「AIで作った資料は信用できん」\nワイ「手作りの資料も誤字だらけでしたが」",
+      "highlight": "blue"
+    },
+    {
+      "no": 29,
+      "poster": "S",
+      "body": ">>28 草",
+      "highlight": "none"
+    },
+    {
+      "no": 31,
+      "poster": "L",
+      "body": "結局ファクトチェックの手間で相殺されるってよく言われるけど、テンプレと確認フローまで仕組み化すればそこも減るんよな",
+      "highlight": "none"
+    },
+    {
+      "no": 33,
+      "poster": "T",
+      "body": "ちな資料作成そのものを減らすのが一番効率化される",
+      "highlight": "big"
+    },
+    {
+      "no": 34,
+      "poster": "C",
+      "body": ">>33 正論すぎてつらい",
+      "highlight": "none"
+    },
+    {
+      "no": 35,
+      "poster": "U",
+      "body": "　　∧＿∧\n　（　´・ω・）　＜ 資料作るための資料を作っています\n　（つ　　と）",
+      "highlight": "none"
+    },
+    {
+      "no": 36,
+      "poster": "B",
+      "body": ">>35 現実",
+      "highlight": "none"
+    },
+    {
+      "no": 38,
+      "poster": "V",
+      "body": "28時間って年間336時間やん\n普通にでかいわ",
+      "highlight": "none"
+    },
+    {
+      "no": 39,
+      "poster": "A",
+      "body": ">>38 数字にすると急に説得力出るの草",
+      "highlight": "none"
+    },
+    {
+      "no": 42,
+      "poster": "W",
+      "body": "導入した瞬間に効果出るわけないんよ\n半年くらいかけて社内に馴染ませるフェーズが絶対いる",
+      "highlight": "none"
+    },
+    {
+      "no": 43,
+      "poster": "M",
+      "body": ">>42 その半年を待てない経営層が多すぎる",
+      "highlight": "none"
+    },
+    {
+      "no": 45,
+      "poster": "X",
+      "body": "ワイの会社、AIツール導入したけどアカウント配っただけで終わったで",
+      "highlight": "red"
+    },
+    {
+      "no": 46,
+      "poster": "E",
+      "body": ">>45 あるある　使い方教えんと誰も触らん",
+      "highlight": "none"
+    },
+    {
+      "no": 47,
+      "poster": "L",
+      "body": ">>45 それが一番もったいないパターンや\n記事の言う「仕組み化」ってまさにそこの話やろな",
+      "highlight": "none"
+    },
+    {
+      "no": 50,
+      "poster": "Y",
+      "body": "懐疑派ワイ、数字の出し方が気になる\n削減前の32時間って誰がどう測ったんや",
+      "highlight": "none"
+    },
+    {
+      "no": 51,
+      "poster": "G",
+      "body": ">>50 そこは記事読むしかないな　まあ自社計測やろけど",
+      "highlight": "none"
+    },
+    {
+      "no": 53,
+      "poster": "Z",
+      "body": "文系事務職のワイ、震える",
+      "highlight": "none"
+    },
+    {
+      "no": 54,
+      "poster": "D",
+      "body": ">>53 震えてる暇あったら使い方覚えたほうが得やで",
+      "highlight": "blue"
+    },
+    {
+      "no": 55,
+      "poster": "Z",
+      "body": ">>54 ぐうの音も出ない",
+      "highlight": "none"
+    },
+    {
+      "no": 58,
+      "poster": "AA",
+      "body": "結局「AIが仕事を奪う」んじゃなくて「AIを使う同僚に仕事を持っていかれる」なんよな",
+      "highlight": "red"
+    },
+    {
+      "no": 59,
+      "poster": "C",
+      "body": ">>58 名言すぎる",
+      "highlight": "none"
+    },
+    {
+      "no": 62,
+      "poster": "AB",
+      "body": "うちも真似したいけど誰が旗振るかで揉めて終わりそう",
+      "highlight": "none"
+    },
+    {
+      "no": 63,
+      "poster": "W",
+      "body": ">>62 情シスに丸投げしてもうまくいかんで　現場の工夫を拾うのが先や",
+      "highlight": "none"
+    },
+    {
+      "no": 67,
+      "poster": "AC",
+      "body": "まとめると\n・個人技で終わらせない\n・テンプレ化して共有\n・定型業務から潰す\n・浮いた時間の使い道を決めとく\nこれやな",
+      "highlight": "big"
+    },
+    {
+      "no": 68,
+      "poster": "A",
+      "body": ">>67 有能",
+      "highlight": "none"
+    },
+    {
+      "no": 71,
+      "poster": "F",
+      "body": ">>67 4つ目が一番大事や　決めてないと結局仕事増えるだけ",
+      "highlight": "none"
+    },
+    {
+      "no": 74,
+      "poster": "O",
+      "body": "ワイ、浮いた時間で昼寝しとるけど怒られてない",
+      "highlight": "none"
+    },
+    {
+      "no": 75,
+      "poster": "B",
+      "body": ">>74 勝ち組で草",
+      "highlight": "none"
+    },
+    {
+      "no": 78,
+      "poster": "AD",
+      "body": "月28時間削減されたところで定時で帰れるとは言ってない",
+      "highlight": "none"
+    },
+    {
+      "no": 79,
+      "poster": "K",
+      "body": ">>78 やめろ",
+      "highlight": "none"
+    },
+    {
+      "no": 83,
+      "poster": "OP",
+      "body": "ワイ、このスレをAIに要約させて明日の朝礼で発表するわ",
+      "highlight": "none"
+    },
+    {
+      "no": 84,
+      "poster": "G",
+      "body": ">>83 そこは自分で読め",
+      "highlight": "none"
+    },
+    {
+      "no": 88,
+      "poster": "AE",
+      "body": ">>83 それこそが仕組み化の第一歩やぞ　頑張れ",
+      "highlight": "blue"
+    },
+    {
+      "no": 92,
+      "poster": "L",
+      "body": "結局ツールより文化なんよな\n32→4はゴールじゃなくて、その4時間を何に使うかがスタート",
+      "highlight": "red"
+    },
+    {
+      "no": 95,
+      "poster": "C",
+      "body": ">>92 ええこと言うやん",
+      "highlight": "none"
+    },
+    {
+      "no": 99,
+      "poster": "E",
+      "body": "ワイの個人技、明日から共有することにするわ\nどうせ隠しても給料上がらんし",
+      "highlight": "none"
+    },
+    {
+      "no": 100,
+      "poster": "A",
+      "body": ">>99 それが月28時間への第一歩やで",
+      "highlight": "big"
+    }
+  ],
+  "admin_comment": "「AIが仕事を奪うんじゃなくて、AIを使う同僚に仕事を持っていかれる」は今年一の名言かもしれません。浮いた時間の使い道、先に決めておきましょうね。",
+  "meta": {
+    "model": "claude-opus-5",
+    "usage": {
+      "input_tokens": 2567,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 0,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "iterations": [
+        {
+          "input_tokens": 2567,
+          "output_tokens": 3549,
+          "cache_read_input_tokens": 0,
+          "cache_creation_input_tokens": 0,
+          "cache_creation": {
+            "ephemeral_5m_input_tokens": 0,
+            "ephemeral_1h_input_tokens": 0
+          },
+          "type": "message",
+          "model": null
+        }
+      ],
+      "output_tokens": 3549,
+      "output_tokens_details": {
+        "thinking_tokens": 0
+      },
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  }
+}
