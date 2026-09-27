@@ -1,0 +1,356 @@
+{
+  "id": "20260927-f582fc",
+  "createdAt": "2026-09-27T00:26:02.421Z",
+  "news": {
+    "title": "NTTドコモ、「正しく質問させる」をやめ、“聞き返すAI”で変える顧客対応",
+    "url": "https://kn.itmedia.co.jp/kn/article/2609/27/2000001764/",
+    "summary": "NTTドコモが、顧客の短い質問から意図をくみ取り、必要な手続きへ導く対話AIを導入した。生成AIが顧客に聞き返しながら情報を絞り込むことで、FAQを探す負担を軽減。AIによる顧客対応の本番運用を支える仕組みも整える。",
+    "source": "ITmedia AI＋",
+    "publishedAt": "2026-09-26T22:00:00.000Z"
+  },
+  "thread_title": "【AI】ドコモ、「正しく質問させる」をやめる　“聞き返すAI”で顧客対応を変える",
+  "matome_title": "【朗報】ドコモの新AI、ついに「お客様、それはどういう意味ですか？」と聞き返せるようになる",
+  "category": "速報",
+  "tags": [
+    "ドコモ",
+    "生成AI",
+    "カスタマーサポート",
+    "チャットボット"
+  ],
+  "intro": "「FAQを検索してください」の時代、終わるのか？　ドコモが“聞き返す”対話AIを導入したというニュースに、板の住人が反応しております。",
+  "posts": [
+    {
+      "no": 1,
+      "poster": "OP",
+      "body": "NTTドコモが顧客の短い質問から意図をくみ取って、必要な手続きに導く対話AIを導入\n生成AIが聞き返しながら情報を絞り込むことで、FAQを探す負担を減らすとのこと\n本番運用を支える仕組みも整備\n\nソース: ITmedia AI＋\n\nついに「正しく質問できる人間」じゃなくてもよくなるんか",
+      "highlight": "none"
+    },
+    {
+      "no": 2,
+      "poster": "A",
+      "body": ">>1\nこれ地味にデカいやろ",
+      "highlight": "none"
+    },
+    {
+      "no": 3,
+      "poster": "B",
+      "body": "今までのチャットボット「該当する回答が見つかりませんでした」\nこれで何回心を折られたことか",
+      "highlight": "red"
+    },
+    {
+      "no": 4,
+      "poster": "C",
+      "body": ">>3\nわかる\n「関連するFAQはこちら」で全然関係ないページ出てくるやつ",
+      "highlight": "none"
+    },
+    {
+      "no": 5,
+      "poster": "D",
+      "body": "ワイ「機種変」\nAI「どちらの機種からどちらの機種へ？」\nワイ「わからん」\nAI「……」",
+      "highlight": "none"
+    },
+    {
+      "no": 6,
+      "poster": "E",
+      "body": ">>5\nAIを黙らせるな",
+      "highlight": "none"
+    },
+    {
+      "no": 7,
+      "poster": "F",
+      "body": "聞き返すってのは要するにスロットフィリングやろ\n昔からある手法やけど生成AIでやると自然文で拾えるのがデカい",
+      "highlight": "blue"
+    },
+    {
+      "no": 8,
+      "poster": "G",
+      "body": ">>7\nそれな\nルールベースだと質問文のパターン網羅が地獄やった",
+      "highlight": "none"
+    },
+    {
+      "no": 9,
+      "poster": "H",
+      "body": "「正しく質問させるのをやめる」って表現がうまい\nUXの本質やな",
+      "highlight": "none"
+    },
+    {
+      "no": 10,
+      "poster": "I",
+      "body": "ユーザーに検索リテラシー求めるサービスはだいたい失敗する",
+      "highlight": "none"
+    },
+    {
+      "no": 11,
+      "poster": "J",
+      "body": "でも結局「オペレーターにつなぐ」まで20分かかるんやろ？",
+      "highlight": "none"
+    },
+    {
+      "no": 12,
+      "poster": "A",
+      "body": ">>11\nそこよな\nAIで解決できる問い合わせが増えれば人間に回る余裕も出るはずやが",
+      "highlight": "none"
+    },
+    {
+      "no": 13,
+      "poster": "K",
+      "body": "ワイの母親「あのー、スマホがなんかおかしくて」\nこれを聞き返しで絞り込めたら本物",
+      "highlight": "red"
+    },
+    {
+      "no": 14,
+      "poster": "L",
+      "body": ">>13\nAI「何がどうおかしいですか」\n母「なんかおかしいの」\nAI「何がどうおかしいですか」\n無限ループで草",
+      "highlight": "none"
+    },
+    {
+      "no": 15,
+      "poster": "F",
+      "body": ">>14\n実際そこが一番難しい\n聞き返しの回数上限決めて人間にエスカレーションする設計が必須",
+      "highlight": "blue"
+    },
+    {
+      "no": 16,
+      "poster": "M",
+      "body": "本番運用を支える仕組みってところが気になる\n評価とかログ監視の話やろ",
+      "highlight": "none"
+    },
+    {
+      "no": 17,
+      "poster": "F",
+      "body": ">>16\nたぶんそれ\n生成AIは作るより運用して直し続けるほうが100倍しんどい",
+      "highlight": "none"
+    },
+    {
+      "no": 18,
+      "poster": "N",
+      "body": "コールセンターの仕事なくなるンゴ…",
+      "highlight": "none"
+    },
+    {
+      "no": 19,
+      "poster": "O",
+      "body": ">>18\nむしろ一次対応がAIになって二次対応の難易度が上がるだけやで\n給料は上がらん",
+      "highlight": "red"
+    },
+    {
+      "no": 20,
+      "poster": "N",
+      "body": ">>19\nやめろ",
+      "highlight": "none"
+    },
+    {
+      "no": 21,
+      "poster": "P",
+      "body": "ソース出せ",
+      "highlight": "none"
+    },
+    {
+      "no": 22,
+      "poster": "C",
+      "body": ">>21\n>>1に書いてあるやろ",
+      "highlight": "none"
+    },
+    {
+      "no": 23,
+      "poster": "Q",
+      "body": "聞き返すAIとか彼女かよ",
+      "highlight": "none"
+    },
+    {
+      "no": 24,
+      "poster": "R",
+      "body": ">>23\n「え、今なんて言った？」",
+      "highlight": "none"
+    },
+    {
+      "no": 25,
+      "poster": "Q",
+      "body": ">>24\n聞き返しの意図が違う",
+      "highlight": "none"
+    },
+    {
+      "no": 26,
+      "poster": "S",
+      "body": "ワイ的には「一発で答え出せ」より「一緒に絞り込んでくれる」ほうが安心感あるわ\n自分の質問が雑なのは自覚してる",
+      "highlight": "none"
+    },
+    {
+      "no": 27,
+      "poster": "T",
+      "body": ">>26\nこれ\n検索窓って結局「答えを知ってる人向けのUI」なんよな",
+      "highlight": "blue"
+    },
+    {
+      "no": 28,
+      "poster": "U",
+      "body": "ドコモの料金プランの複雑さをAIが説明しきれるのか見ものやな",
+      "highlight": "none"
+    },
+    {
+      "no": 29,
+      "poster": "A",
+      "body": ">>28\nAI「恐れ入ります、私にもわかりません」",
+      "highlight": "none"
+    },
+    {
+      "no": 30,
+      "poster": "V",
+      "body": ">>29\n誠実で草",
+      "highlight": "none"
+    },
+    {
+      "no": 34,
+      "poster": "W",
+      "body": "幻覚で存在しない手続き案内したら炎上案件やろ\nそこどうしてんの",
+      "highlight": "none"
+    },
+    {
+      "no": 35,
+      "poster": "F",
+      "body": ">>34\nたぶん自由回答させずに、聞き返しで意図を確定→既存の手続き導線に流すって設計やと思う\n生成AIを「案内文を書く係」じゃなく「意図を聞き出す係」に使うのは賢い",
+      "highlight": "big"
+    },
+    {
+      "no": 36,
+      "poster": "G",
+      "body": ">>35\nなるほど納得\n出口を既存アセットに固定すれば事故りにくいわな",
+      "highlight": "none"
+    },
+    {
+      "no": 37,
+      "poster": "X",
+      "body": "で、電話は減るんか",
+      "highlight": "none"
+    },
+    {
+      "no": 41,
+      "poster": "Y",
+      "body": "逆に聞き返しがウザいパターンもありそう\n「解約したい」→3回聞き返される",
+      "highlight": "red"
+    },
+    {
+      "no": 42,
+      "poster": "Z",
+      "body": ">>41\n一番聞き返してきそうな手続きで草\n「本当によろしいですか」を5回言われる",
+      "highlight": "none"
+    },
+    {
+      "no": 43,
+      "poster": "Y",
+      "body": ">>42\nそれもう引き留めAIや",
+      "highlight": "none"
+    },
+    {
+      "no": 44,
+      "poster": "T",
+      "body": ">>43\n聞き返しの目的が顧客のためか会社のためかで評価が180度変わるのは面白いところやな",
+      "highlight": "blue"
+    },
+    {
+      "no": 48,
+      "poster": "AA",
+      "body": "ワイ元サポート\n実際問い合わせの7割は「何を聞けばいいかわからん」状態から始まるから、聞き返し設計は正解やと思う\nオペレーターも最初にやってるのそれやし",
+      "highlight": "big"
+    },
+    {
+      "no": 49,
+      "poster": "H",
+      "body": ">>48\n現場の声きた\n要はベテランオペレーターのヒアリング技術をAIに移植する話か",
+      "highlight": "none"
+    },
+    {
+      "no": 50,
+      "poster": "AA",
+      "body": ">>49\nそういうこと\nただベテランは声のトーンとか間で察してるから、テキストだけでどこまでいけるかは未知数",
+      "highlight": "none"
+    },
+    {
+      "no": 55,
+      "poster": "AB",
+      "body": "他キャリアも追随するやろな",
+      "highlight": "none"
+    },
+    {
+      "no": 56,
+      "poster": "M",
+      "body": ">>55\n銀行と自治体にこそ来てほしい\nあそこのFAQ地獄すぎる",
+      "highlight": "none"
+    },
+    {
+      "no": 57,
+      "poster": "AC",
+      "body": "役所の窓口AI「その手続きは2階の3番窓口です」\n結局たらい回し",
+      "highlight": "none"
+    },
+    {
+      "no": 60,
+      "poster": "D",
+      "body": "まとめると\n・今まで:ユーザーが正しく質問する義務を負ってた\n・これから:AIが聞き返して一緒に探す\n・課題:聞き返しすぎるとウザい、幻覚、エスカレーション設計\nこんな感じか",
+      "highlight": "blue"
+    },
+    {
+      "no": 61,
+      "poster": "F",
+      "body": ">>60\n完璧\nお前が一番聞き返さなくていいやつ",
+      "highlight": "none"
+    },
+    {
+      "no": 62,
+      "poster": "K",
+      "body": ">>61\n草",
+      "highlight": "none"
+    },
+    {
+      "no": 68,
+      "poster": "AD",
+      "body": "ワイこのスレで「何が聞きたいかわからんまま書き込む奴」の多さに気づいた\n人類にこそ聞き返しAIが必要",
+      "highlight": "red"
+    },
+    {
+      "no": 69,
+      "poster": "E",
+      "body": ">>68\n>>1から読み返してこい",
+      "highlight": "none"
+    },
+    {
+      "no": 70,
+      "poster": "OP",
+      "body": ">>69\nワイのスレ立ても聞き返されそうで草\nAI「それで、結局何が言いたいのですか？」",
+      "highlight": "big"
+    }
+  ],
+  "admin_comment": "「正しく質問できる人向けのUI」を捨てる発想、地味だけど効きそうですね。あとは聞き返しがウザくならないさじ加減次第でしょうか。",
+  "meta": {
+    "model": "claude-opus-5",
+    "usage": {
+      "input_tokens": 2578,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 0,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "iterations": [
+        {
+          "input_tokens": 2578,
+          "output_tokens": 3340,
+          "cache_read_input_tokens": 0,
+          "cache_creation_input_tokens": 0,
+          "cache_creation": {
+            "ephemeral_5m_input_tokens": 0,
+            "ephemeral_1h_input_tokens": 0
+          },
+          "type": "message",
+          "model": null
+        }
+      ],
+      "output_tokens": 3340,
+      "output_tokens_details": {
+        "thinking_tokens": 0
+      },
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  }
+}

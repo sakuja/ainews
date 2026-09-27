@@ -1,0 +1,398 @@
+{
+  "id": "20260926-97d783",
+  "createdAt": "2026-09-27T00:26:50.994Z",
+  "news": {
+    "title": "「AIトークンコスト増を44％抑制」できる可能性も 高性能モデルの“使い過ぎ”、どう減らす？",
+    "url": "https://atmarkit.itmedia.co.jp/ait/articles/2609/26/news011.html",
+    "summary": "生成AIやAIエージェントの活用が広がる中、企業のAI利用コストも膨らんでいる。AI活用を減らすことなく、増加するコストを抑えるには何を見直せばいいのか。アクセンチュアの調査から、その実態が見えてきた。",
+    "source": "ITmedia AI＋",
+    "publishedAt": "2026-09-26T08:00:00.000Z"
+  },
+  "thread_title": "【朗報】AIトークンコスト、44%抑制できる可能性　高性能モデルの\"使い過ぎ\"問題",
+  "matome_title": "【朗報】「AIのトークン代、44%減らせるで」→ 住民「その前に上司のAI使い方を何とかしろ」",
+  "category": "朗報",
+  "tags": [
+    "生成AI",
+    "トークンコスト",
+    "AIエージェント",
+    "コスト削減"
+  ],
+  "intro": "「とりあえず全部一番賢いモデルに投げとけ」でお馴染みのAI運用費、実は半分近く削れるかもしれないという調査が出ました。スレは割と実務の悲鳴で埋まってて草。",
+  "posts": [
+    {
+      "no": 1,
+      "poster": "OP",
+      "body": "ITmedia AI＋より\n\n生成AIやAIエージェントの活用が広がる中、企業のAI利用コストも膨らんでいる。AI活用を減らすことなく増加するコストを抑えるには何を見直せばいいのか。アクセンチュアの調査から実態が見えてきた。\n「AIトークンコスト増を44％抑制」できる可能性も\n\nワイ「そらそうやろ」",
+      "highlight": "none"
+    },
+    {
+      "no": 2,
+      "poster": "A",
+      "body": "44%てめっちゃ盛るやん",
+      "highlight": "none"
+    },
+    {
+      "no": 3,
+      "poster": "B",
+      "body": "高性能モデルの使い過ぎ、心当たりしかない",
+      "highlight": "none"
+    },
+    {
+      "no": 4,
+      "poster": "C",
+      "body": ">>1\n要するに「そのタスク、安いモデルでええやろ」って話ちゃうの",
+      "highlight": "none"
+    },
+    {
+      "no": 5,
+      "poster": "OP",
+      "body": ">>4\nだいたいそれや。記事も\"使い過ぎ\"をどう減らすかって切り口やで",
+      "highlight": "none"
+    },
+    {
+      "no": 6,
+      "poster": "D",
+      "body": "誤字修正を最上位モデルに投げるの、軽自動車で足りる用事にヘリ飛ばすようなもんやからな",
+      "highlight": "red"
+    },
+    {
+      "no": 7,
+      "poster": "A",
+      "body": ">>6\nうまいこと言うやん",
+      "highlight": "none"
+    },
+    {
+      "no": 8,
+      "poster": "E",
+      "body": "うちの部長、挨拶文の下書きを一番高いモデルに投げてる\nしかも10回リテイクする",
+      "highlight": "none"
+    },
+    {
+      "no": 9,
+      "poster": "B",
+      "body": ">>8\n44%どころか80%削減できそう",
+      "highlight": "none"
+    },
+    {
+      "no": 10,
+      "poster": "F",
+      "body": "ソース出せ定期",
+      "highlight": "none"
+    },
+    {
+      "no": 11,
+      "poster": "OP",
+      "body": ">>10\nITmedia AI＋の記事や、アクセンチュアの調査ベース",
+      "highlight": "none"
+    },
+    {
+      "no": 12,
+      "poster": "F",
+      "body": ">>11\nコンサルが「コスト減らせます」って言うのは営業やろ",
+      "highlight": "none"
+    },
+    {
+      "no": 13,
+      "poster": "G",
+      "body": ">>12\nまあそれはそう\nでも内容自体は普通に正しいことしか言ってないと思うで",
+      "highlight": "none"
+    },
+    {
+      "no": 14,
+      "poster": "H",
+      "body": "ワイ社内AI基盤の担当、毎月の請求書見て震えてる",
+      "highlight": "none"
+    },
+    {
+      "no": 15,
+      "poster": "A",
+      "body": ">>14\nいくらや",
+      "highlight": "none"
+    },
+    {
+      "no": 16,
+      "poster": "H",
+      "body": ">>15\n言えんけど、去年の同月の4倍",
+      "highlight": "blue"
+    },
+    {
+      "no": 17,
+      "poster": "C",
+      "body": ">>16\n草\nそら経営層も気にするわ",
+      "highlight": "none"
+    },
+    {
+      "no": 18,
+      "poster": "I",
+      "body": "エージェントにすると裏でめっちゃ回るからな\n1リクエストのつもりが内部で20往復してる",
+      "highlight": "none"
+    },
+    {
+      "no": 19,
+      "poster": "D",
+      "body": ">>18\nこれ意外と知られてない\nユーザーは1回聞いただけのつもり",
+      "highlight": "none"
+    },
+    {
+      "no": 20,
+      "poster": "J",
+      "body": "つまりAIが自分で自分の仕事増やしてるってこと？",
+      "highlight": "none"
+    },
+    {
+      "no": 21,
+      "poster": "I",
+      "body": ">>20\n人間の会議と同じやぞ",
+      "highlight": "red"
+    },
+    {
+      "no": 22,
+      "poster": "B",
+      "body": ">>21\n刺さるからやめろ",
+      "highlight": "none"
+    },
+    {
+      "no": 23,
+      "poster": "K",
+      "body": "ルーティング入れるだけでだいぶ違うで\n簡単なやつは小さいモデル、難しいやつだけ上に回す",
+      "highlight": "none"
+    },
+    {
+      "no": 24,
+      "poster": "F",
+      "body": ">>23\nその振り分け判定自体にモデル使うんちゃうん",
+      "highlight": "none"
+    },
+    {
+      "no": 25,
+      "poster": "K",
+      "body": ">>24\n判定は超軽量モデルかルールベースでいける\nそこをデカいの使ったら本末転倒や",
+      "highlight": "none"
+    },
+    {
+      "no": 26,
+      "poster": "L",
+      "body": "キャッシュも効くぞ\n社内FAQみたいな同じ質問が何百回も飛んでくるやつ",
+      "highlight": "none"
+    },
+    {
+      "no": 27,
+      "poster": "A",
+      "body": ">>26\nそれもう検索でええのでは",
+      "highlight": "none"
+    },
+    {
+      "no": 28,
+      "poster": "L",
+      "body": ">>27\nそうなんやけど「AI使ってます」って言いたい人が社内にいるんや",
+      "highlight": "blue"
+    },
+    {
+      "no": 29,
+      "poster": "C",
+      "body": ">>28\n本質を突くな",
+      "highlight": "none"
+    },
+    {
+      "no": 30,
+      "poster": "M",
+      "body": "プロンプトに毎回10万トークンの社内規程全文くっつけてる部署がある",
+      "highlight": "none"
+    },
+    {
+      "no": 31,
+      "poster": "H",
+      "body": ">>30\nお前んとこか犯人は",
+      "highlight": "none"
+    },
+    {
+      "no": 32,
+      "poster": "M",
+      "body": ">>31\nワイちゃうわ隣の部署や\n指摘したら「全部入れた方が正確でしょ」って言われた",
+      "highlight": "none"
+    },
+    {
+      "no": 33,
+      "poster": "D",
+      "body": ">>32\n正確さとコストのトレードオフを説明する仕事、地味にしんどい",
+      "highlight": "none"
+    },
+    {
+      "no": 34,
+      "poster": "N",
+      "body": "ワイの仕事はAIに奪われ、会社の金もAIに奪われる\n誰が得しとるんや",
+      "highlight": "red"
+    },
+    {
+      "no": 35,
+      "poster": "A",
+      "body": ">>34\n電力会社ちゃう？",
+      "highlight": "none"
+    },
+    {
+      "no": 36,
+      "poster": "G",
+      "body": ">>34\n一応言うと、コスト増えてるのは使う量が増えたからで、単価はむしろ下がってる\n安くなったから使いまくって総額が増えるやつ",
+      "highlight": "blue"
+    },
+    {
+      "no": 37,
+      "poster": "J",
+      "body": ">>36\nジェヴォンズのパラドックスってやつか",
+      "highlight": "none"
+    },
+    {
+      "no": 38,
+      "poster": "G",
+      "body": ">>37\nそうそう\n高速道路広げたら渋滞増えるのと同じ",
+      "highlight": "none"
+    },
+    {
+      "no": 39,
+      "poster": "O",
+      "body": "44%って数字だけ会議で一人歩きしそう",
+      "highlight": "none"
+    },
+    {
+      "no": 40,
+      "poster": "B",
+      "body": ">>39\n「44%削減が目標です」って来期の目標に入るまで見えた",
+      "highlight": "none"
+    },
+    {
+      "no": 41,
+      "poster": "H",
+      "body": ">>40\nやめて",
+      "highlight": "none"
+    },
+    {
+      "no": 47,
+      "poster": "P",
+      "body": "そもそも出力を無駄に長くさせてるのもある\n「簡潔に」って一行入れるだけで結構減る",
+      "highlight": "none"
+    },
+    {
+      "no": 48,
+      "poster": "C",
+      "body": ">>47\nわかる\n聞いてもないのに要約と次のステップまで付けてくるやつ",
+      "highlight": "none"
+    },
+    {
+      "no": 49,
+      "poster": "D",
+      "body": ">>48\nあれ親切に見えて課金やからな",
+      "highlight": "none"
+    },
+    {
+      "no": 52,
+      "poster": "Q",
+      "body": "　＿人人人人人＿\n　＞　トークン　＜\n　￣Y^Y^Y^Y^Y￣\n溶けていく音がする",
+      "highlight": "none"
+    },
+    {
+      "no": 53,
+      "poster": "A",
+      "body": ">>52\n草",
+      "highlight": "none"
+    },
+    {
+      "no": 58,
+      "poster": "K",
+      "body": "実務的にはこの辺やろ\n・モデルの振り分け\n・コンテキストを盛りすぎない\n・キャッシュ\n・出力長の制御\n・そもそもAIでやる必要あるか見直す\n最後が一番効く",
+      "highlight": "big"
+    },
+    {
+      "no": 59,
+      "poster": "G",
+      "body": ">>58\n綺麗にまとまってて草\nほんま最後が一番効く",
+      "highlight": "none"
+    },
+    {
+      "no": 60,
+      "poster": "F",
+      "body": ">>58\nこれ無料で読めるのありがたいな\nコンサル代浮いたわ",
+      "highlight": "none"
+    },
+    {
+      "no": 66,
+      "poster": "E",
+      "body": "部長にこのスレ見せたら「じゃあ最適化のプランをAIに考えさせよう」って言われた",
+      "highlight": "red"
+    },
+    {
+      "no": 67,
+      "poster": "H",
+      "body": ">>66\n最上位モデルでやるなよ絶対やるなよ",
+      "highlight": "none"
+    },
+    {
+      "no": 68,
+      "poster": "E",
+      "body": ">>67\nもうやってた",
+      "highlight": "none"
+    },
+    {
+      "no": 69,
+      "poster": "C",
+      "body": ">>68\n草\nコスト削減の検討でコストが増えるの完成度高すぎるわ",
+      "highlight": "blue"
+    },
+    {
+      "no": 75,
+      "poster": "N",
+      "body": "結局「道具は使い方次第」という人類永遠のオチ",
+      "highlight": "none"
+    },
+    {
+      "no": 76,
+      "poster": "OP",
+      "body": ">>75\nほんまそれ\nワイも今日から要約タスクは軽いモデルに回すわ",
+      "highlight": "none"
+    },
+    {
+      "no": 80,
+      "poster": "J",
+      "body": "ワイはそもそも無料枠しか使ってないから関係なかった",
+      "highlight": "none"
+    },
+    {
+      "no": 81,
+      "poster": "A",
+      "body": ">>80\n100%削減で草",
+      "highlight": "none"
+    }
+  ],
+  "admin_comment": "「一番賢いモデルに全部投げる」は楽だけど確実に請求書に出るやつ。コスト削減の検討を最上位モデルにやらせた>>68が今年一番の実話感ありました。",
+  "meta": {
+    "model": "claude-opus-5",
+    "usage": {
+      "input_tokens": 2572,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 0,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "iterations": [
+        {
+          "input_tokens": 2572,
+          "output_tokens": 3466,
+          "cache_read_input_tokens": 0,
+          "cache_creation_input_tokens": 0,
+          "cache_creation": {
+            "ephemeral_5m_input_tokens": 0,
+            "ephemeral_1h_input_tokens": 0
+          },
+          "type": "message",
+          "model": null
+        }
+      ],
+      "output_tokens": 3466,
+      "output_tokens_details": {
+        "thinking_tokens": 0
+      },
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  }
+}
