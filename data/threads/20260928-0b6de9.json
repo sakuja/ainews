@@ -1,0 +1,464 @@
+{
+  "id": "20260928-0b6de9",
+  "createdAt": "2026-09-28T00:32:00.923Z",
+  "news": {
+    "title": "ロボットを入れれば終わりじゃない フィジカルAIを現場で動かす企業の役割とは",
+    "url": "https://kn.itmedia.co.jp/kn/article/2609/28/2000001734/",
+    "summary": "AIロボットを工場や物流現場に導入しても、それだけで現場が変わるわけではない。システム統合や設備の自動化、導入後の運用・保守など、さまざまな企業の力が必要になる。Listerの分析から、フィジカルAIの実装を支える構造が見えてきた。",
+    "source": "ITmedia AI＋",
+    "publishedAt": "2026-09-27T22:00:00.000Z"
+  },
+  "thread_title": "【議論】ロボット入れれば終わりじゃない　フィジカルAIを現場で動かす企業の役割とは",
+  "matome_title": "【現実】「ロボット入れたのに生産性上がらない」フィジカルAI導入の落とし穴、結局ラスボスは現場だった",
+  "category": "議論",
+  "tags": [
+    "フィジカルAI",
+    "ロボット",
+    "製造業",
+    "システム統合"
+  ],
+  "intro": "ITmedia AI＋の記事「ロボットを入れれば終わりじゃない フィジカルAIを現場で動かす企業の役割とは」を受けてのスレ。現場経験者の魂の叫びが集まりました。",
+  "posts": [
+    {
+      "no": 1,
+      "poster": "OP",
+      "body": "ITmedia AI＋より\n\n「ロボットを入れれば終わりじゃない フィジカルAIを現場で動かす企業の役割とは」\n\nAIロボットを工場や物流現場に導入しても、それだけで現場が変わるわけではない。システム統合や設備の自動化、導入後の運用・保守など、さまざまな企業の力が必要になる。Listerの分析から、フィジカルAIの実装を支える構造が見えてきた。\n\nまあそうやろなとしか言えん記事なんやが、逆に言うと当たり前のことが記事になる程度には勘違いされとるってことやな",
+      "highlight": "none"
+    },
+    {
+      "no": 2,
+      "poster": "A",
+      "body": "知ってた",
+      "highlight": "none"
+    },
+    {
+      "no": 3,
+      "poster": "B",
+      "body": "ロボット置いた瞬間に工場が全自動になると思ってる経営層、マジで実在する",
+      "highlight": "red"
+    },
+    {
+      "no": 4,
+      "poster": "C",
+      "body": ">>3\nおるおる\n「AIなんだから自分で覚えるんじゃないの？」",
+      "highlight": "none"
+    },
+    {
+      "no": 5,
+      "poster": "D",
+      "body": ">>4\n草\nお前が覚えろ",
+      "highlight": "none"
+    },
+    {
+      "no": 6,
+      "poster": "A",
+      "body": "導入コストより運用コストがデカいの、いつの時代も変わらんな",
+      "highlight": "none"
+    },
+    {
+      "no": 7,
+      "poster": "E",
+      "body": "ワイSIer、この記事で飯食ってる側やが正直ありがたい記事",
+      "highlight": "none"
+    },
+    {
+      "no": 8,
+      "poster": "F",
+      "body": "結局SIerが儲かるだけ定期",
+      "highlight": "none"
+    },
+    {
+      "no": 9,
+      "poster": "E",
+      "body": ">>8\n儲かってないんだよなあ\n見積もり出すと「え、ロボット代以外にそんなかかるの？」って必ず言われる",
+      "highlight": "blue"
+    },
+    {
+      "no": 10,
+      "poster": "C",
+      "body": ">>9\nこれが一番あるある\nロボット本体なんて全体の3割もないのに",
+      "highlight": "none"
+    },
+    {
+      "no": 12,
+      "poster": "G",
+      "body": "ソース出せ",
+      "highlight": "none"
+    },
+    {
+      "no": 13,
+      "poster": "OP",
+      "body": ">>12\n>>1に書いてあるやろ…ITmedia AI＋やで",
+      "highlight": "none"
+    },
+    {
+      "no": 14,
+      "poster": "H",
+      "body": "フィジカルAIって言葉、去年くらいから急に見るようになったよな",
+      "highlight": "none"
+    },
+    {
+      "no": 15,
+      "poster": "B",
+      "body": ">>14\nバズワード化しとるけど中身は昔からあるFA+αやろ\nそこに生成AI的な認識・判断が乗っただけ",
+      "highlight": "none"
+    },
+    {
+      "no": 16,
+      "poster": "I",
+      "body": ">>15\nその「＋α」がクソデカいんやけどな\nティーチング不要で済む範囲が広がるのはガチで革命",
+      "highlight": "none"
+    },
+    {
+      "no": 17,
+      "poster": "B",
+      "body": ">>16\nそこは認める\nただ現場の照明とか床の反射とか、そういうしょーもない要因で精度落ちるのは変わらん",
+      "highlight": "none"
+    },
+    {
+      "no": 18,
+      "poster": "J",
+      "body": "ワイ倉庫バイト、終わりか？",
+      "highlight": "none"
+    },
+    {
+      "no": 19,
+      "poster": "C",
+      "body": ">>18\nむしろ「ロボットのお世話係」に昇進やで",
+      "highlight": "none"
+    },
+    {
+      "no": 20,
+      "poster": "J",
+      "body": ">>19\n給料は？",
+      "highlight": "none"
+    },
+    {
+      "no": 21,
+      "poster": "C",
+      "body": ">>20\n据え置き",
+      "highlight": "red"
+    },
+    {
+      "no": 22,
+      "poster": "J",
+      "body": "許さんぞ",
+      "highlight": "none"
+    },
+    {
+      "no": 24,
+      "poster": "K",
+      "body": "実際、ロボット入れた現場で増える仕事\n・エラー復旧\n・清掃\n・治具の微調整\n・ログ確認\n・「また止まってます」の電話\n\n減る仕事\n・単純搬送\n\nこれが現実",
+      "highlight": "big"
+    },
+    {
+      "no": 25,
+      "poster": "A",
+      "body": ">>24\nリアルすぎて涙出てきた",
+      "highlight": "none"
+    },
+    {
+      "no": 26,
+      "poster": "E",
+      "body": ">>24\n最後の項目が全部持っていってる",
+      "highlight": "none"
+    },
+    {
+      "no": 27,
+      "poster": "L",
+      "body": "でもそれって導入初期の話やろ？\n何年か回せば安定するやん",
+      "highlight": "none"
+    },
+    {
+      "no": 28,
+      "poster": "K",
+      "body": ">>27\n安定した頃に製品仕様が変わる",
+      "highlight": "red"
+    },
+    {
+      "no": 29,
+      "poster": "L",
+      "body": ">>28\nうわ",
+      "highlight": "none"
+    },
+    {
+      "no": 30,
+      "poster": "M",
+      "body": "日本の製造業、多品種少量すぎてロボット向いてない説あるよな",
+      "highlight": "none"
+    },
+    {
+      "no": 31,
+      "poster": "I",
+      "body": ">>30\nだからこそのフィジカルAIやろ\n従来は「同じ動作の繰り返し」しか無理やったのが、ある程度は汎化できるようになるのが売り",
+      "highlight": "none"
+    },
+    {
+      "no": 32,
+      "poster": "M",
+      "body": ">>31\nなるほどな\nじゃあ本命は町工場か",
+      "highlight": "none"
+    },
+    {
+      "no": 33,
+      "poster": "B",
+      "body": ">>32\n町工場に導入・保守の予算があるかが問題や\nそこを誰が担うのかって話が>>1の記事の本質ちゃうか",
+      "highlight": "blue"
+    },
+    {
+      "no": 35,
+      "poster": "N",
+      "body": "　　∧＿∧\n　（　´・ω・）　「ロボットが働くから人間は休めるね」\n　（つ　　つ\n　　｜　｜　｜\n　　（_）_）\n\n　　∧＿∧\n　（　#｀Д´）　「ロボットが止まったから人間が働くね」\n　（つ　　つ",
+      "highlight": "none"
+    },
+    {
+      "no": 36,
+      "poster": "A",
+      "body": ">>35\n草",
+      "highlight": "none"
+    },
+    {
+      "no": 37,
+      "poster": "J",
+      "body": ">>35\nワイの未来",
+      "highlight": "none"
+    },
+    {
+      "no": 40,
+      "poster": "O",
+      "body": "システム統合が一番の鬼門やろ\n既存のMESとか生産管理システムとつなぐの、マジで地獄",
+      "highlight": "none"
+    },
+    {
+      "no": 41,
+      "poster": "E",
+      "body": ">>40\n20年前のシステムが現役で動いてて仕様書が行方不明なやつ",
+      "highlight": "none"
+    },
+    {
+      "no": 42,
+      "poster": "O",
+      "body": ">>41\nやめろ\nフラッシュバックする",
+      "highlight": "none"
+    },
+    {
+      "no": 43,
+      "poster": "P",
+      "body": "ワイ文系、話が全く見えん\nフィジカルAIってドラえもんのこと？",
+      "highlight": "none"
+    },
+    {
+      "no": 44,
+      "poster": "C",
+      "body": ">>43\n方向性は合ってるけど今は「箱をつかんで置く」で大喜びしてる段階や",
+      "highlight": "none"
+    },
+    {
+      "no": 45,
+      "poster": "P",
+      "body": ">>44\n遠いな",
+      "highlight": "none"
+    },
+    {
+      "no": 46,
+      "poster": "I",
+      "body": ">>45\nでも「箱をつかんで置く」が汎用的にできるようになったのはガチで大進歩やからな\n10年前は箱の形ごとにプログラム書いてた",
+      "highlight": "none"
+    },
+    {
+      "no": 50,
+      "poster": "Q",
+      "body": "結局この分野って誰が勝つん？\nロボットメーカー？AI企業？SIer？",
+      "highlight": "none"
+    },
+    {
+      "no": 51,
+      "poster": "B",
+      "body": ">>50\n記事の趣旨的には「全部必要」やろ\n一社で完結せんからエコシステムの話になる",
+      "highlight": "none"
+    },
+    {
+      "no": 52,
+      "poster": "E",
+      "body": ">>50\n個人的には保守で食ってる会社が一番強いと思う\n導入は一回、保守は永久",
+      "highlight": "blue"
+    },
+    {
+      "no": 53,
+      "poster": "Q",
+      "body": ">>52\nプリンターのインクビジネスやん",
+      "highlight": "none"
+    },
+    {
+      "no": 54,
+      "poster": "E",
+      "body": ">>53\n言い方",
+      "highlight": "none"
+    },
+    {
+      "no": 58,
+      "poster": "R",
+      "body": "懐疑派やが、正直この手の「導入すれば変わる」みたいな幻想は10年前のIoTブームで一周したよな\n結局現場に落とすとこまでやる人間がおらんかっただけ",
+      "highlight": "none"
+    },
+    {
+      "no": 59,
+      "poster": "K",
+      "body": ">>58\nそれな\n技術より組織の問題",
+      "highlight": "none"
+    },
+    {
+      "no": 60,
+      "poster": "H",
+      "body": ">>58\nDXブームも同じ末路やったしな",
+      "highlight": "none"
+    },
+    {
+      "no": 63,
+      "poster": "S",
+      "body": "うちの工場、ロボット導入する前に床が傾いてることが発覚して工事から始まった",
+      "highlight": "red"
+    },
+    {
+      "no": 64,
+      "poster": "A",
+      "body": ">>63\nさすがに草",
+      "highlight": "none"
+    },
+    {
+      "no": 65,
+      "poster": "O",
+      "body": ">>63\nあるあるすぎる\n「導入前診断」って実質そういう仕事",
+      "highlight": "none"
+    },
+    {
+      "no": 66,
+      "poster": "S",
+      "body": ">>65\n結果的に床が綺麗になって作業員の腰痛が減った\n意外とこれが一番の効果やった",
+      "highlight": "blue"
+    },
+    {
+      "no": 67,
+      "poster": "C",
+      "body": ">>66\nAI関係なくて草",
+      "highlight": "none"
+    },
+    {
+      "no": 70,
+      "poster": "J",
+      "body": "ワイの職場にもロボット来るらしいけど、上司が「お前が教えろ」って言ってきた",
+      "highlight": "none"
+    },
+    {
+      "no": 71,
+      "poster": "I",
+      "body": ">>70\nそれ実は正解なんよな\n現場の暗黙知を持ってる人が一番いいデータ作れる",
+      "highlight": "none"
+    },
+    {
+      "no": 72,
+      "poster": "J",
+      "body": ">>71\nつまりワイの仕事を奪うのはワイってことか",
+      "highlight": "red"
+    },
+    {
+      "no": 73,
+      "poster": "A",
+      "body": ">>72\n悲しいなあ",
+      "highlight": "none"
+    },
+    {
+      "no": 74,
+      "poster": "I",
+      "body": ">>72\nちゃうちゃう\nそのノウハウを言語化できる人間が現場で一番高く売れる時代になるんや\n単純作業やってる限り替えは効くけど、ロボットに教えられる人間は替えが効かん",
+      "highlight": "big"
+    },
+    {
+      "no": 75,
+      "poster": "J",
+      "body": ">>74\nちょっと元気出た",
+      "highlight": "none"
+    },
+    {
+      "no": 80,
+      "poster": "T",
+      "body": "まとめると\n・ロボットは部品でしかない\n・統合と保守と現場改善がセット\n・それができる会社が儲かる\n・現場の人間は「教える側」に回れば強い\n・あと床は水平にしとけ",
+      "highlight": "big"
+    },
+    {
+      "no": 81,
+      "poster": "A",
+      "body": ">>80\n最後だけ妙に重い",
+      "highlight": "none"
+    },
+    {
+      "no": 82,
+      "poster": "S",
+      "body": ">>80\n床は大事やぞ",
+      "highlight": "none"
+    },
+    {
+      "no": 85,
+      "poster": "C",
+      "body": ">>80\nきれいにまとまってて草\nまあ結局「魔法の箱はない」ってことやな",
+      "highlight": "none"
+    },
+    {
+      "no": 88,
+      "poster": "P",
+      "body": "文系ワイ、ようやく理解した\nロボット買うのは家を買うのと一緒で、買った後に家具と電気と水道とメンテが要るってことやな",
+      "highlight": "none"
+    },
+    {
+      "no": 89,
+      "poster": "B",
+      "body": ">>88\nめちゃくちゃ分かりやすい例えで草\nしかも水道管が20年前の仕様書なしや",
+      "highlight": "none"
+    },
+    {
+      "no": 90,
+      "poster": "P",
+      "body": ">>89\n地獄やんけ",
+      "highlight": "none"
+    },
+    {
+      "no": 95,
+      "poster": "OP",
+      "body": "ええスレになったわ\n結論：ロボットは入れてからが本番、そして床は水平に",
+      "highlight": "none"
+    }
+  ],
+  "admin_comment": "「ロボットを入れれば終わり」ではなく、そこからが本番という話。床の水平から始まった工場の例が妙に説得力ありました。",
+  "meta": {
+    "model": "claude-opus-5",
+    "usage": {
+      "input_tokens": 2568,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 0,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "iterations": [
+        {
+          "input_tokens": 2568,
+          "output_tokens": 4303,
+          "cache_read_input_tokens": 0,
+          "cache_creation_input_tokens": 0,
+          "cache_creation": {
+            "ephemeral_5m_input_tokens": 0,
+            "ephemeral_1h_input_tokens": 0
+          },
+          "type": "message",
+          "model": null
+        }
+      ],
+      "output_tokens": 4303,
+      "output_tokens_details": {
+        "thinking_tokens": 0
+      },
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  }
+}
