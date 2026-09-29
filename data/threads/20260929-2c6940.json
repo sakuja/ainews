@@ -1,0 +1,434 @@
+{
+  "id": "20260929-2c6940",
+  "createdAt": "2026-09-29T01:46:52.708Z",
+  "news": {
+    "title": "「最大応力はどこ？」とAIに質問、解析結果を確認できるCAEソフト新版",
+    "url": "https://monoist.itmedia.co.jp/mn/articles/2609/29/news022.html",
+    "summary": "アライドエンジニアリングは、構造解析ソフト「ADVENTURECluster2026」を2026年10月1日にリリースする。自然言語による指示で解析条件の設定から実行、結果確認までを自動化する「AI Expert」を搭載。位相最適化の計算時間短縮や、固有振動数を考慮した最適化への対応、大規模モデルへの適用範囲の拡大、接触解析の高精度化も図った。",
+    "source": "ITmedia AI＋",
+    "publishedAt": "2026-09-28T23:30:00.000Z"
+  },
+  "thread_title": "【CAE】「最大応力はどこ？」とAIに聞くと答えてくれる構造解析ソフト、10/1発売",
+  "matome_title": "【朗報】AIに「最大応力どこ？」と聞くだけで答えてくれるCAEソフトが登場→現場のCAE民「メッシュ切りから逃れられるのか…？」",
+  "category": "速報",
+  "tags": [
+    "CAE",
+    "構造解析",
+    "AI Expert",
+    "位相最適化"
+  ],
+  "intro": "ついにCAEにも自然言語の波が。解析条件の設定から結果確認までAIにお任せできる時代が来たようです。現場のエンジニアたちの反応がこちら。",
+  "posts": [
+    {
+      "no": 1,
+      "poster": "OP",
+      "body": "アライドエンジニアリング、構造解析ソフト「ADVENTURECluster2026」を2026年10月1日リリース\n\n・自然言語の指示で解析条件の設定→実行→結果確認まで自動化する「AI Expert」搭載\n・位相最適化の計算時間短縮\n・固有振動数を考慮した最適化に対応\n・大規模モデルへの適用範囲拡大\n・接触解析の高精度化\n\nソース: ITmedia AI＋\n\n「最大応力はどこ？」って聞けるらしい\nワイの仕事……",
+      "highlight": "none"
+    },
+    {
+      "no": 2,
+      "poster": "A",
+      "body": "はえ〜",
+      "highlight": "none"
+    },
+    {
+      "no": 3,
+      "poster": "B",
+      "body": "CAEにも来たか",
+      "highlight": "none"
+    },
+    {
+      "no": 4,
+      "poster": "C",
+      "body": ">>1\nADVENTUREって東大発のやつの系譜か？",
+      "highlight": "none"
+    },
+    {
+      "no": 5,
+      "poster": "D",
+      "body": "最大応力はどこ？\n→「特異点です」\n\nこれで終わりやろ",
+      "highlight": "red"
+    },
+    {
+      "no": 6,
+      "poster": "A",
+      "body": ">>5\n草\nガチでこれなんよ",
+      "highlight": "none"
+    },
+    {
+      "no": 7,
+      "poster": "E",
+      "body": ">>5\n鋭角のコーナーで応力∞になるやつ\nメッシュ細かくするとどこまでも上がるやつ",
+      "highlight": "none"
+    },
+    {
+      "no": 8,
+      "poster": "F",
+      "body": "AI「最大応力は拘束点です」\nワイ「知ってる」",
+      "highlight": "none"
+    },
+    {
+      "no": 9,
+      "poster": "B",
+      "body": ">>8\n毎回それで草生える",
+      "highlight": "none"
+    },
+    {
+      "no": 10,
+      "poster": "G",
+      "body": "結果確認より前工程をなんとかしてくれ\nメッシュ切りが人生の8割",
+      "highlight": "blue"
+    },
+    {
+      "no": 11,
+      "poster": "C",
+      "body": ">>10\nこれ\n解析回すのは一瞬なんよ\nCADのデフィーチャリングで一週間溶ける",
+      "highlight": "none"
+    },
+    {
+      "no": 12,
+      "poster": "H",
+      "body": "ワイ文系、何一つ分からんがとりあえず草",
+      "highlight": "none"
+    },
+    {
+      "no": 13,
+      "poster": "I",
+      "body": ">>12\n荷物に力かけたときどこが壊れるかをパソコンで計算するソフトや\nそれをAIに聞けるようになった",
+      "highlight": "none"
+    },
+    {
+      "no": 14,
+      "poster": "H",
+      "body": ">>13\nわかりやすい\nサンガツ",
+      "highlight": "none"
+    },
+    {
+      "no": 15,
+      "poster": "J",
+      "body": "位相最適化の計算時間短縮のほうが本命やろ\nAI Expertはオマケ感ある",
+      "highlight": "none"
+    },
+    {
+      "no": 16,
+      "poster": "K",
+      "body": ">>15\nそれな\n固有振動数考慮の最適化に対応ってのが地味にデカい\n軽量化しても共振したら意味ないし",
+      "highlight": "blue"
+    },
+    {
+      "no": 17,
+      "poster": "D",
+      "body": "接触解析の高精度化\n↑これ毎年言ってない？",
+      "highlight": "none"
+    },
+    {
+      "no": 18,
+      "poster": "L",
+      "body": ">>17\nCAEベンダーの様式美や\n毎年「接触が良くなりました」「並列性能が上がりました」で回ってる",
+      "highlight": "none"
+    },
+    {
+      "no": 19,
+      "poster": "A",
+      "body": "収束しないときにAIが「諦めましょう」って言ってくれるならほしい",
+      "highlight": "none"
+    },
+    {
+      "no": 20,
+      "poster": "M",
+      "body": ">>19\n上司「なんで収束しないの？」\nAI「わかりません」\nワイ「わかりません」\n\n仲間や",
+      "highlight": "red"
+    },
+    {
+      "no": 22,
+      "poster": "N",
+      "body": "自然言語で条件設定って怖くない？\n「鋼材でお願い」→どのSS材やねん問題",
+      "highlight": "none"
+    },
+    {
+      "no": 23,
+      "poster": "C",
+      "body": ">>22\nそこは確認プロセス入るやろ多分\n記事にそこまで書いてないけど",
+      "highlight": "none"
+    },
+    {
+      "no": 24,
+      "poster": "O",
+      "body": "ワイ解析専任、震えてる",
+      "highlight": "none"
+    },
+    {
+      "no": 25,
+      "poster": "J",
+      "body": ">>24\n震えなくてええ\nAIが出した結果を「これ妥当？」って判断する人が必要になるだけや\nむしろ責任だけ増える",
+      "highlight": "big"
+    },
+    {
+      "no": 26,
+      "poster": "O",
+      "body": ">>25\n余計に震えてきた",
+      "highlight": "none"
+    },
+    {
+      "no": 27,
+      "poster": "P",
+      "body": "設計者CAEが本当に実現するかもしれん\n20年言われ続けてるけど",
+      "highlight": "none"
+    },
+    {
+      "no": 28,
+      "poster": "B",
+      "body": ">>27\n設計者CAE、だいたい「設計者が誤った結果を信じる」で終わるやつ",
+      "highlight": "none"
+    },
+    {
+      "no": 29,
+      "poster": "E",
+      "body": "ぶっちゃけ結果の読み方が一番スキル要るからな\n応力コンターが赤い＝壊れる、じゃないんやで",
+      "highlight": "blue"
+    },
+    {
+      "no": 30,
+      "poster": "H",
+      "body": ">>29\n赤いと壊れそうに見えるやん……",
+      "highlight": "none"
+    },
+    {
+      "no": 31,
+      "poster": "E",
+      "body": ">>30\nそれはカラーマップの上限を手で変えたらいつでも赤くできるんや\n上司を騙す技として悪用される",
+      "highlight": "red"
+    },
+    {
+      "no": 32,
+      "poster": "A",
+      "body": ">>31\n闇が深すぎる",
+      "highlight": "none"
+    },
+    {
+      "no": 34,
+      "poster": "Q",
+      "body": "大規模モデルへの適用範囲拡大って何億自由度くらいなんやろ\n記事に数字ないの惜しい",
+      "highlight": "none"
+    },
+    {
+      "no": 35,
+      "poster": "K",
+      "body": ">>34\nそこはリリース後の資料待ちやな\nADVENTURE系は元々大規模並列が売りやから期待はできる",
+      "highlight": "none"
+    },
+    {
+      "no": 37,
+      "poster": "R",
+      "body": "AI「この形状、リブ入れたほうがいいですよ」\nワイ「うるさい」\n上司「AIがこう言ってるが？」\nワイ「」",
+      "highlight": "none"
+    },
+    {
+      "no": 38,
+      "poster": "M",
+      "body": ">>37\nこれが一番現実的な地獄",
+      "highlight": "none"
+    },
+    {
+      "no": 39,
+      "poster": "S",
+      "body": "位相最適化って出てくる形がだいたい骨みたいになるやつやろ\nあれ그のまま作れんのよな",
+      "highlight": "none"
+    },
+    {
+      "no": 40,
+      "poster": "S",
+      "body": "すまん誤字\n「あれそのまま作れん」",
+      "highlight": "none"
+    },
+    {
+      "no": 41,
+      "poster": "J",
+      "body": ">>39\n3Dプリンタ前提ならいける\n切削前提だと解釈の職人芸が必要",
+      "highlight": "none"
+    },
+    {
+      "no": 43,
+      "poster": "T",
+      "body": "　∧＿∧\n（ ´・ω・）　「最大応力はどこ？」\n（つ　と）\n\n　∧＿∧\n（ ＾ω＾）　「あなたの心の中です」\n\n　∧＿∧\n（ ；ω；）",
+      "highlight": "red"
+    },
+    {
+      "no": 44,
+      "poster": "A",
+      "body": ">>43\n急に哲学するな",
+      "highlight": "none"
+    },
+    {
+      "no": 46,
+      "poster": "U",
+      "body": "ちな価格は？",
+      "highlight": "none"
+    },
+    {
+      "no": 47,
+      "poster": "C",
+      "body": ">>46\n記事に書いてない\nこの手のは問い合わせ案件やろ",
+      "highlight": "none"
+    },
+    {
+      "no": 48,
+      "poster": "U",
+      "body": ">>47\nつまり高い",
+      "highlight": "none"
+    },
+    {
+      "no": 49,
+      "poster": "L",
+      "body": ">>48\n「価格はお問い合わせください」＝個人で買える額ではない\n古事記にもそう書いてある",
+      "highlight": "none"
+    },
+    {
+      "no": 52,
+      "poster": "V",
+      "body": "真面目な話、こういうUIレイヤーのAI化は普通にありがたい\nGUIのメニュー階層覚えるのに数ヶ月かかるソフトとか普通にあるし",
+      "highlight": "blue"
+    },
+    {
+      "no": 53,
+      "poster": "G",
+      "body": ">>52\nこれはガチ\n「あの設定どこだっけ」で消える時間、年間で相当ある",
+      "highlight": "none"
+    },
+    {
+      "no": 54,
+      "poster": "N",
+      "body": ">>52\nマニュアル読まずに済むのが最大のメリットまである",
+      "highlight": "none"
+    },
+    {
+      "no": 56,
+      "poster": "W",
+      "body": "逆に新人が育たなくなる問題も出てくるやろな\n条件設定を自分でやらないと勘所つかめん",
+      "highlight": "none"
+    },
+    {
+      "no": 57,
+      "poster": "J",
+      "body": ">>56\n電卓と同じ議論やな\n最終的には「検算できる人」が強い",
+      "highlight": "none"
+    },
+    {
+      "no": 59,
+      "poster": "O",
+      "body": "ワイ、AI Expertに勝てる部分を必死で探す\n\n・雑談ができる\n・以上",
+      "highlight": "none"
+    },
+    {
+      "no": 60,
+      "poster": "B",
+      "body": ">>59\n悲しい",
+      "highlight": "none"
+    },
+    {
+      "no": 63,
+      "poster": "X",
+      "body": "ちなうちの会社まだVerが2019で止まってる",
+      "highlight": "none"
+    },
+    {
+      "no": 64,
+      "poster": "A",
+      "body": ">>63\nそっちのほうが深刻な問題で草",
+      "highlight": "red"
+    },
+    {
+      "no": 65,
+      "poster": "X",
+      "body": ">>64\n更新予算が下りない\nAIより先に稟議を自動化してくれ",
+      "highlight": "big"
+    },
+    {
+      "no": 68,
+      "poster": "K",
+      "body": "まとめると\n・自然言語で解析条件〜結果確認まで自動化する「AI Expert」搭載\n・位相最適化が速くなった＋固有振動数も考慮できる\n・大規模モデル対応強化、接触解析も高精度化\n・10/1リリース\n\n技術者が消えるというより、判断する側にシフトする話\n実際どこまで使えるかは触ってからやな",
+      "highlight": "blue"
+    },
+    {
+      "no": 70,
+      "poster": "D",
+      "body": ">>68\nきれいにまとめるやん",
+      "highlight": "none"
+    },
+    {
+      "no": 72,
+      "poster": "H",
+      "body": "文系ワイ、結局最大応力ってどこにあるん？",
+      "highlight": "none"
+    },
+    {
+      "no": 73,
+      "poster": "E",
+      "body": ">>72\n拘束点",
+      "highlight": "none"
+    },
+    {
+      "no": 74,
+      "poster": "D",
+      "body": ">>72\n特異点",
+      "highlight": "none"
+    },
+    {
+      "no": 75,
+      "poster": "M",
+      "body": ">>72\n納期",
+      "highlight": "big"
+    },
+    {
+      "no": 76,
+      "poster": "H",
+      "body": ">>75\n草",
+      "highlight": "none"
+    },
+    {
+      "no": 77,
+      "poster": "A",
+      "body": ">>75\nうまいこと言うな\nAIには絶対出せん答えや",
+      "highlight": "none"
+    },
+    {
+      "no": 80,
+      "poster": "OP",
+      "body": ">>75\nスレタイ回収されたので終わります\n\nみんな納期に耐えて生きてくれ",
+      "highlight": "red"
+    }
+  ],
+  "admin_comment": "結局のところ「AIが出した結果を妥当だと判断できる人」の価値は当分下がらなさそうですね。ちなみに管理人の最大応力も納期に集中しています。",
+  "meta": {
+    "model": "claude-opus-5",
+    "usage": {
+      "input_tokens": 2616,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 0,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "iterations": [
+        {
+          "input_tokens": 2616,
+          "output_tokens": 4240,
+          "cache_read_input_tokens": 0,
+          "cache_creation_input_tokens": 0,
+          "cache_creation": {
+            "ephemeral_5m_input_tokens": 0,
+            "ephemeral_1h_input_tokens": 0
+          },
+          "type": "message",
+          "model": null
+        }
+      ],
+      "output_tokens": 4240,
+      "output_tokens_details": {
+        "thinking_tokens": 202
+      },
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  }
+}
