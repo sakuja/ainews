@@ -6,6 +6,8 @@ export default {
     // 公開先URL（RSSフィードの絶対リンクに使用）。GitHub Pages なら https://<user>.github.io/<repo>/
     url: "https://sakuja.github.io/ainews/",
     postsPerPage: 20,
+    // Google Search Console の所有権確認タグ（content の値だけ）
+    googleSiteVerification: "2Df6K_EOR-8deG8qNSdc_1eH7TlE6mcqWb_Ig6CDSa4",
   },
 
   // ニュース取得元（RSS 2.0 / Atom）。filter: true のフィードは keywords に一致する記事だけ拾う
