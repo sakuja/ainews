@@ -20,7 +20,7 @@ export default {
   ],
 
   generation: {
-    model: "claude-opus-5",
+    model: "claude-opus-5-5",
     effort: "high", // low | medium | high | xhigh | max
     perRun: 3, // 1回の実行で生成するスレ数
     boardName: "AI・テクノロジー板",

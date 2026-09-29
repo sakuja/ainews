@@ -1,0 +1,368 @@
+{
+  "id": "20260929-a27b3d",
+  "createdAt": "2026-09-29T08:23:27.709Z",
+  "news": {
+    "title": "自分の脳が何B級のAIと同等性能なのか診断できるウェブサイト「HumanBench」が登場、選択問題で人間の力を試してどのAIに性格が似ているかも判定可能",
+    "url": "https://gigazine.net/news/20260929-humanbench-brain-ai/",
+    "summary": "AIは急速に発展しており、ベンチマークスコアが毎日のように更新されています。そんなAIと比べて自分の能力がどれくらいの位置にあるのかを診断できるウェブサイト「HumanBench」が登場しました。登録不要で無料で診断可能だったので実際に試してみました。 続きを読む...",
+    "source": "GIGAZINE",
+    "publishedAt": "2026-09-29T08:02:00.000Z"
+  },
+  "thread_title": "【悲報】ワイの脳、何B級のAIか診断されてしまう「HumanBench」登場",
+  "matome_title": "【悲報】自分の脳が何B級のAIか診断できるサイト「HumanBench」、ワイら人類の尊厳が選択問題で試される",
+  "category": "ネタ",
+  "tags": [
+    "HumanBench",
+    "ベンチマーク",
+    "パラメータ数",
+    "診断サイト"
+  ],
+  "intro": "AIのベンチマークが毎日更新される時代に、ついに人間側が測られる番が来たようです。登録不要・無料で、どのAIに性格が似ているかまで判定してくれるとのこと。",
+  "posts": [
+    {
+      "no": 1,
+      "poster": "OP",
+      "body": "自分の脳が何B級のAIと同等性能なのか診断できるウェブサイト「HumanBench」が登場\n・選択問題で人間の力を試す\n・どのAIに性格が似ているかも判定可能\n・登録不要、無料で診断できる（GIGAZINE）\n\nお前らの脳、何Bや？",
+      "highlight": "none"
+    },
+    {
+      "no": 2,
+      "poster": "A",
+      "body": "ついに人間がベンチマークされる側になったか",
+      "highlight": "none"
+    },
+    {
+      "no": 3,
+      "poster": "B",
+      "body": "ワイの脳、量子化されてそう",
+      "highlight": "red"
+    },
+    {
+      "no": 4,
+      "poster": "C",
+      "body": "4bit量子化ワイ「……」",
+      "highlight": "none"
+    },
+    {
+      "no": 5,
+      "poster": "D",
+      "body": "登録不要なのはありがたいな\n結果を誰にも知られずに済む",
+      "highlight": "none"
+    },
+    {
+      "no": 6,
+      "poster": "E",
+      "body": ">>5\nスレに貼る前提で草",
+      "highlight": "none"
+    },
+    {
+      "no": 8,
+      "poster": "F",
+      "body": "そもそも人間の脳をパラメータ数で換算するのって無理ないか？\nシナプスの数で数えたら桁違いやろ",
+      "highlight": "none"
+    },
+    {
+      "no": 9,
+      "poster": "G",
+      "body": ">>8\nそれはそう。あくまで選択問題の正答率を既存モデルのスコアと並べてるだけちゃうか\n知らんけど、診断サイトやしお遊びやろ",
+      "highlight": "none"
+    },
+    {
+      "no": 10,
+      "poster": "B",
+      "body": ">>9\nシナプス数で勝っても推論性能で負けてたら意味ないんやで",
+      "highlight": "none"
+    },
+    {
+      "no": 11,
+      "poster": "H",
+      "body": "やってきた\nワイ、1B級やった\n\n\n\n寝る",
+      "highlight": "big"
+    },
+    {
+      "no": 12,
+      "poster": "A",
+      "body": ">>11\nスマホで動くサイズで草",
+      "highlight": "red"
+    },
+    {
+      "no": 13,
+      "poster": "I",
+      "body": ">>11\nエッジデバイス向けとか省電力でええやん\n人間は電力効率だけは最強やぞ",
+      "highlight": "none"
+    },
+    {
+      "no": 14,
+      "poster": "H",
+      "body": ">>13\n優しさが沁みる、ありがとう",
+      "highlight": "none"
+    },
+    {
+      "no": 16,
+      "poster": "J",
+      "body": "ワイ事務職、脳の性能まで数値化されて上司に見せられたら終わる\nAIに仕事奪われる前にHumanBenchに尊厳奪われるンゴ",
+      "highlight": "none"
+    },
+    {
+      "no": 17,
+      "poster": "K",
+      "body": ">>16\n履歴書に「HumanBench 70B相当」とか書く時代来そう",
+      "highlight": "none"
+    },
+    {
+      "no": 18,
+      "poster": "C",
+      "body": ">>17\n面接官「うちは405B以上しか採用してないんで」",
+      "highlight": "red"
+    },
+    {
+      "no": 19,
+      "poster": "J",
+      "body": ">>18\nやめろ現実味がある",
+      "highlight": "none"
+    },
+    {
+      "no": 21,
+      "poster": "L",
+      "body": "性格診断のほうが気になるわ\nどのAIに似てるか判定されるらしいけど、ワイ絶対ハルシネーション多いタイプやろ",
+      "highlight": "none"
+    },
+    {
+      "no": 22,
+      "poster": "M",
+      "body": ">>21\n知らんことを自信満々に答えるのは人間の十八番やしな",
+      "highlight": "none"
+    },
+    {
+      "no": 23,
+      "poster": "D",
+      "body": ">>22\nAIが人間に似たのか人間がAIに似たのか",
+      "highlight": "none"
+    },
+    {
+      "no": 25,
+      "poster": "N",
+      "body": "ワイ性格診断「慎重で断りがちなタイプ」みたいな感じやった\n確かに飲み会全部断ってるわ",
+      "highlight": "none"
+    },
+    {
+      "no": 26,
+      "poster": "E",
+      "body": ">>25\n安全性フィルター強すぎて草",
+      "highlight": "red"
+    },
+    {
+      "no": 27,
+      "poster": "N",
+      "body": ">>26\n「申し訳ありませんが、そのお誘いにはお応えできません」",
+      "highlight": "big"
+    },
+    {
+      "no": 29,
+      "poster": "O",
+      "body": "これってAI側の点数どこから持ってきてるんや？ソース出せ",
+      "highlight": "none"
+    },
+    {
+      "no": 30,
+      "poster": "G",
+      "body": ">>29\n記事は概要しか見てないから詳細は知らん\n気になるなら続き読んでこい",
+      "highlight": "none"
+    },
+    {
+      "no": 31,
+      "poster": "O",
+      "body": ">>30\n正論パンチやめろ",
+      "highlight": "none"
+    },
+    {
+      "no": 34,
+      "poster": "P",
+      "body": "うちの猫にやらせたら何Bになるんやろ",
+      "highlight": "none"
+    },
+    {
+      "no": 35,
+      "poster": "Q",
+      "body": ">>34\nキーボードの上に乗った瞬間にベンチマーク壊れるわ",
+      "highlight": "none"
+    },
+    {
+      "no": 36,
+      "poster": "P",
+      "body": ">>35\n選択問題全部「F」で埋まるの草",
+      "highlight": "none"
+    },
+    {
+      "no": 39,
+      "poster": "R",
+      "body": "ワイ、学生時代マークシートだけは強かったから期待してええか？",
+      "highlight": "none"
+    },
+    {
+      "no": 40,
+      "poster": "B",
+      "body": ">>39\n鉛筆転がし戦法はtemperature高めのサンプリングやからな",
+      "highlight": "red"
+    },
+    {
+      "no": 44,
+      "poster": "S",
+      "body": "真面目な話、AIのベンチが毎日更新されてる中で人間基準を可視化するのはおもろい試みやと思う\n「このスコアって人間だとどのくらいなん？」って感覚掴みにくいし",
+      "highlight": "blue"
+    },
+    {
+      "no": 45,
+      "poster": "F",
+      "body": ">>44\nそれはわかる\n数字だけ並んでも凄さがピンとこんのよな",
+      "highlight": "none"
+    },
+    {
+      "no": 47,
+      "poster": "T",
+      "body": "ワイ、何回もやり直して点数上げたわ",
+      "highlight": "none"
+    },
+    {
+      "no": 48,
+      "poster": "K",
+      "body": ">>47\nベンチマーク汚染で草\nテストデータ覚えてるだけやんけ",
+      "highlight": "big"
+    },
+    {
+      "no": 49,
+      "poster": "T",
+      "body": ">>48\nAI企業もやってるって噂やし、ワイもやってええやろ",
+      "highlight": "none"
+    },
+    {
+      "no": 50,
+      "poster": "S",
+      "body": ">>49\n噂を事実みたいに言うな",
+      "highlight": "none"
+    },
+    {
+      "no": 55,
+      "poster": "U",
+      "body": "  ∧＿∧\n （´・ω・）  ワイの脳…\n （つ　 つ   0.5B…\n  しーJ",
+      "highlight": "none"
+    },
+    {
+      "no": 56,
+      "poster": "H",
+      "body": ">>55\n仲間がおった",
+      "highlight": "none"
+    },
+    {
+      "no": 61,
+      "poster": "V",
+      "body": "診断受けた後のワイ「まあ本気出してなかったし」\nこれがいわゆる推論モードオフってやつか",
+      "highlight": "none"
+    },
+    {
+      "no": 62,
+      "poster": "L",
+      "body": ">>61\nthinking有効にしても結果変わらんやつ",
+      "highlight": "none"
+    },
+    {
+      "no": 70,
+      "poster": "W",
+      "body": "AIは学習すれば次のバージョンで賢くなるけど\nワイは来年もたぶん同じスコアやで",
+      "highlight": "none"
+    },
+    {
+      "no": 71,
+      "poster": "I",
+      "body": ">>70\n人間も勉強すりゃファインチューニングできるやろ",
+      "highlight": "none"
+    },
+    {
+      "no": 72,
+      "poster": "W",
+      "body": ">>71\n学習率が低すぎて収束せんのや",
+      "highlight": "red"
+    },
+    {
+      "no": 80,
+      "poster": "X",
+      "body": "お前ら数字気にしすぎやろ\nワイは結果見てへん",
+      "highlight": "none"
+    },
+    {
+      "no": 81,
+      "poster": "A",
+      "body": ">>80\nそれ一番低かったやつの反応やん",
+      "highlight": "none"
+    },
+    {
+      "no": 88,
+      "poster": "M",
+      "body": "冷静に考えると、人間が選択問題でAIと比較されて凹むより\n問題を作ってAIを評価してきた側が人間だったってのが本質よな",
+      "highlight": "blue"
+    },
+    {
+      "no": 89,
+      "poster": "D",
+      "body": ">>88\nええこと言うやん、何Bや？",
+      "highlight": "none"
+    },
+    {
+      "no": 90,
+      "poster": "M",
+      "body": ">>89\n言わん",
+      "highlight": "none"
+    },
+    {
+      "no": 97,
+      "poster": "Y",
+      "body": "とりあえずワイもやってみたわ\n結果：「このモデルは現在ご利用いただけません」",
+      "highlight": "none"
+    },
+    {
+      "no": 98,
+      "poster": "H",
+      "body": ">>97\n非推奨モデル扱いで草",
+      "highlight": "red"
+    },
+    {
+      "no": 100,
+      "poster": "J",
+      "body": "結論：パラメータ数じゃなくて、明日も会社行くワイらのしぶとさは計測不能\n\n……まあ明日有給取るけどな",
+      "highlight": "big"
+    }
+  ],
+  "admin_comment": "管理人もやってみようか迷いましたが、結果次第で記事の信頼性が揺らぎそうなのでやめておきました。皆さんの脳が何B級だったか、ぜひコメント欄で教えてください。",
+  "meta": {
+    "model": "claude-opus-5-5",
+    "usage": {
+      "input_tokens": 2613,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 0,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "iterations": [
+        {
+          "input_tokens": 2613,
+          "output_tokens": 3556,
+          "cache_read_input_tokens": 0,
+          "cache_creation_input_tokens": 0,
+          "cache_creation": {
+            "ephemeral_5m_input_tokens": 0,
+            "ephemeral_1h_input_tokens": 0
+          },
+          "type": "message",
+          "model": null
+        }
+      ],
+      "output_tokens": 3556,
+      "output_tokens_details": {
+        "thinking_tokens": 317
+      },
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  }
+}
