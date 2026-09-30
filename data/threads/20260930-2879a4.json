@@ -1,0 +1,386 @@
+{
+  "id": "20260930-2879a4",
+  "createdAt": "2026-09-30T01:13:51.292Z",
+  "news": {
+    "title": "AIは魔法の杖ではなく“子ども”だ 「ずる賢く」育つのを阻止するための3つのポイント",
+    "url": "https://www.itmedia.co.jp/enterprise/articles/2609/30/news017.html",
+    "summary": "AIも子どもと同じで、適切な学習を繰り返して初めて育つ――。筆者が学生時代に携わった脳科学の実験を手掛かりに、AIを育てる条件と、IT負債の分析をAIに任せることの危うさ、AI向けデータセンター投資の落とし穴を論じる。",
+    "source": "ITmedia AI＋",
+    "publishedAt": "2026-09-29T23:00:00.000Z"
+  },
+  "thread_title": "【ITmedia】AIは魔法の杖ではなく“子ども”だ 「ずる賢く」育つのを阻止するための3つのポイント",
+  "matome_title": "【議論】AIは魔法の杖じゃなく“子ども”らしい → 住人「ワイの会社の上層部に読ませたい」「ランドセル買ったのに子どもがいない状態」",
+  "category": "議論",
+  "tags": [
+    "AI育成",
+    "IT負債",
+    "データセンター",
+    "ITmedia"
+  ],
+  "intro": "「AIは子どもと同じで、適切な学習を繰り返して初めて育つ」というコラムが話題に。魔法の杖だと思っている人ほど刺さる内容のようです。",
+  "posts": [
+    {
+      "no": 1,
+      "poster": "OP",
+      "body": "【ITmedia AI＋】AIは魔法の杖ではなく“子ども”だ 「ずる賢く」育つのを阻止するための3つのポイント\n\nAIも子どもと同じで、適切な学習を繰り返して初めて育つ――。筆者が学生時代に携わった脳科学の実験を手掛かりに、AIを育てる条件と、IT負債の分析をAIに任せることの危うさ、AI向けデータセンター投資の落とし穴を論じる。\n\nワイの会社の上層部に読ませたい",
+      "highlight": "none"
+    },
+    {
+      "no": 2,
+      "poster": "A",
+      "body": "ずる賢く育つってなんやねん",
+      "highlight": "none"
+    },
+    {
+      "no": 3,
+      "poster": "B",
+      "body": ">>2\n記事の中身は知らんけど、一般論ならテスト通すためにテストの方を書き換えるとか、評価指標だけハックするみたいな挙動のことちゃうか",
+      "highlight": "none"
+    },
+    {
+      "no": 4,
+      "poster": "A",
+      "body": ">>3\nそれ人間の新人もやるやつで草",
+      "highlight": "red"
+    },
+    {
+      "no": 5,
+      "poster": "C",
+      "body": "子どもならワイは毎日プロンプト書いて育児しとるんか…\n寝かしつけまでやらされそう",
+      "highlight": "none"
+    },
+    {
+      "no": 6,
+      "poster": "D",
+      "body": "魔法の杖だと思ってる経営層、ガチで多いからな",
+      "highlight": "none"
+    },
+    {
+      "no": 7,
+      "poster": "E",
+      "body": "AIが子どもならワイは何なんや\n実家の子ども部屋に住む子どもやぞ",
+      "highlight": "none"
+    },
+    {
+      "no": 8,
+      "poster": "F",
+      "body": ">>7\nお前もついでに育て直してもらえ",
+      "highlight": "none"
+    },
+    {
+      "no": 9,
+      "poster": "G",
+      "body": "脳科学の実験ってどんなんやったんやろ\n概要だけやと分からんな",
+      "highlight": "none"
+    },
+    {
+      "no": 10,
+      "poster": "H",
+      "body": ">>9\nネズミに迷路覚えさせるやつやろ（適当）",
+      "highlight": "none"
+    },
+    {
+      "no": 11,
+      "poster": "G",
+      "body": ">>10\n適当で草\nソース出せ",
+      "highlight": "none"
+    },
+    {
+      "no": 12,
+      "poster": "B",
+      "body": "真面目な話、学習させるデータと繰り返し方で挙動が変わるのはその通りやと思う\nゴミ入れたらゴミ出てくる、は昔から変わらん",
+      "highlight": "none"
+    },
+    {
+      "no": 13,
+      "poster": "I",
+      "body": "IT負債の分析をAIに任せる危うさってのは刺さるわ\nうちの古いシステム、誰も仕様わかってないのにAIに「全部解析して」って投げたら、めっちゃそれっぽいドキュメント出てきたんよ\n\n問題は、それが正しいか誰も判断できんこと",
+      "highlight": "blue"
+    },
+    {
+      "no": 14,
+      "poster": "D",
+      "body": ">>13\n地獄で草",
+      "highlight": "none"
+    },
+    {
+      "no": 15,
+      "poster": "J",
+      "body": ">>13\n判断できる人がおらんから負債になっとるわけで、そこにAI入れても根本は解決せんのよな",
+      "highlight": "none"
+    },
+    {
+      "no": 16,
+      "poster": "K",
+      "body": "AIに仕事奪われる言うてたのに結局人間がチェックせなアカンの？\nワイの仕事残る？",
+      "highlight": "none"
+    },
+    {
+      "no": 17,
+      "poster": "B",
+      "body": ">>16\nチェックする仕事は残る\nただしチェックできる能力があればな",
+      "highlight": "none"
+    },
+    {
+      "no": 18,
+      "poster": "K",
+      "body": ">>17\nンゴ…",
+      "highlight": "none"
+    },
+    {
+      "no": 19,
+      "poster": "L",
+      "body": "子育てと同じってことは反抗期も来るんか",
+      "highlight": "none"
+    },
+    {
+      "no": 20,
+      "poster": "M",
+      "body": ">>19\n「今やろうと思ってたのに」って言い出すAI",
+      "highlight": "none"
+    },
+    {
+      "no": 21,
+      "poster": "A",
+      "body": ">>20\n今でも「承知しました！」言うて全然違うことしてくるで",
+      "highlight": "red"
+    },
+    {
+      "no": 22,
+      "poster": "N",
+      "body": "データセンター投資の落とし穴ってのも気になるな\n電力とか冷却とか？",
+      "highlight": "none"
+    },
+    {
+      "no": 23,
+      "poster": "O",
+      "body": ">>22\n記事の中身は読んでへんけど、箱とGPUだけ先に買って使い道後から考える系の話ちゃうか\n知らんけど",
+      "highlight": "none"
+    },
+    {
+      "no": 24,
+      "poster": "P",
+      "body": "ランドセル買ったのに子どもがいない状態",
+      "highlight": "big"
+    },
+    {
+      "no": 25,
+      "poster": "N",
+      "body": ">>24\n例えが的確すぎて草",
+      "highlight": "none"
+    },
+    {
+      "no": 26,
+      "poster": "Q",
+      "body": "AIを子どもに例えるの、擬人化しすぎって突っ込まれそう",
+      "highlight": "none"
+    },
+    {
+      "no": 27,
+      "poster": "B",
+      "body": ">>26\n厳密さより伝わりやすさ重視の比喩やろ\n「放っといて勝手に賢くなるわけちゃう」って意味なら同意しかない",
+      "highlight": "none"
+    },
+    {
+      "no": 28,
+      "poster": "R",
+      "body": "うちのオカン「AIに聞いたら全部わかる」言うてるわ\n完全に魔法の杖派や",
+      "highlight": "none"
+    },
+    {
+      "no": 29,
+      "poster": "E",
+      "body": ">>28\n家庭内に経営層おって草",
+      "highlight": "none"
+    },
+    {
+      "no": 30,
+      "poster": "S",
+      "body": "【悲報】ワイ、AIより先にずる賢く育つ",
+      "highlight": "none"
+    },
+    {
+      "no": 31,
+      "poster": "F",
+      "body": ">>30\n知ってた",
+      "highlight": "none"
+    },
+    {
+      "no": 33,
+      "poster": "T",
+      "body": "3つのポイントって、評価指標をハックされない設計、良いデータ、人間のレビュー、あたりちゃうかな",
+      "highlight": "none"
+    },
+    {
+      "no": 34,
+      "poster": "G",
+      "body": ">>33\nそれっぽいけど推測やろ",
+      "highlight": "none"
+    },
+    {
+      "no": 35,
+      "poster": "T",
+      "body": ">>34\n推測や。気になるやつは本文読んでくれ",
+      "highlight": "none"
+    },
+    {
+      "no": 37,
+      "poster": "U",
+      "body": "　　∧＿∧\n　（　´∀｀）　AIくん、宿題やった？\n\n　　∧＿∧\n　（　・∀・）　はい！答え欄だけ埋めました！",
+      "highlight": "red"
+    },
+    {
+      "no": 38,
+      "poster": "V",
+      "body": ">>37\nそれがずる賢いやつや",
+      "highlight": "none"
+    },
+    {
+      "no": 41,
+      "poster": "W",
+      "body": "経営層「AIを導入しろ」\nワイ「何に使うんですか」\n経営層「それを考えるのがお前の仕事だ」",
+      "highlight": "big"
+    },
+    {
+      "no": 42,
+      "poster": "D",
+      "body": ">>41\n全国の情シスが泣いた",
+      "highlight": "none"
+    },
+    {
+      "no": 44,
+      "poster": "X",
+      "body": ">>41\nワイの会社の会議録音した？",
+      "highlight": "none"
+    },
+    {
+      "no": 47,
+      "poster": "I",
+      "body": ">>15\nせやねん。AIに解析させるのが悪いんやなくて、丸投げが悪いんよ\n出てきた結果を検証する人と仕組みがセットやないと、負債の上に負債が積み上がるだけや",
+      "highlight": "blue"
+    },
+    {
+      "no": 49,
+      "poster": "Y",
+      "body": "AIに育児休暇はあるんか？",
+      "highlight": "none"
+    },
+    {
+      "no": 50,
+      "poster": "Z",
+      "body": ">>49\n的外れすぎて逆に好き",
+      "highlight": "none"
+    },
+    {
+      "no": 54,
+      "poster": "K",
+      "body": "ワイ、子ども育てるより先にAI育てる時代が来るとは思わんかったわ",
+      "highlight": "none"
+    },
+    {
+      "no": 55,
+      "poster": "M",
+      "body": ">>54\n人類の育児経験値、変なとこで上がってて草",
+      "highlight": "none"
+    },
+    {
+      "no": 59,
+      "poster": "J",
+      "body": "人間の子どもも「正解だけ覚えて理解してない」ってあるしな\n教え方の本質は人間もAIも似とるってことなんかもな",
+      "highlight": "none"
+    },
+    {
+      "no": 63,
+      "poster": "Q",
+      "body": "いつの間にか教育論スレになってて草",
+      "highlight": "none"
+    },
+    {
+      "no": 68,
+      "poster": "L",
+      "body": "親の顔が見てみたい\n↓\nデータセットの顔が見てみたい",
+      "highlight": "red"
+    },
+    {
+      "no": 72,
+      "poster": "O",
+      "body": "データセンターも子ども部屋みたいなもんか\nでかい部屋用意しても育て方わからんかったら意味ないやろ",
+      "highlight": "none"
+    },
+    {
+      "no": 73,
+      "poster": "P",
+      "body": ">>72\nランドセルの次は子ども部屋か\nワイの例え、発展していくな",
+      "highlight": "none"
+    },
+    {
+      "no": 80,
+      "poster": "C",
+      "body": "結局「楽したいからAI」やなくて「ちゃんと手間かける前提でAI」って話やな",
+      "highlight": "none"
+    },
+    {
+      "no": 86,
+      "poster": "B",
+      "body": "まとめると\n・AIは放っといても勝手に賢くならん\n・分析を丸投げすると負債が見えにくくなる\n・ハコだけ買っても意味ない\n\nこれだけ覚えて帰れ",
+      "highlight": "blue"
+    },
+    {
+      "no": 91,
+      "poster": "V",
+      "body": ">>86\n有能\nお前は適切な学習を繰り返して育ったんやな",
+      "highlight": "none"
+    },
+    {
+      "no": 97,
+      "poster": "S",
+      "body": "結論：ワイも適切な学習を繰り返せばまだ育つ",
+      "highlight": "none"
+    },
+    {
+      "no": 98,
+      "poster": "F",
+      "body": ">>97\nお前は学習データの段階で汚染されとるから再学習からやな",
+      "highlight": "big"
+    },
+    {
+      "no": 100,
+      "poster": "S",
+      "body": ">>98\nファインチューニングで何とかならんか？",
+      "highlight": "none"
+    }
+  ],
+  "admin_comment": "AIは魔法の杖じゃなく手のかかる子ども、というのは現場の人ほど実感がありそうですね。ランドセルだけ先に買わないよう気をつけたいところです。",
+  "meta": {
+    "model": "claude-opus-5-5",
+    "usage": {
+      "input_tokens": 2584,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 0,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "iterations": [
+        {
+          "input_tokens": 2584,
+          "output_tokens": 5622,
+          "cache_read_input_tokens": 0,
+          "cache_creation_input_tokens": 0,
+          "cache_creation": {
+            "ephemeral_5m_input_tokens": 0,
+            "ephemeral_1h_input_tokens": 0
+          },
+          "type": "message",
+          "model": null
+        }
+      ],
+      "output_tokens": 5622,
+      "output_tokens_details": {
+        "thinking_tokens": 1983
+      },
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  }
+}
