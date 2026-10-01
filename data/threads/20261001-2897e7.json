@@ -1,0 +1,428 @@
+{
+  "id": "20261001-2897e7",
+  "createdAt": "2026-10-01T01:12:03.306Z",
+  "news": {
+    "title": "Autodesk、FusionなどのAI機能を発表 設計作業の自動化や設計資産の再利用を支援",
+    "url": "https://monoist.itmedia.co.jp/mn/articles/2610/01/news015.html",
+    "summary": "Autodeskは「Autodesk University 2026（AU 2026）」において、「Fusion」「Inventor」「Vault」およびPLMに関する新たなAI機能や取り組みを発表した。部品の編集や組み立て、製造工程の自動化に加え、製品情報の連携や既存の設計資産の再利用を支援する。",
+    "source": "ITmedia AI＋",
+    "publishedAt": "2026-10-01T00:00:00.000Z"
+  },
+  "thread_title": "【速報】Autodesk、FusionやInventorにAI機能 部品編集・組み立て・製造工程を自動化へ",
+  "matome_title": "【朗報？】AutodeskのAIが「過去図面の墓場」を宝の山に変えるかもしれない件www 設計屋さん震える",
+  "category": "速報",
+  "tags": [
+    "Autodesk",
+    "Fusion",
+    "Inventor",
+    "CAD"
+  ],
+  "intro": "Autodesk University 2026でFusion・Inventor・Vault・PLMの新AI機能が発表されました。設計屋さんたちの悲喜こもごもが詰まったスレをどうぞ。",
+  "posts": [
+    {
+      "no": 1,
+      "poster": "OP",
+      "body": "Autodeskが「Autodesk University 2026」で「Fusion」「Inventor」「Vault」およびPLMの新AI機能を発表\n・部品の編集や組み立て、製造工程の自動化\n・製品情報の連携\n・既存の設計資産の再利用を支援\n\n機械設計屋のワイ、震える",
+      "highlight": "none"
+    },
+    {
+      "no": 2,
+      "poster": "A",
+      "body": "CADオペ終了のお知らせ",
+      "highlight": "none"
+    },
+    {
+      "no": 3,
+      "poster": "B",
+      "body": "Vaultにも来るんか\n社内サーバーに眠ってる過去図面の墓場が宝の山になるんか？",
+      "highlight": "none"
+    },
+    {
+      "no": 4,
+      "poster": "C",
+      "body": ">>2\n2D→3Dの時もそれ言われてたけど結局みんな生きとるやろ",
+      "highlight": "none"
+    },
+    {
+      "no": 5,
+      "poster": "D",
+      "body": "Fusionって個人でも触れるやつやっけ？",
+      "highlight": "none"
+    },
+    {
+      "no": 6,
+      "poster": "E",
+      "body": ">>5\nせや。趣味の3Dプリンタ勢にも使われとる",
+      "highlight": "none"
+    },
+    {
+      "no": 7,
+      "poster": "F",
+      "body": "組み立ての自動化って拘束を勝手に付けてくれるってこと？\nそれならガチで助かるんやが",
+      "highlight": "none"
+    },
+    {
+      "no": 8,
+      "poster": "G",
+      "body": ">>7\n合致拘束地獄から解放されるならサブスク値上げも許すわ",
+      "highlight": "none"
+    },
+    {
+      "no": 9,
+      "poster": "H",
+      "body": ">>8\n許すな",
+      "highlight": "red"
+    },
+    {
+      "no": 10,
+      "poster": "I",
+      "body": "ワイは「既存の設計資産の再利用」が一番デカいと思う\n社内に似たような部品が山ほどあるとか普通やし",
+      "highlight": "none"
+    },
+    {
+      "no": 11,
+      "poster": "J",
+      "body": ">>10\nわかる\n寸法0.5mmしか違わんブラケットが品番だけ違って無限にある",
+      "highlight": "none"
+    },
+    {
+      "no": 12,
+      "poster": "K",
+      "body": ">>11\nそれ誰かが「既存品探すのめんどいから新規で描いたろ」した結果やで",
+      "highlight": "none"
+    },
+    {
+      "no": 13,
+      "poster": "J",
+      "body": ">>12\nワイや",
+      "highlight": "none"
+    },
+    {
+      "no": 14,
+      "poster": "L",
+      "body": ">>13\n犯人おって草",
+      "highlight": "none"
+    },
+    {
+      "no": 15,
+      "poster": "A",
+      "body": "図面描いてるだけのワイ、来年何してるんやろ",
+      "highlight": "none"
+    },
+    {
+      "no": 16,
+      "poster": "M",
+      "body": ">>15\nAIが描いた図面の検図",
+      "highlight": "none"
+    },
+    {
+      "no": 17,
+      "poster": "N",
+      "body": ">>16\n検図地獄が加速するだけで草",
+      "highlight": "none"
+    },
+    {
+      "no": 18,
+      "poster": "O",
+      "body": "結局AIの出したモデルを人間が全部チェックするんやろ？\n事故ったら責任誰が取るんや",
+      "highlight": "none"
+    },
+    {
+      "no": 19,
+      "poster": "C",
+      "body": ">>18\nそらハンコ押した人間よ",
+      "highlight": "none"
+    },
+    {
+      "no": 21,
+      "poster": "P",
+      "body": "ワイ「ここに穴開けといて」\nAI「何個ですか？」\nワイ「いい感じに」\nAI「軽量化のため1万個開けました」",
+      "highlight": "big"
+    },
+    {
+      "no": 22,
+      "poster": "Q",
+      "body": ">>21\nパンチングメタルで草",
+      "highlight": "none"
+    },
+    {
+      "no": 23,
+      "poster": "R",
+      "body": ">>21\n強度計算したら紙より弱くて草生える",
+      "highlight": "none"
+    },
+    {
+      "no": 25,
+      "poster": "S",
+      "body": "ジェネレーティブデザインとはまた別の話なん？",
+      "highlight": "none"
+    },
+    {
+      "no": 26,
+      "poster": "T",
+      "body": ">>25\n概要見る限り「部品の編集」「組み立て」「製造工程の自動化」って書いてあるから、形状生成よりもっと日々の実務作業の効率化寄りっぽいな\n具体的に何がどこまでできるかは記事の概要だけじゃまだわからん",
+      "highlight": "blue"
+    },
+    {
+      "no": 28,
+      "poster": "U",
+      "body": "製造工程の自動化ってCAMのパス生成とかやろか",
+      "highlight": "none"
+    },
+    {
+      "no": 29,
+      "poster": "V",
+      "body": ">>28\n推測やけどそのへん含まれてたら嬉しいな\n加工パス考えるのにガチで時間溶けとるし",
+      "highlight": "none"
+    },
+    {
+      "no": 31,
+      "poster": "W",
+      "body": "PLMとの製品情報連携が地味に効くと思う\n設計変更が製造に伝わってないとかしょっちゅうやし",
+      "highlight": "none"
+    },
+    {
+      "no": 32,
+      "poster": "J",
+      "body": ">>31\n「最新版どれ？」\n「ブラケット_最新_最終_修正2.ipt です」",
+      "highlight": "none"
+    },
+    {
+      "no": 33,
+      "poster": "X",
+      "body": ">>32\nやめろ心が痛い",
+      "highlight": "none"
+    },
+    {
+      "no": 34,
+      "poster": "Y",
+      "body": "ブラケット_最新_最終_本当に最終_v3_これは使うな.dwg",
+      "highlight": "red"
+    },
+    {
+      "no": 35,
+      "poster": "Z",
+      "body": ">>34\n「使うな」が製造に流れて量産されるまでがセット",
+      "highlight": "none"
+    },
+    {
+      "no": 38,
+      "poster": "AA",
+      "body": "とはいえ中小の町工場はまだ2DとFAXなんだよなぁ",
+      "highlight": "none"
+    },
+    {
+      "no": 39,
+      "poster": "AB",
+      "body": ">>38\nFAXで図面来るのはガチ\nしかも寸法がかすれて読めん",
+      "highlight": "none"
+    },
+    {
+      "no": 40,
+      "poster": "AC",
+      "body": "AIさん、FAXの図面読み取って3D化してくれや",
+      "highlight": "none"
+    },
+    {
+      "no": 41,
+      "poster": "A",
+      "body": ">>40\nそれできたら日本のものづくり救われる",
+      "highlight": "none"
+    },
+    {
+      "no": 45,
+      "poster": "AD",
+      "body": "どうせデモだけ綺麗で実務じゃ使えんやつやろ\n毎年こういう発表見とるわ",
+      "highlight": "none"
+    },
+    {
+      "no": 47,
+      "poster": "AE",
+      "body": ">>45\n最初はそうやろけど、社内データ食わせて再利用できるなら後から化けると思うで\n設計資産ってそういうもんやし",
+      "highlight": "none"
+    },
+    {
+      "no": 52,
+      "poster": "AF",
+      "body": "Inventor使いのワイ、Fusionばっか優遇されんか心配",
+      "highlight": "none"
+    },
+    {
+      "no": 53,
+      "poster": "AG",
+      "body": ">>52\n今回の発表、Inventorも名前入っとるやろ\nちゃんと読め",
+      "highlight": "none"
+    },
+    {
+      "no": 54,
+      "poster": "AF",
+      "body": ">>53\nすまん、スレタイしか読んでなかった",
+      "highlight": "none"
+    },
+    {
+      "no": 55,
+      "poster": "AH",
+      "body": ">>54\nAIより先に人間の読解力を自動化してほしい",
+      "highlight": "none"
+    },
+    {
+      "no": 63,
+      "poster": "AI",
+      "body": "　　 ∧＿∧\n　　（　´・ω・）　拘束、付けときますね\n　　（　つ旦O\n　　と＿）＿）",
+      "highlight": "none"
+    },
+    {
+      "no": 64,
+      "poster": "AJ",
+      "body": ">>63\n過拘束でエラー出るやつやん",
+      "highlight": "none"
+    },
+    {
+      "no": 78,
+      "poster": "AK",
+      "body": "AIって絵とか文章の話ばっかやと思ってたけど、こういう地味な業務ソフトに入ってくるのが一番効いてくる気がするわ",
+      "highlight": "none"
+    },
+    {
+      "no": 79,
+      "poster": "AL",
+      "body": ">>78\nそれな\n派手さはないけど毎日の作業が10分ずつ減るのが一番ありがたい",
+      "highlight": "none"
+    },
+    {
+      "no": 95,
+      "poster": "AM",
+      "body": "Fusionって車の名前ちゃうんか",
+      "highlight": "none"
+    },
+    {
+      "no": 96,
+      "poster": "AN",
+      "body": ">>95\nそれも車の名前やけどここではCADや",
+      "highlight": "none"
+    },
+    {
+      "no": 97,
+      "poster": "AM",
+      "body": ">>96\nじゃあ車もAIで組み立ててくれるんか",
+      "highlight": "none"
+    },
+    {
+      "no": 98,
+      "poster": "AN",
+      "body": ">>97\n（ある意味間違ってないのが腹立つ）",
+      "highlight": "none"
+    },
+    {
+      "no": 124,
+      "poster": "AO",
+      "body": "まとめると\n・部品編集、組み立て、製造工程の自動化\n・PLMで製品情報を連携\n・既存の設計資産を再利用\n単発の時短機能というより、設計→管理→製造の流れ全体にAI入れていく方向って感じやな\nどこまで実用になるかは使ってみてから",
+      "highlight": "blue"
+    },
+    {
+      "no": 125,
+      "poster": "AP",
+      "body": ">>124\n三行以上あるけど有能",
+      "highlight": "none"
+    },
+    {
+      "no": 167,
+      "poster": "AQ",
+      "body": "ワイ購買担当\n設計資産の再利用が進んで部品点数減るなら拝む",
+      "highlight": "none"
+    },
+    {
+      "no": 168,
+      "poster": "AR",
+      "body": ">>167\n共通化で発注ロットまとまるのはデカいよな",
+      "highlight": "none"
+    },
+    {
+      "no": 210,
+      "poster": "AS",
+      "body": "新人に教えるのめんどいから、AIが先輩の代わりにノウハウ教えてくれる未来ありそう",
+      "highlight": "none"
+    },
+    {
+      "no": 211,
+      "poster": "AT",
+      "body": ">>210\nAI「この面取りはC0.5が社内標準です。理由は20年前に部長が決めたからです」",
+      "highlight": "none"
+    },
+    {
+      "no": 212,
+      "poster": "AU",
+      "body": ">>211\n理由まで再利用すな",
+      "highlight": "red"
+    },
+    {
+      "no": 289,
+      "poster": "AV",
+      "body": "結局ワイら仕事なくなるんか？なくならんのか？はっきりしてくれ",
+      "highlight": "none"
+    },
+    {
+      "no": 290,
+      "poster": "AE",
+      "body": ">>289\n「何を作るか決める人」は残る\n「同じ部品を何回も描く人」はキツくなる\nそういう話やと思うで",
+      "highlight": "none"
+    },
+    {
+      "no": 291,
+      "poster": "J",
+      "body": ">>290\nワイ後者で草",
+      "highlight": "none"
+    },
+    {
+      "no": 402,
+      "poster": "AW",
+      "body": "試しに妄想してみた\nワイ「新しいブラケット設計したい」\nAI「社内に類似部品が見つかりました」\nワイ「どれどれ」\nAI「全部あなたが描いた寸法違いです（47件）」",
+      "highlight": "big"
+    },
+    {
+      "no": 403,
+      "poster": "J",
+      "body": ">>402\nやめろおおおおおお",
+      "highlight": "none"
+    },
+    {
+      "no": 404,
+      "poster": "L",
+      "body": ">>403\n設計資産の再利用（自分の黒歴史の発掘）",
+      "highlight": "red"
+    }
+  ],
+  "admin_comment": "派手さはないけど、現場の「最新_最終_v3」問題が少しでも減るなら設計屋さんにとっては大朗報かも。ただし自分の過去図面と向き合う覚悟は必要そうですね。",
+  "meta": {
+    "model": "claude-opus-5-5",
+    "usage": {
+      "input_tokens": 2586,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 0,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "iterations": [
+        {
+          "input_tokens": 2586,
+          "output_tokens": 5424,
+          "cache_read_input_tokens": 0,
+          "cache_creation_input_tokens": 0,
+          "cache_creation": {
+            "ephemeral_5m_input_tokens": 0,
+            "ephemeral_1h_input_tokens": 0
+          },
+          "type": "message",
+          "model": null
+        }
+      ],
+      "output_tokens": 5424,
+      "output_tokens_details": {
+        "thinking_tokens": 1481
+      },
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  }
+}

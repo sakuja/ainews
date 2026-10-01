@@ -1,0 +1,344 @@
+{
+  "id": "20261001-9433e3",
+  "createdAt": "2026-10-01T01:13:14.545Z",
+  "news": {
+    "title": "約3000万円もかかる無響室を小型マイクとBluetoothスピーカーで代替",
+    "url": "https://gigazine.net/news/20261001-bluetooth-speaker-sound-chamber/",
+    "summary": "PCハードウェアや周辺機器の検証を行うLTT Labsが、通常は高価な無響室と多数のスピーカーを使って測定する人間の耳の音響特性を、Bluetoothスピーカーと小型マイク、ニューラルネットワークを組み合わせて低コストで推定する手法を開発しました。1人につき10方向から音を測定し、残りの方向をAIで推定することで、従来より短時間かつ簡単に個人ごとの耳の特性を調べられる可能性を示しています。 続きを読む...",
+    "source": "GIGAZINE",
+    "publishedAt": "2026-09-30T23:50:00.000Z"
+  },
+  "thread_title": "【朗報】約3000万円の無響室、Bluetoothスピーカーと小型マイクとAIで代替できるかもしれない",
+  "matome_title": "【朗報】3000万円の無響室さん、Bluetoothスピーカーと小型マイクとAIに仕事を奪われそうになるｗｗｗｗ",
+  "category": "朗報",
+  "tags": [
+    "LTT Labs",
+    "無響室",
+    "ニューラルネットワーク",
+    "耳の音響特性"
+  ],
+  "intro": "PCハードの検証でおなじみのLTT Labsが、高価な無響室なしで個人の耳の音響特性を推定する手法を開発したそうです。ゲーマーから音響ガチ勢、そして無友室の住人まで集まったスレをどうぞ。",
+  "posts": [
+    {
+      "no": 1,
+      "poster": "OP",
+      "body": "PCハードの検証やってるLTT Labsが、人間の耳の音響特性を安く推定する手法を開発\n\n・普通は約3000万円もかかる無響室＋大量のスピーカーで測る\n・Bluetoothスピーカーと小型マイクとニューラルネットを組み合わせる\n・1人につき10方向だけ測って、残りの方向はAIで推定\n・従来より短時間かつ簡単に個人ごとの耳の特性を調べられる可能性\n\nワイの耳もついに測ってもらえる時代か？",
+      "highlight": "none"
+    },
+    {
+      "no": 2,
+      "poster": "A",
+      "body": "3000万の部屋をBluetoothスピーカーで代替は草",
+      "highlight": "none"
+    },
+    {
+      "no": 3,
+      "poster": "B",
+      "body": "耳の音響特性ってなんや\n耳垢の量か？",
+      "highlight": "none"
+    },
+    {
+      "no": 4,
+      "poster": "C",
+      "body": ">>3\n一般的にはHRTF（頭部伝達関数）って呼ばれるやつやな\n音が頭とか耳たぶで反射・回折して、来る方向ごとに聞こえ方が変わる\nそれを個人ごとに測ると、ヘッドホンでも前後上下の定位が自然になる…と言われとる",
+      "highlight": "blue"
+    },
+    {
+      "no": 5,
+      "poster": "B",
+      "body": ">>4\nなるほどわからん",
+      "highlight": "none"
+    },
+    {
+      "no": 7,
+      "poster": "D",
+      "body": "LTTってあのYouTubeでPCいじってるとこ？",
+      "highlight": "none"
+    },
+    {
+      "no": 8,
+      "poster": "E",
+      "body": ">>7\nLabsは検証専門の部門やぞ\n動画のノリとは別でガチで測っとる",
+      "highlight": "none"
+    },
+    {
+      "no": 9,
+      "poster": "F",
+      "body": "10方向から残り全部推定って、それ本当に精度出るんか？\nAIで推定って言っときゃなんでも許される風潮",
+      "highlight": "none"
+    },
+    {
+      "no": 12,
+      "poster": "C",
+      "body": ">>9\n耳の特性は個人差あるけど、人間の頭の形には共通の傾向もあるからな\n少ない実測点から補間するって発想自体は理にかなってる\nどこまで精度出るかは元記事のデータ見んと何とも言えんが",
+      "highlight": "none"
+    },
+    {
+      "no": 14,
+      "poster": "G",
+      "body": "無響室ってあの音が一切反響しない部屋やろ？\n入ると自分の心臓の音が聞こえるとかいう",
+      "highlight": "none"
+    },
+    {
+      "no": 15,
+      "poster": "H",
+      "body": ">>14\nワイの部屋も無響室やぞ\n誰も話しかけてこないから",
+      "highlight": "none"
+    },
+    {
+      "no": 16,
+      "poster": "I",
+      "body": ">>15\nそれは無友室や",
+      "highlight": "red"
+    },
+    {
+      "no": 18,
+      "poster": "J",
+      "body": "無響室作ってる業者さん息してる？",
+      "highlight": "none"
+    },
+    {
+      "no": 21,
+      "poster": "K",
+      "body": ">>18\n研究とか製品開発の厳密な測定は普通に残るやろ\nむしろ個人向けの裾野が広がるだけちゃうか",
+      "highlight": "none"
+    },
+    {
+      "no": 23,
+      "poster": "L",
+      "body": "AIで推定ってことは、ワイの耳もAIに学習されるんか？\n怖いンゴ",
+      "highlight": "none"
+    },
+    {
+      "no": 25,
+      "poster": "M",
+      "body": ">>23\nお前の耳のデータなんか誰も欲しがらんから安心しろ",
+      "highlight": "none"
+    },
+    {
+      "no": 27,
+      "poster": "A",
+      "body": "Bluetoothスピーカーって遅延あるけど測定に使って大丈夫なんか",
+      "highlight": "none"
+    },
+    {
+      "no": 30,
+      "poster": "C",
+      "body": ">>27\nそこをどう処理してるかは概要だけじゃわからんな\n遅延が一定なら補正はできそうやけど、ワイの推測でしかない\n続きを読め案件",
+      "highlight": "none"
+    },
+    {
+      "no": 33,
+      "poster": "N",
+      "body": "無響室（3000万円）＞＞＞＞越えられない壁＞＞＞＞Bluetoothスピーカー\n\nこれをAIで殴って埋めにいくの好き",
+      "highlight": "none"
+    },
+    {
+      "no": 36,
+      "poster": "F",
+      "body": "「可能性を示しています」やからな\n実用化確定みたいに騒ぐのはまだ早いで",
+      "highlight": "none"
+    },
+    {
+      "no": 41,
+      "poster": "O",
+      "body": "ゲーマー的には足音の方向がわかるようになるならガチで欲しい",
+      "highlight": "none"
+    },
+    {
+      "no": 44,
+      "poster": "P",
+      "body": ">>41\nFPSで背後の足音が前から聞こえる問題解決するんか？\nワイいつもそれで裏取られて死んどる",
+      "highlight": "none"
+    },
+    {
+      "no": 48,
+      "poster": "C",
+      "body": ">>44\n前後の取り違えは汎用のHRTFでよく言われる弱点やから、個人化で改善される期待はあるな\nお前が裏取られるのは単に立ち回りの問題かもしれんが",
+      "highlight": "none"
+    },
+    {
+      "no": 52,
+      "poster": "Q",
+      "body": "耳の写真撮って推定するやつとは違うんか？",
+      "highlight": "none"
+    },
+    {
+      "no": 55,
+      "poster": "C",
+      "body": ">>52\n画像から推定する系もあるな\nこっちは実際に10方向ぶん音を測ってるから、実測とAI推定のハイブリッドって感じやと思う",
+      "highlight": "none"
+    },
+    {
+      "no": 60,
+      "poster": "H",
+      "body": "ワイ耳の形ちょっと変わってるから、汎用より個人で測ってほしいわ",
+      "highlight": "none"
+    },
+    {
+      "no": 66,
+      "poster": "R",
+      "body": "　 ∧＿∧\n　（　´・ω・）　10方向から音が来るお\n　（　つ🔊⊂）\n\n　 ∧＿∧\n　（　´・ω・）　残りはAIが考えてくれるお\n　（　つ🧠⊂）",
+      "highlight": "none"
+    },
+    {
+      "no": 71,
+      "poster": "S",
+      "body": "そもそも無響室ってなんでそんなに高いん？\n壁にスポンジ貼るだけちゃうんか",
+      "highlight": "none"
+    },
+    {
+      "no": 77,
+      "poster": "C",
+      "body": ">>71\n壁・床・天井一面の吸音材、外の音と振動の遮断、床すら浮かせる構造…\nガチでやると部屋というより建物の工事になるからな",
+      "highlight": "none"
+    },
+    {
+      "no": 83,
+      "poster": "J",
+      "body": "ワイ音響関係、AIに仕事奪われる5秒前",
+      "highlight": "none"
+    },
+    {
+      "no": 90,
+      "poster": "T",
+      "body": ">>83\n測定が手軽になったら、それ使って何するかの仕事が増えるパターンもあるやろ\n悲観するのはまだ早い",
+      "highlight": "none"
+    },
+    {
+      "no": 98,
+      "poster": "U",
+      "body": "ニューラルネットってほんま何でも推定するな\nそのうち味覚も10口食べたら残りAIで推定しそう",
+      "highlight": "none"
+    },
+    {
+      "no": 104,
+      "poster": "V",
+      "body": ">>98\n舌の伝達関数とかいう新概念やめろ",
+      "highlight": "red"
+    },
+    {
+      "no": 112,
+      "poster": "G",
+      "body": "1人10方向って何分くらいかかるんやろ",
+      "highlight": "none"
+    },
+    {
+      "no": 120,
+      "poster": "F",
+      "body": ">>112\n概要には「従来より短時間」としか書いてないからわからん\nソースにない数字を勝手に言うのはやめとこな",
+      "highlight": "none"
+    },
+    {
+      "no": 131,
+      "poster": "W",
+      "body": "ヘッドホンメーカーとかがこういう手法取り込んだら熱いな",
+      "highlight": "none"
+    },
+    {
+      "no": 140,
+      "poster": "X",
+      "body": "個人の耳に合わせる系のイヤホンって一部もうあるよな？",
+      "highlight": "none"
+    },
+    {
+      "no": 152,
+      "poster": "C",
+      "body": ">>140\nカメラで耳撮る系とかはあるな\n安い機材で実測ベースの方法が広まれば選択肢は増えるやろ",
+      "highlight": "none"
+    },
+    {
+      "no": 163,
+      "poster": "H",
+      "body": "とりあえずワイも家のBluetoothスピーカー持って部屋の真ん中で回ってみるわ",
+      "highlight": "none"
+    },
+    {
+      "no": 175,
+      "poster": "I",
+      "body": ">>163\n測定中にオカンが入ってきたら説明に困るやつ",
+      "highlight": "none"
+    },
+    {
+      "no": 188,
+      "poster": "Y",
+      "body": "3000万円浮いたらお前ら何買う？",
+      "highlight": "none"
+    },
+    {
+      "no": 201,
+      "poster": "N",
+      "body": ">>188\n無響室",
+      "highlight": "none"
+    },
+    {
+      "no": 215,
+      "poster": "Z",
+      "body": ">>201\n本末転倒で草",
+      "highlight": "red"
+    },
+    {
+      "no": 230,
+      "poster": "F",
+      "body": "まあ実測とAI推定がどれくらいズレるか、そのデータ見てから判断やな\n発想は面白いと思う",
+      "highlight": "none"
+    },
+    {
+      "no": 248,
+      "poster": "K",
+      "body": "低コストで個人化できるならVRとかゲームの立体音響にも効きそうやな",
+      "highlight": "none"
+    },
+    {
+      "no": 262,
+      "poster": "OP",
+      "body": "まとめると\n「高い部屋の仕事の一部を、安いガジェット＋AIで肩代わりできるかも」\nってことやな\nまだ可能性の段階やけど夢はある",
+      "highlight": "blue"
+    },
+    {
+      "no": 280,
+      "poster": "H",
+      "body": "ってことは、ワイの部屋（無友室）も3000万円の価値あったんか",
+      "highlight": "none"
+    },
+    {
+      "no": 301,
+      "poster": "I",
+      "body": ">>280\nそっちは0円や\nむしろ友達が反響してくれる部屋を目指せ",
+      "highlight": "big"
+    }
+  ],
+  "admin_comment": "3000万円の部屋をBluetoothスピーカーとAIで置き換えようという発想、ロマンがありますね。ゲームの足音が正しく聞こえる日が来ても、管理人の部屋は相変わらず無友室のままです。",
+  "meta": {
+    "model": "claude-opus-5-5",
+    "usage": {
+      "input_tokens": 2646,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 0,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "iterations": [
+        {
+          "input_tokens": 2646,
+          "output_tokens": 6212,
+          "cache_read_input_tokens": 0,
+          "cache_creation_input_tokens": 0,
+          "cache_creation": {
+            "ephemeral_5m_input_tokens": 0,
+            "ephemeral_1h_input_tokens": 0
+          },
+          "type": "message",
+          "model": null
+        }
+      ],
+      "output_tokens": 6212,
+      "output_tokens_details": {
+        "thinking_tokens": 2595
+      },
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  }
+}
