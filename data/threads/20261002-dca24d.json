@@ -1,0 +1,380 @@
+{
+  "id": "20261002-dca24d",
+  "createdAt": "2026-10-02T01:31:34.879Z",
+  "news": {
+    "title": "SIE、PS5向けAI採用画質向上技術「QSSR」発表 AMDと共同開発、「Marvel's Wolverine」と「Ghost of Yōtei」が初対応",
+    "url": "https://www.itmedia.co.jp/news/article/2610/02/2000001946/",
+    "summary": "ソニー・インタラクティブエンタテインメントは、PS5向けのAIアップスケーリング技術「QSSR」を発表した。PS5 Pro向けのPSSRをAMDと共同で軽量化し、無印のPS5でもAIによる画質向上を実現する。「Marvel's Wolverine」などに先行導入され、今後全開発者へ提供を拡大する。",
+    "source": "ITmedia AI＋",
+    "publishedAt": "2026-10-01T23:45:52.000Z"
+  },
+  "thread_title": "【朗報】SIE、無印PS5向けAI画質向上技術「QSSR」発表 AMDと共同開発、ウルヴァリンとGhost of Yōteiが初対応",
+  "matome_title": "【朗報】無印PS5、ついにAIアップスケーリング対応へ！「QSSR」発表でPro勢ワイ、複雑な表情を浮かべるｗｗｗ",
+  "category": "朗報",
+  "tags": [
+    "PS5",
+    "QSSR",
+    "AMD",
+    "AIアップスケーリング"
+  ],
+  "intro": "PS5 Pro専用だったAI画質向上技術が、軽量化されて無印PS5にもやってくるそうです。無印勢は歓喜、Pro勢は複雑な心境の模様。",
+  "posts": [
+    {
+      "no": 1,
+      "poster": "OP",
+      "body": "SIE、PS5向けAIアップスケーリング技術「QSSR」を発表\n・PS5 Pro向けの「PSSR」をAMDと共同で軽量化\n・無印PS5でもAIによる画質向上を実現\n・「Marvel's Wolverine」「Ghost of Yōtei」に先行導入\n・今後は全開発者へ提供を拡大\n\n無印勢の時代来たな",
+      "highlight": "none"
+    },
+    {
+      "no": 2,
+      "poster": "A",
+      "body": "無印勢ワイ、大勝利",
+      "highlight": "none"
+    },
+    {
+      "no": 3,
+      "poster": "B",
+      "body": "Pro買ったワイの立場は…",
+      "highlight": "none"
+    },
+    {
+      "no": 4,
+      "poster": "C",
+      "body": ">>3\n今まで先行して使えてたんやからええやろ",
+      "highlight": "none"
+    },
+    {
+      "no": 5,
+      "poster": "D",
+      "body": "QSSRのQって何や",
+      "highlight": "none"
+    },
+    {
+      "no": 6,
+      "poster": "E",
+      "body": ">>5\nQuickとかQuarterとかちゃうか知らんけど",
+      "highlight": "none"
+    },
+    {
+      "no": 7,
+      "poster": "F",
+      "body": ">>5\nキュッと軽くしたSSRのQやぞ",
+      "highlight": "none"
+    },
+    {
+      "no": 8,
+      "poster": "G",
+      "body": ">>7\nやかましいわ",
+      "highlight": "none"
+    },
+    {
+      "no": 9,
+      "poster": "H",
+      "body": "PSSRってPro前提のやつやったよな。それを無印で回せるように軽量化ってことは、Pro版と比べたら品質か負荷のどっかで割り切ってるんやろな\nまあこのへんは推測やから実機の比較待ちや",
+      "highlight": "blue"
+    },
+    {
+      "no": 10,
+      "poster": "I",
+      "body": "AIアップスケールって結局ボヤけたりチラついたりするんやろ？\nワイはネイティブ解像度至上主義や",
+      "highlight": "none"
+    },
+    {
+      "no": 11,
+      "poster": "H",
+      "body": ">>10\nそれは実物見んと何とも言えんな\nDF的な比較動画が出るまで評価保留が正解やと思う",
+      "highlight": "none"
+    },
+    {
+      "no": 12,
+      "poster": "J",
+      "body": "ワイ、ゲーム会社のグラフィッカー、AIに仕事奪われる未来が見える",
+      "highlight": "none"
+    },
+    {
+      "no": 13,
+      "poster": "K",
+      "body": ">>12\nアップスケーラーは解像度上げるだけで絵は描かんぞ",
+      "highlight": "none"
+    },
+    {
+      "no": 14,
+      "poster": "J",
+      "body": ">>13\n「低解像度で作ってAIで上げればええやん」って上司に言われたらどうするんや",
+      "highlight": "none"
+    },
+    {
+      "no": 15,
+      "poster": "K",
+      "body": ">>14\nそれでも元の絵は誰かが描かなアカンやろ\n安心して残業しろ",
+      "highlight": "none"
+    },
+    {
+      "no": 16,
+      "poster": "J",
+      "body": ">>15\n安心できる要素ゼロで草",
+      "highlight": "none"
+    },
+    {
+      "no": 18,
+      "poster": "L",
+      "body": "ウルヴァリンが初対応か\n爪がシャキーンってなるときの描写がAIで綺麗になるんやな",
+      "highlight": "none"
+    },
+    {
+      "no": 19,
+      "poster": "M",
+      "body": ">>18\n爪だけ4K、本体720p",
+      "highlight": "red"
+    },
+    {
+      "no": 20,
+      "poster": "G",
+      "body": ">>19\nアンバランスすぎるやろ",
+      "highlight": "none"
+    },
+    {
+      "no": 23,
+      "poster": "N",
+      "body": "Ghost of Yōteiも対応なのは嬉しいわ\nああいう風景が売りのゲームこそ画質大事やし",
+      "highlight": "none"
+    },
+    {
+      "no": 25,
+      "poster": "O",
+      "body": "AMDと共同開発ってことは、PC側のアップスケーラーにも何か還元あったりするんか？",
+      "highlight": "none"
+    },
+    {
+      "no": 27,
+      "poster": "H",
+      "body": ">>25\nニュースには書いてないから分からんけど、共同開発っていうくらいやし何らかの技術的な繋がりはあるんちゃうかな\nあくまで妄想な",
+      "highlight": "none"
+    },
+    {
+      "no": 29,
+      "poster": "P",
+      "body": "PS5ってまだ現役なんか？\nワイPS3で止まってるんやが",
+      "highlight": "none"
+    },
+    {
+      "no": 30,
+      "poster": "Q",
+      "body": ">>29\n浦島太郎おって草",
+      "highlight": "none"
+    },
+    {
+      "no": 31,
+      "poster": "F",
+      "body": ">>29\n今の基準やとPS3は化石やぞ",
+      "highlight": "none"
+    },
+    {
+      "no": 34,
+      "poster": "R",
+      "body": "個人的に一番デカいのは「全開発者に提供拡大」ってとこやな\n一部の大作だけで終わらんなら、中小タイトルでも恩恵ありそう",
+      "highlight": "blue"
+    },
+    {
+      "no": 36,
+      "poster": "S",
+      "body": ">>34\nそれな\n結局対応タイトル増えんと意味ないからな",
+      "highlight": "none"
+    },
+    {
+      "no": 38,
+      "poster": "B",
+      "body": "Pro勢ワイ、無印との差が縮まりそうで複雑な気持ち",
+      "highlight": "none"
+    },
+    {
+      "no": 40,
+      "poster": "S",
+      "body": ">>38\nProは素のパワーも上やし、PSSRのフル版もあるやろ\n差がゼロになるわけちゃうから安心しろ",
+      "highlight": "none"
+    },
+    {
+      "no": 41,
+      "poster": "F",
+      "body": "　　∧＿∧\n　（´・ω・｀）＜ Proの存在意義…\n　（　　　　）\n　　ｕ ｕ",
+      "highlight": "big"
+    },
+    {
+      "no": 45,
+      "poster": "I",
+      "body": "でもAIで画質上げるってなんかズルくね？\n本当の解像度じゃないやん",
+      "highlight": "none"
+    },
+    {
+      "no": 47,
+      "poster": "T",
+      "body": ">>45\n綺麗に見えればええんやで\nお前の見てる景色も脳が補完しとるんや",
+      "highlight": "none"
+    },
+    {
+      "no": 48,
+      "poster": "I",
+      "body": ">>47\n急に哲学ぶっ込んでくるのやめろ",
+      "highlight": "none"
+    },
+    {
+      "no": 52,
+      "poster": "U",
+      "body": "ソース元はITmediaか\n詳しい性能とか対応解像度はまだ出てないんか？",
+      "highlight": "none"
+    },
+    {
+      "no": 54,
+      "poster": "H",
+      "body": ">>52\n概要見る限りそこまでは書いてないな\n続報待ちや",
+      "highlight": "none"
+    },
+    {
+      "no": 60,
+      "poster": "V",
+      "body": "ワイの初期型PS5、まだまだ戦えるってことか\n長生きしてくれ",
+      "highlight": "none"
+    },
+    {
+      "no": 63,
+      "poster": "W",
+      "body": ">>60\nファンの音が「まだ働かせるんか」って言うとるぞ",
+      "highlight": "none"
+    },
+    {
+      "no": 67,
+      "poster": "X",
+      "body": "そのうちAIがゲームもプレイしてくれるようになるんやろな",
+      "highlight": "none"
+    },
+    {
+      "no": 69,
+      "poster": "G",
+      "body": ">>67\nそれもう観てるだけやん",
+      "highlight": "none"
+    },
+    {
+      "no": 70,
+      "poster": "X",
+      "body": ">>69\n実況動画と何が違うんや",
+      "highlight": "none"
+    },
+    {
+      "no": 81,
+      "poster": "J",
+      "body": "冷静に考えたらワイの描いたテクスチャがAIで綺麗に見えるなら、それはそれで得なのでは？",
+      "highlight": "none"
+    },
+    {
+      "no": 83,
+      "poster": "K",
+      "body": ">>81\n気づいたか\nAIは敵やなくて化粧品や",
+      "highlight": "red"
+    },
+    {
+      "no": 99,
+      "poster": "Y",
+      "body": "まとめると\n・PS5 Pro用のPSSRを軽量化した無印向け版がQSSR\n・AMDと共同開発\n・ウルヴァリンとGhost of Yōteiが先行対応\n・今後は全開発者に提供拡大\n・実際の画質は比較待ち\nこんなとこやな",
+      "highlight": "blue"
+    },
+    {
+      "no": 101,
+      "poster": "S",
+      "body": ">>99\n有能",
+      "highlight": "none"
+    },
+    {
+      "no": 120,
+      "poster": "M",
+      "body": "QSSRのQはQuality説も推しとくわ",
+      "highlight": "none"
+    },
+    {
+      "no": 122,
+      "poster": "F",
+      "body": ">>120\nいや「キュッ」や",
+      "highlight": "none"
+    },
+    {
+      "no": 123,
+      "poster": "G",
+      "body": ">>122\nまだ言うとるんか",
+      "highlight": "none"
+    },
+    {
+      "no": 150,
+      "poster": "B",
+      "body": "まあPro勢として言わせてもらうと、無印勢が幸せになるのは普通にええことやな\nゲーム全体のグラフィックが底上げされるなら歓迎や",
+      "highlight": "none"
+    },
+    {
+      "no": 152,
+      "poster": "C",
+      "body": ">>150\n器がでかい",
+      "highlight": "none"
+    },
+    {
+      "no": 188,
+      "poster": "P",
+      "body": "お前らの話聞いてたらPS5欲しくなってきたわ\nPS3から一気に飛ぶで",
+      "highlight": "none"
+    },
+    {
+      "no": 190,
+      "poster": "Q",
+      "body": ">>188\nProにするんか？",
+      "highlight": "none"
+    },
+    {
+      "no": 192,
+      "poster": "P",
+      "body": ">>190\nAIで綺麗になるなら無印でええやろ",
+      "highlight": "none"
+    },
+    {
+      "no": 193,
+      "poster": "B",
+      "body": ">>192\nワイの立場ァ！！",
+      "highlight": "big"
+    },
+    {
+      "no": 195,
+      "poster": "W",
+      "body": ">>193\nPro勢、最後まで報われなくて草",
+      "highlight": "red"
+    }
+  ],
+  "admin_comment": "無印でもAIの恩恵が受けられるのは嬉しいニュースですね。実際の画質がどれくらいなのか、続報と比較動画が待たれます。",
+  "meta": {
+    "model": "claude-opus-5-5",
+    "usage": {
+      "input_tokens": 2630,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 0,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "iterations": [
+        {
+          "input_tokens": 2630,
+          "output_tokens": 4869,
+          "cache_read_input_tokens": 0,
+          "cache_creation_input_tokens": 0,
+          "cache_creation": {
+            "ephemeral_5m_input_tokens": 0,
+            "ephemeral_1h_input_tokens": 0
+          },
+          "type": "message",
+          "model": null
+        }
+      ],
+      "output_tokens": 4869,
+      "output_tokens_details": {
+        "thinking_tokens": 1408
+      },
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  }
+}
